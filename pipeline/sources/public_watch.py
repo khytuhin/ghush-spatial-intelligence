@@ -26,7 +26,7 @@ MAX_CANDIDATES = 64
 EXPORT_RE = re.compile(
     r"(?P<url>(?:https?://[^\"'\s<>]+|/[^\"'\s<>]+)"
     r"(?:\.csv(?:\?[^\"'\s<>]*)?|\.json(?:\?[^\"'\s<>]*)?|"
-    r"/export(?:/[^\"'\s<>]*)?|/download(?:/[^\"'\s<>]*)?))",
+    r"/(?:export|download)(?=$|[/?#])(?:/[^\"'\s<>]*)?))",
     re.IGNORECASE,
 )
 
@@ -47,13 +47,14 @@ def _same_origin(root: str, candidate: str) -> bool:
     return urlsplit(root).netloc == urlsplit(candidate).netloc
 
 
+def _has_export_segment(path: str) -> bool:
+    segments = [segment for segment in path.lower().split("/") if segment]
+    return any(segment in {"export", "download"} for segment in segments)
+
+
 def _looks_like_candidate(url: str) -> bool:
     path = urlsplit(url).path.lower()
-    return (
-        path.endswith((".csv", ".json"))
-        or "/export" in path
-        or "/download" in path
-    )
+    return path.endswith((".csv", ".json")) or _has_export_segment(path)
 
 
 def _is_javascript_asset(url: str) -> bool:
@@ -69,7 +70,7 @@ def _candidate_urls(text: str, root: str, limit: int = MAX_CANDIDATES) -> set[st
     for match in EXPORT_RE.finditer(text):
         raw = match.group("url")
         url = urljoin(root, raw).split("#", 1)[0]
-        if _same_origin(root, url):
+        if _same_origin(root, url) and _looks_like_candidate(url):
             found.add(url)
             if len(found) >= limit:
                 break
@@ -104,18 +105,21 @@ def watch(root: str = ROOT_URL) -> dict:
     inspected_assets = 0
     skipped_payload_like_scripts = 0
 
-    for src in parser.scripts[:MAX_SCRIPT_ASSETS]:
-        if len(candidates) >= MAX_CANDIDATES:
+    # Only successfully inspectable same-origin JavaScript assets consume the
+    # request budget. Cross-origin, non-JS, and payload-like script tags do not.
+    for src in parser.scripts:
+        if len(candidates) >= MAX_CANDIDATES or inspected_assets >= MAX_SCRIPT_ASSETS:
             break
+
         script_url = urljoin(root, src).split("#", 1)[0]
         if not _same_origin(root, script_url):
             continue
 
         # A script tag can point at JSONP/config/export resources. Never fetch it
-        # unless the path is plainly a JavaScript asset. If it looks like a data
-        # candidate, record the URL only and classify it against cached robots.
+        # when it is payload-like; record it only for cached robots classification.
         if _looks_like_candidate(script_url):
-            candidates.add(script_url)
+            if len(candidates) < MAX_CANDIDATES:
+                candidates.add(script_url)
             skipped_payload_like_scripts += 1
             continue
         if not _is_javascript_asset(script_url):
@@ -151,6 +155,7 @@ def watch(root: str = ROOT_URL) -> dict:
         "page": root,
         "same_origin_javascript_assets_inspected": inspected_assets,
         "payload_like_script_urls_not_fetched": skipped_payload_like_scripts,
+        "script_asset_limit": MAX_SCRIPT_ASSETS,
         "candidate_limit": MAX_CANDIDATES,
         "allowed_candidate_paths": [urlsplit(u).path for u in allowed],
         "blocked_candidate_paths": [urlsplit(u).path for u in blocked],
