@@ -1,0 +1,2305 @@
+week_start,division,district,department,published_reports,reported_amount,median_amount,refusal_rate
+2026-06-01,Barishal,Barguna,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-06-01,Barishal,Barguna,Land Office,25,62500.0,2500.0,0.4
+2026-06-01,Barishal,Barguna,Passport Office,25,375000.0,15000.0,0.4
+2026-06-08,Barishal,Barguna,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-06-08,Barishal,Barguna,Land Office,25,62500.0,2500.0,0.4
+2026-06-08,Barishal,Barguna,Passport Office,25,375000.0,15000.0,0.4
+2026-06-15,Barishal,Barguna,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-06-15,Barishal,Barguna,Land Office,25,62500.0,2500.0,0.4
+2026-06-15,Barishal,Barguna,Passport Office,25,375000.0,15000.0,0.4
+2026-06-22,Barishal,Barguna,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-06-22,Barishal,Barguna,Land Office,25,62500.0,2500.0,0.4
+2026-06-22,Barishal,Barguna,Passport Office,25,375000.0,15000.0,0.4
+2026-06-29,Barishal,Barguna,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-06-29,Barishal,Barguna,Land Office,25,62500.0,2500.0,0.4
+2026-06-29,Barishal,Barguna,Passport Office,25,375000.0,15000.0,0.4
+2026-07-06,Barishal,Barguna,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-07-06,Barishal,Barguna,Land Office,25,62500.0,2500.0,0.4
+2026-07-06,Barishal,Barguna,Passport Office,25,375000.0,15000.0,0.4
+2026-07-13,Barishal,Barguna,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-07-13,Barishal,Barguna,Land Office,25,62500.0,2500.0,0.4
+2026-07-13,Barishal,Barguna,Passport Office,25,375000.0,15000.0,0.4
+2026-07-20,Barishal,Barguna,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-07-20,Barishal,Barguna,Land Office,25,62500.0,2500.0,0.4
+2026-07-20,Barishal,Barguna,Passport Office,25,375000.0,15000.0,0.4
+2026-07-27,Barishal,Barguna,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-07-27,Barishal,Barguna,Land Office,25,62500.0,2500.0,0.4
+2026-07-27,Barishal,Barguna,Passport Office,25,375000.0,15000.0,0.4
+2026-08-03,Barishal,Barguna,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-08-03,Barishal,Barguna,Land Office,25,62500.0,2500.0,0.4
+2026-08-03,Barishal,Barguna,Passport Office,25,375000.0,15000.0,0.4
+2026-08-10,Barishal,Barguna,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-08-10,Barishal,Barguna,Land Office,25,62500.0,2500.0,0.4
+2026-08-10,Barishal,Barguna,Passport Office,25,375000.0,15000.0,0.4
+2026-08-17,Barishal,Barguna,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-08-17,Barishal,Barguna,Land Office,25,62500.0,2500.0,0.4
+2026-08-17,Barishal,Barguna,Passport Office,25,375000.0,15000.0,0.4
+2026-06-01,Barishal,Barisal,BRTA,25,875000.0,35000.0,0.2
+2026-06-01,Barishal,Barisal,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-06-01,Barishal,Barisal,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-06-08,Barishal,Barisal,BRTA,25,875000.0,35000.0,0.2
+2026-06-08,Barishal,Barisal,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-06-08,Barishal,Barisal,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-06-15,Barishal,Barisal,BRTA,25,875000.0,35000.0,0.2
+2026-06-15,Barishal,Barisal,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-06-15,Barishal,Barisal,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-06-22,Barishal,Barisal,BRTA,25,875000.0,35000.0,0.2
+2026-06-22,Barishal,Barisal,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-06-22,Barishal,Barisal,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-06-29,Barishal,Barisal,BRTA,25,875000.0,35000.0,0.2
+2026-06-29,Barishal,Barisal,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-06-29,Barishal,Barisal,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-07-06,Barishal,Barisal,BRTA,25,875000.0,35000.0,0.2
+2026-07-06,Barishal,Barisal,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-07-06,Barishal,Barisal,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-07-13,Barishal,Barisal,BRTA,25,875000.0,35000.0,0.2
+2026-07-13,Barishal,Barisal,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-07-13,Barishal,Barisal,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-07-20,Barishal,Barisal,BRTA,25,875000.0,35000.0,0.2
+2026-07-20,Barishal,Barisal,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-07-20,Barishal,Barisal,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-07-27,Barishal,Barisal,BRTA,25,875000.0,35000.0,0.2
+2026-07-27,Barishal,Barisal,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-07-27,Barishal,Barisal,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-08-03,Barishal,Barisal,BRTA,25,875000.0,35000.0,0.2
+2026-08-03,Barishal,Barisal,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-08-03,Barishal,Barisal,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-08-10,Barishal,Barisal,BRTA,25,875000.0,35000.0,0.2
+2026-08-10,Barishal,Barisal,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-08-10,Barishal,Barisal,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-08-17,Barishal,Barisal,BRTA,15,525000.0,35000.0,0.3333333333333333
+2026-08-17,Barishal,Barisal,Land Office,10,150000.0,15000.0,1.0
+2026-08-17,Barishal,Barisal,Passport Office,10,750000.0,75000.0,1.0
+2026-06-01,Barishal,Bhola,BRTA,15,7500.0,500.0,0.3333333333333333
+2026-06-01,Barishal,Bhola,Land Office,25,1875000.0,75000.0,0.4
+2026-06-01,Barishal,Bhola,Passport Office,25,62500.0,2500.0,0.4
+2026-06-08,Barishal,Bhola,BRTA,15,7500.0,500.0,0.3333333333333333
+2026-06-08,Barishal,Bhola,Land Office,25,1875000.0,75000.0,0.4
+2026-06-08,Barishal,Bhola,Passport Office,25,62500.0,2500.0,0.4
+2026-06-15,Barishal,Bhola,BRTA,15,7500.0,500.0,0.3333333333333333
+2026-06-15,Barishal,Bhola,Land Office,25,1875000.0,75000.0,0.4
+2026-06-15,Barishal,Bhola,Passport Office,25,62500.0,2500.0,0.4
+2026-06-22,Barishal,Bhola,BRTA,15,7500.0,500.0,0.3333333333333333
+2026-06-22,Barishal,Bhola,Land Office,25,1875000.0,75000.0,0.4
+2026-06-22,Barishal,Bhola,Passport Office,25,62500.0,2500.0,0.4
+2026-06-29,Barishal,Bhola,BRTA,15,7500.0,500.0,0.3333333333333333
+2026-06-29,Barishal,Bhola,Land Office,25,1875000.0,75000.0,0.4
+2026-06-29,Barishal,Bhola,Passport Office,25,62500.0,2500.0,0.4
+2026-07-06,Barishal,Bhola,BRTA,15,7500.0,500.0,0.3333333333333333
+2026-07-06,Barishal,Bhola,Land Office,25,1875000.0,75000.0,0.4
+2026-07-06,Barishal,Bhola,Passport Office,25,62500.0,2500.0,0.4
+2026-07-13,Barishal,Bhola,BRTA,15,7500.0,500.0,0.3333333333333333
+2026-07-13,Barishal,Bhola,Land Office,25,1875000.0,75000.0,0.4
+2026-07-13,Barishal,Bhola,Passport Office,25,62500.0,2500.0,0.4
+2026-07-20,Barishal,Bhola,BRTA,15,7500.0,500.0,0.3333333333333333
+2026-07-20,Barishal,Bhola,Land Office,25,1875000.0,75000.0,0.4
+2026-07-20,Barishal,Bhola,Passport Office,25,62500.0,2500.0,0.4
+2026-07-27,Barishal,Bhola,BRTA,15,7500.0,500.0,0.3333333333333333
+2026-07-27,Barishal,Bhola,Land Office,25,1875000.0,75000.0,0.4
+2026-07-27,Barishal,Bhola,Passport Office,25,62500.0,2500.0,0.4
+2026-08-03,Barishal,Bhola,BRTA,15,7500.0,500.0,0.3333333333333333
+2026-08-03,Barishal,Bhola,Land Office,25,1875000.0,75000.0,0.4
+2026-08-03,Barishal,Bhola,Passport Office,25,62500.0,2500.0,0.4
+2026-08-10,Barishal,Bhola,BRTA,15,7500.0,500.0,0.3333333333333333
+2026-08-10,Barishal,Bhola,Land Office,25,1875000.0,75000.0,0.4
+2026-08-10,Barishal,Bhola,Passport Office,25,62500.0,2500.0,0.4
+2026-08-17,Barishal,Bhola,BRTA,25,12500.0,500.0,0.2
+2026-08-17,Barishal,Bhola,Land Office,35,2625000.0,75000.0,0.2857142857142857
+2026-08-17,Barishal,Bhola,Passport Office,35,87500.0,2500.0,0.2857142857142857
+2026-06-01,Barishal,Jhalokati,BRTA,10,150000.0,15000.0,1.0
+2026-06-01,Barishal,Jhalokati,Land Office,20,150000.0,7500.0,0.25
+2026-06-01,Barishal,Jhalokati,Passport Office,20,700000.0,35000.0,0.25
+2026-06-08,Barishal,Jhalokati,BRTA,10,150000.0,15000.0,1.0
+2026-06-08,Barishal,Jhalokati,Land Office,20,150000.0,7500.0,0.25
+2026-06-08,Barishal,Jhalokati,Passport Office,20,700000.0,35000.0,0.25
+2026-06-15,Barishal,Jhalokati,BRTA,10,150000.0,15000.0,1.0
+2026-06-15,Barishal,Jhalokati,Land Office,20,150000.0,7500.0,0.25
+2026-06-15,Barishal,Jhalokati,Passport Office,20,700000.0,35000.0,0.25
+2026-06-22,Barishal,Jhalokati,BRTA,10,150000.0,15000.0,1.0
+2026-06-22,Barishal,Jhalokati,Land Office,20,150000.0,7500.0,0.25
+2026-06-22,Barishal,Jhalokati,Passport Office,20,700000.0,35000.0,0.25
+2026-06-29,Barishal,Jhalokati,BRTA,10,150000.0,15000.0,1.0
+2026-06-29,Barishal,Jhalokati,Land Office,20,150000.0,7500.0,0.25
+2026-06-29,Barishal,Jhalokati,Passport Office,20,700000.0,35000.0,0.25
+2026-07-06,Barishal,Jhalokati,BRTA,10,150000.0,15000.0,1.0
+2026-07-06,Barishal,Jhalokati,Land Office,20,150000.0,7500.0,0.25
+2026-07-06,Barishal,Jhalokati,Passport Office,20,700000.0,35000.0,0.25
+2026-07-13,Barishal,Jhalokati,BRTA,10,150000.0,15000.0,1.0
+2026-07-13,Barishal,Jhalokati,Land Office,20,150000.0,7500.0,0.25
+2026-07-13,Barishal,Jhalokati,Passport Office,20,700000.0,35000.0,0.25
+2026-07-20,Barishal,Jhalokati,BRTA,10,150000.0,15000.0,1.0
+2026-07-20,Barishal,Jhalokati,Land Office,20,150000.0,7500.0,0.25
+2026-07-20,Barishal,Jhalokati,Passport Office,20,700000.0,35000.0,0.25
+2026-07-27,Barishal,Jhalokati,BRTA,10,150000.0,15000.0,1.0
+2026-07-27,Barishal,Jhalokati,Land Office,20,150000.0,7500.0,0.25
+2026-07-27,Barishal,Jhalokati,Passport Office,20,700000.0,35000.0,0.25
+2026-08-03,Barishal,Jhalokati,BRTA,10,150000.0,15000.0,1.0
+2026-08-03,Barishal,Jhalokati,Land Office,20,150000.0,7500.0,0.25
+2026-08-03,Barishal,Jhalokati,Passport Office,20,700000.0,35000.0,0.25
+2026-08-10,Barishal,Jhalokati,BRTA,10,150000.0,15000.0,1.0
+2026-08-10,Barishal,Jhalokati,Land Office,20,150000.0,7500.0,0.25
+2026-08-10,Barishal,Jhalokati,Passport Office,20,700000.0,35000.0,0.25
+2026-08-17,Barishal,Jhalokati,BRTA,20,300000.0,15000.0,0.5
+2026-08-17,Barishal,Jhalokati,Land Office,30,225000.0,7500.0,0.16666666666666666
+2026-08-17,Barishal,Jhalokati,Passport Office,30,1050000.0,35000.0,0.16666666666666666
+2026-06-01,Barishal,Patuakhali,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-06-01,Barishal,Patuakhali,Land Office,25,62500.0,2500.0,0.4
+2026-06-01,Barishal,Patuakhali,Passport Office,25,375000.0,15000.0,0.4
+2026-06-08,Barishal,Patuakhali,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-06-08,Barishal,Patuakhali,Land Office,25,62500.0,2500.0,0.4
+2026-06-08,Barishal,Patuakhali,Passport Office,25,375000.0,15000.0,0.4
+2026-06-15,Barishal,Patuakhali,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-06-15,Barishal,Patuakhali,Land Office,25,62500.0,2500.0,0.4
+2026-06-15,Barishal,Patuakhali,Passport Office,25,375000.0,15000.0,0.4
+2026-06-22,Barishal,Patuakhali,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-06-22,Barishal,Patuakhali,Land Office,25,62500.0,2500.0,0.4
+2026-06-22,Barishal,Patuakhali,Passport Office,25,375000.0,15000.0,0.4
+2026-06-29,Barishal,Patuakhali,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-06-29,Barishal,Patuakhali,Land Office,25,62500.0,2500.0,0.4
+2026-06-29,Barishal,Patuakhali,Passport Office,25,375000.0,15000.0,0.4
+2026-07-06,Barishal,Patuakhali,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-07-06,Barishal,Patuakhali,Land Office,25,62500.0,2500.0,0.4
+2026-07-06,Barishal,Patuakhali,Passport Office,25,375000.0,15000.0,0.4
+2026-07-13,Barishal,Patuakhali,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-07-13,Barishal,Patuakhali,Land Office,25,62500.0,2500.0,0.4
+2026-07-13,Barishal,Patuakhali,Passport Office,25,375000.0,15000.0,0.4
+2026-07-20,Barishal,Patuakhali,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-07-20,Barishal,Patuakhali,Land Office,25,62500.0,2500.0,0.4
+2026-07-20,Barishal,Patuakhali,Passport Office,25,375000.0,15000.0,0.4
+2026-07-27,Barishal,Patuakhali,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-07-27,Barishal,Patuakhali,Land Office,25,62500.0,2500.0,0.4
+2026-07-27,Barishal,Patuakhali,Passport Office,25,375000.0,15000.0,0.4
+2026-08-03,Barishal,Patuakhali,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-08-03,Barishal,Patuakhali,Land Office,25,62500.0,2500.0,0.4
+2026-08-03,Barishal,Patuakhali,Passport Office,25,375000.0,15000.0,0.4
+2026-08-10,Barishal,Patuakhali,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-08-10,Barishal,Patuakhali,Land Office,25,62500.0,2500.0,0.4
+2026-08-10,Barishal,Patuakhali,Passport Office,25,375000.0,15000.0,0.4
+2026-08-17,Barishal,Patuakhali,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-08-17,Barishal,Patuakhali,Land Office,25,62500.0,2500.0,0.4
+2026-08-17,Barishal,Patuakhali,Passport Office,25,375000.0,15000.0,0.4
+2026-06-01,Barishal,Pirojpur,BRTA,20,300000.0,15000.0,0.5
+2026-06-01,Barishal,Pirojpur,Land Office,10,75000.0,7500.0,0.5
+2026-06-01,Barishal,Pirojpur,Passport Office,10,350000.0,35000.0,0.5
+2026-06-08,Barishal,Pirojpur,BRTA,20,300000.0,15000.0,0.5
+2026-06-08,Barishal,Pirojpur,Land Office,10,75000.0,7500.0,0.5
+2026-06-08,Barishal,Pirojpur,Passport Office,10,350000.0,35000.0,0.5
+2026-06-15,Barishal,Pirojpur,BRTA,20,300000.0,15000.0,0.5
+2026-06-15,Barishal,Pirojpur,Land Office,10,75000.0,7500.0,0.5
+2026-06-15,Barishal,Pirojpur,Passport Office,10,350000.0,35000.0,0.5
+2026-06-22,Barishal,Pirojpur,BRTA,20,300000.0,15000.0,0.5
+2026-06-22,Barishal,Pirojpur,Land Office,10,75000.0,7500.0,0.5
+2026-06-22,Barishal,Pirojpur,Passport Office,10,350000.0,35000.0,0.5
+2026-06-29,Barishal,Pirojpur,BRTA,20,300000.0,15000.0,0.5
+2026-06-29,Barishal,Pirojpur,Land Office,10,75000.0,7500.0,0.5
+2026-06-29,Barishal,Pirojpur,Passport Office,10,350000.0,35000.0,0.5
+2026-07-06,Barishal,Pirojpur,BRTA,20,300000.0,15000.0,0.5
+2026-07-06,Barishal,Pirojpur,Land Office,10,75000.0,7500.0,0.5
+2026-07-06,Barishal,Pirojpur,Passport Office,10,350000.0,35000.0,0.5
+2026-07-13,Barishal,Pirojpur,BRTA,20,300000.0,15000.0,0.5
+2026-07-13,Barishal,Pirojpur,Land Office,10,75000.0,7500.0,0.5
+2026-07-13,Barishal,Pirojpur,Passport Office,10,350000.0,35000.0,0.5
+2026-07-20,Barishal,Pirojpur,BRTA,20,300000.0,15000.0,0.5
+2026-07-20,Barishal,Pirojpur,Land Office,10,75000.0,7500.0,0.5
+2026-07-20,Barishal,Pirojpur,Passport Office,10,350000.0,35000.0,0.5
+2026-07-27,Barishal,Pirojpur,BRTA,20,300000.0,15000.0,0.5
+2026-07-27,Barishal,Pirojpur,Land Office,10,75000.0,7500.0,0.5
+2026-07-27,Barishal,Pirojpur,Passport Office,10,350000.0,35000.0,0.5
+2026-08-03,Barishal,Pirojpur,BRTA,20,300000.0,15000.0,0.5
+2026-08-03,Barishal,Pirojpur,Land Office,10,75000.0,7500.0,0.5
+2026-08-03,Barishal,Pirojpur,Passport Office,10,350000.0,35000.0,0.5
+2026-08-10,Barishal,Pirojpur,BRTA,20,300000.0,15000.0,0.5
+2026-08-10,Barishal,Pirojpur,Land Office,10,75000.0,7500.0,0.5
+2026-08-10,Barishal,Pirojpur,Passport Office,10,350000.0,35000.0,0.5
+2026-08-17,Barishal,Pirojpur,BRTA,30,450000.0,15000.0,0.3333333333333333
+2026-08-17,Barishal,Pirojpur,Land Office,20,150000.0,7500.0,0.25
+2026-08-17,Barishal,Pirojpur,Passport Office,20,700000.0,35000.0,0.25
+2026-06-01,Chattogram,Bandarban,BRTA,25,187500.0,7500.0,0.2
+2026-06-01,Chattogram,Bandarban,Land Office,15,37500.0,2500.0,0.6666666666666666
+2026-06-01,Chattogram,Bandarban,Passport Office,15,225000.0,15000.0,0.6666666666666666
+2026-06-08,Chattogram,Bandarban,BRTA,25,187500.0,7500.0,0.2
+2026-06-08,Chattogram,Bandarban,Land Office,15,37500.0,2500.0,0.6666666666666666
+2026-06-08,Chattogram,Bandarban,Passport Office,15,225000.0,15000.0,0.6666666666666666
+2026-06-15,Chattogram,Bandarban,BRTA,25,187500.0,7500.0,0.2
+2026-06-15,Chattogram,Bandarban,Land Office,15,37500.0,2500.0,0.6666666666666666
+2026-06-15,Chattogram,Bandarban,Passport Office,15,225000.0,15000.0,0.6666666666666666
+2026-06-22,Chattogram,Bandarban,BRTA,25,187500.0,7500.0,0.2
+2026-06-22,Chattogram,Bandarban,Land Office,15,37500.0,2500.0,0.6666666666666666
+2026-06-22,Chattogram,Bandarban,Passport Office,15,225000.0,15000.0,0.6666666666666666
+2026-06-29,Chattogram,Bandarban,BRTA,25,187500.0,7500.0,0.2
+2026-06-29,Chattogram,Bandarban,Land Office,15,37500.0,2500.0,0.6666666666666666
+2026-06-29,Chattogram,Bandarban,Passport Office,15,225000.0,15000.0,0.6666666666666666
+2026-07-06,Chattogram,Bandarban,BRTA,25,187500.0,7500.0,0.2
+2026-07-06,Chattogram,Bandarban,Land Office,15,37500.0,2500.0,0.6666666666666666
+2026-07-06,Chattogram,Bandarban,Passport Office,15,225000.0,15000.0,0.6666666666666666
+2026-07-13,Chattogram,Bandarban,BRTA,25,187500.0,7500.0,0.2
+2026-07-13,Chattogram,Bandarban,Land Office,15,37500.0,2500.0,0.6666666666666666
+2026-07-13,Chattogram,Bandarban,Passport Office,15,225000.0,15000.0,0.6666666666666666
+2026-07-20,Chattogram,Bandarban,BRTA,25,187500.0,7500.0,0.2
+2026-07-20,Chattogram,Bandarban,Land Office,15,37500.0,2500.0,0.6666666666666666
+2026-07-20,Chattogram,Bandarban,Passport Office,15,225000.0,15000.0,0.6666666666666666
+2026-07-27,Chattogram,Bandarban,BRTA,25,187500.0,7500.0,0.2
+2026-07-27,Chattogram,Bandarban,Land Office,15,37500.0,2500.0,0.6666666666666666
+2026-07-27,Chattogram,Bandarban,Passport Office,15,225000.0,15000.0,0.6666666666666666
+2026-08-03,Chattogram,Bandarban,BRTA,25,187500.0,7500.0,0.2
+2026-08-03,Chattogram,Bandarban,Land Office,15,37500.0,2500.0,0.6666666666666666
+2026-08-03,Chattogram,Bandarban,Passport Office,15,225000.0,15000.0,0.6666666666666666
+2026-08-10,Chattogram,Bandarban,BRTA,25,187500.0,7500.0,0.2
+2026-08-10,Chattogram,Bandarban,Land Office,15,37500.0,2500.0,0.6666666666666666
+2026-08-10,Chattogram,Bandarban,Passport Office,15,225000.0,15000.0,0.6666666666666666
+2026-08-17,Chattogram,Bandarban,BRTA,25,187500.0,7500.0,0.2
+2026-08-17,Chattogram,Bandarban,Land Office,15,37500.0,2500.0,0.6666666666666666
+2026-08-17,Chattogram,Bandarban,Passport Office,15,225000.0,15000.0,0.6666666666666666
+2026-06-01,Chattogram,Brahamanbaria,BRTA,15,525000.0,35000.0,0.3333333333333333
+2026-06-01,Chattogram,Brahamanbaria,Land Office,25,375000.0,15000.0,0.4
+2026-06-01,Chattogram,Brahamanbaria,Passport Office,25,1875000.0,75000.0,0.4
+2026-06-08,Chattogram,Brahamanbaria,BRTA,15,525000.0,35000.0,0.3333333333333333
+2026-06-08,Chattogram,Brahamanbaria,Land Office,25,375000.0,15000.0,0.4
+2026-06-08,Chattogram,Brahamanbaria,Passport Office,25,1875000.0,75000.0,0.4
+2026-06-15,Chattogram,Brahamanbaria,BRTA,15,525000.0,35000.0,0.3333333333333333
+2026-06-15,Chattogram,Brahamanbaria,Land Office,25,375000.0,15000.0,0.4
+2026-06-15,Chattogram,Brahamanbaria,Passport Office,25,1875000.0,75000.0,0.4
+2026-06-22,Chattogram,Brahamanbaria,BRTA,15,525000.0,35000.0,0.3333333333333333
+2026-06-22,Chattogram,Brahamanbaria,Land Office,25,375000.0,15000.0,0.4
+2026-06-22,Chattogram,Brahamanbaria,Passport Office,25,1875000.0,75000.0,0.4
+2026-06-29,Chattogram,Brahamanbaria,BRTA,15,525000.0,35000.0,0.3333333333333333
+2026-06-29,Chattogram,Brahamanbaria,Land Office,25,375000.0,15000.0,0.4
+2026-06-29,Chattogram,Brahamanbaria,Passport Office,25,1875000.0,75000.0,0.4
+2026-07-06,Chattogram,Brahamanbaria,BRTA,15,525000.0,35000.0,0.3333333333333333
+2026-07-06,Chattogram,Brahamanbaria,Land Office,25,375000.0,15000.0,0.4
+2026-07-06,Chattogram,Brahamanbaria,Passport Office,25,1875000.0,75000.0,0.4
+2026-07-13,Chattogram,Brahamanbaria,BRTA,15,525000.0,35000.0,0.3333333333333333
+2026-07-13,Chattogram,Brahamanbaria,Land Office,25,375000.0,15000.0,0.4
+2026-07-13,Chattogram,Brahamanbaria,Passport Office,25,1875000.0,75000.0,0.4
+2026-07-20,Chattogram,Brahamanbaria,BRTA,15,525000.0,35000.0,0.3333333333333333
+2026-07-20,Chattogram,Brahamanbaria,Land Office,25,375000.0,15000.0,0.4
+2026-07-20,Chattogram,Brahamanbaria,Passport Office,25,1875000.0,75000.0,0.4
+2026-07-27,Chattogram,Brahamanbaria,BRTA,15,525000.0,35000.0,0.3333333333333333
+2026-07-27,Chattogram,Brahamanbaria,Land Office,25,375000.0,15000.0,0.4
+2026-07-27,Chattogram,Brahamanbaria,Passport Office,25,1875000.0,75000.0,0.4
+2026-08-03,Chattogram,Brahamanbaria,BRTA,15,525000.0,35000.0,0.3333333333333333
+2026-08-03,Chattogram,Brahamanbaria,Land Office,25,375000.0,15000.0,0.4
+2026-08-03,Chattogram,Brahamanbaria,Passport Office,25,1875000.0,75000.0,0.4
+2026-08-10,Chattogram,Brahamanbaria,BRTA,15,525000.0,35000.0,0.3333333333333333
+2026-08-10,Chattogram,Brahamanbaria,Land Office,25,375000.0,15000.0,0.4
+2026-08-10,Chattogram,Brahamanbaria,Passport Office,25,1875000.0,75000.0,0.4
+2026-08-17,Chattogram,Brahamanbaria,BRTA,10,350000.0,35000.0,0.5
+2026-08-17,Chattogram,Brahamanbaria,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-08-17,Chattogram,Brahamanbaria,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-06-01,Chattogram,Chandpur,BRTA,15,7500.0,500.0,0.3333333333333333
+2026-06-01,Chattogram,Chandpur,Land Office,25,1875000.0,75000.0,0.4
+2026-06-01,Chattogram,Chandpur,Passport Office,25,62500.0,2500.0,0.4
+2026-06-08,Chattogram,Chandpur,BRTA,15,7500.0,500.0,0.3333333333333333
+2026-06-08,Chattogram,Chandpur,Land Office,25,1875000.0,75000.0,0.4
+2026-06-08,Chattogram,Chandpur,Passport Office,25,62500.0,2500.0,0.4
+2026-06-15,Chattogram,Chandpur,BRTA,15,7500.0,500.0,0.3333333333333333
+2026-06-15,Chattogram,Chandpur,Land Office,25,1875000.0,75000.0,0.4
+2026-06-15,Chattogram,Chandpur,Passport Office,25,62500.0,2500.0,0.4
+2026-06-22,Chattogram,Chandpur,BRTA,15,7500.0,500.0,0.3333333333333333
+2026-06-22,Chattogram,Chandpur,Land Office,25,1875000.0,75000.0,0.4
+2026-06-22,Chattogram,Chandpur,Passport Office,25,62500.0,2500.0,0.4
+2026-06-29,Chattogram,Chandpur,BRTA,15,7500.0,500.0,0.3333333333333333
+2026-06-29,Chattogram,Chandpur,Land Office,25,1875000.0,75000.0,0.4
+2026-06-29,Chattogram,Chandpur,Passport Office,25,62500.0,2500.0,0.4
+2026-07-06,Chattogram,Chandpur,BRTA,15,7500.0,500.0,0.3333333333333333
+2026-07-06,Chattogram,Chandpur,Land Office,25,1875000.0,75000.0,0.4
+2026-07-06,Chattogram,Chandpur,Passport Office,25,62500.0,2500.0,0.4
+2026-07-13,Chattogram,Chandpur,BRTA,15,7500.0,500.0,0.3333333333333333
+2026-07-13,Chattogram,Chandpur,Land Office,25,1875000.0,75000.0,0.4
+2026-07-13,Chattogram,Chandpur,Passport Office,25,62500.0,2500.0,0.4
+2026-07-20,Chattogram,Chandpur,BRTA,15,7500.0,500.0,0.3333333333333333
+2026-07-20,Chattogram,Chandpur,Land Office,25,1875000.0,75000.0,0.4
+2026-07-20,Chattogram,Chandpur,Passport Office,25,62500.0,2500.0,0.4
+2026-07-27,Chattogram,Chandpur,BRTA,15,7500.0,500.0,0.3333333333333333
+2026-07-27,Chattogram,Chandpur,Land Office,25,1875000.0,75000.0,0.4
+2026-07-27,Chattogram,Chandpur,Passport Office,25,62500.0,2500.0,0.4
+2026-08-03,Chattogram,Chandpur,BRTA,15,7500.0,500.0,0.3333333333333333
+2026-08-03,Chattogram,Chandpur,Land Office,25,1875000.0,75000.0,0.4
+2026-08-03,Chattogram,Chandpur,Passport Office,25,62500.0,2500.0,0.4
+2026-08-10,Chattogram,Chandpur,BRTA,15,7500.0,500.0,0.3333333333333333
+2026-08-10,Chattogram,Chandpur,Land Office,25,1875000.0,75000.0,0.4
+2026-08-10,Chattogram,Chandpur,Passport Office,25,62500.0,2500.0,0.4
+2026-08-17,Chattogram,Chandpur,BRTA,25,12500.0,500.0,0.2
+2026-08-17,Chattogram,Chandpur,Land Office,35,2625000.0,75000.0,0.2857142857142857
+2026-08-17,Chattogram,Chandpur,Passport Office,35,87500.0,2500.0,0.2857142857142857
+2026-06-01,Chattogram,Chittagong,BRTA,25,12500.0,500.0,0.2
+2026-06-01,Chattogram,Chittagong,Land Office,15,1125000.0,75000.0,0.6666666666666666
+2026-06-01,Chattogram,Chittagong,Passport Office,15,37500.0,2500.0,0.6666666666666666
+2026-06-08,Chattogram,Chittagong,BRTA,25,12500.0,500.0,0.2
+2026-06-08,Chattogram,Chittagong,Land Office,15,1125000.0,75000.0,0.6666666666666666
+2026-06-08,Chattogram,Chittagong,Passport Office,15,37500.0,2500.0,0.6666666666666666
+2026-06-15,Chattogram,Chittagong,BRTA,25,12500.0,500.0,0.2
+2026-06-15,Chattogram,Chittagong,Land Office,15,1125000.0,75000.0,0.6666666666666666
+2026-06-15,Chattogram,Chittagong,Passport Office,15,37500.0,2500.0,0.6666666666666666
+2026-06-22,Chattogram,Chittagong,BRTA,25,12500.0,500.0,0.2
+2026-06-22,Chattogram,Chittagong,Land Office,15,1125000.0,75000.0,0.6666666666666666
+2026-06-22,Chattogram,Chittagong,Passport Office,15,37500.0,2500.0,0.6666666666666666
+2026-06-29,Chattogram,Chittagong,BRTA,25,12500.0,500.0,0.2
+2026-06-29,Chattogram,Chittagong,Land Office,15,1125000.0,75000.0,0.6666666666666666
+2026-06-29,Chattogram,Chittagong,Passport Office,15,37500.0,2500.0,0.6666666666666666
+2026-07-06,Chattogram,Chittagong,BRTA,25,12500.0,500.0,0.2
+2026-07-06,Chattogram,Chittagong,Land Office,15,1125000.0,75000.0,0.6666666666666666
+2026-07-06,Chattogram,Chittagong,Passport Office,15,37500.0,2500.0,0.6666666666666666
+2026-07-13,Chattogram,Chittagong,BRTA,25,12500.0,500.0,0.2
+2026-07-13,Chattogram,Chittagong,Land Office,15,1125000.0,75000.0,0.6666666666666666
+2026-07-13,Chattogram,Chittagong,Passport Office,15,37500.0,2500.0,0.6666666666666666
+2026-07-20,Chattogram,Chittagong,BRTA,25,12500.0,500.0,0.2
+2026-07-20,Chattogram,Chittagong,Land Office,15,1125000.0,75000.0,0.6666666666666666
+2026-07-20,Chattogram,Chittagong,Passport Office,15,37500.0,2500.0,0.6666666666666666
+2026-07-27,Chattogram,Chittagong,BRTA,25,12500.0,500.0,0.2
+2026-07-27,Chattogram,Chittagong,Land Office,15,1125000.0,75000.0,0.6666666666666666
+2026-07-27,Chattogram,Chittagong,Passport Office,15,37500.0,2500.0,0.6666666666666666
+2026-08-03,Chattogram,Chittagong,BRTA,25,12500.0,500.0,0.2
+2026-08-03,Chattogram,Chittagong,Land Office,15,1125000.0,75000.0,0.6666666666666666
+2026-08-03,Chattogram,Chittagong,Passport Office,15,37500.0,2500.0,0.6666666666666666
+2026-08-10,Chattogram,Chittagong,BRTA,25,12500.0,500.0,0.2
+2026-08-10,Chattogram,Chittagong,Land Office,15,1125000.0,75000.0,0.6666666666666666
+2026-08-10,Chattogram,Chittagong,Passport Office,15,37500.0,2500.0,0.6666666666666666
+2026-08-17,Chattogram,Chittagong,BRTA,35,17500.0,500.0,0.14285714285714285
+2026-08-17,Chattogram,Chittagong,Land Office,25,1875000.0,75000.0,0.4
+2026-08-17,Chattogram,Chittagong,Passport Office,25,62500.0,2500.0,0.4
+2026-06-01,Chattogram,Comilla,BRTA,20,300000.0,15000.0,0.5
+2026-06-01,Chattogram,Comilla,Land Office,10,75000.0,7500.0,0.5
+2026-06-01,Chattogram,Comilla,Passport Office,10,350000.0,35000.0,0.5
+2026-06-08,Chattogram,Comilla,BRTA,20,300000.0,15000.0,0.5
+2026-06-08,Chattogram,Comilla,Land Office,10,75000.0,7500.0,0.5
+2026-06-08,Chattogram,Comilla,Passport Office,10,350000.0,35000.0,0.5
+2026-06-15,Chattogram,Comilla,BRTA,20,300000.0,15000.0,0.5
+2026-06-15,Chattogram,Comilla,Land Office,10,75000.0,7500.0,0.5
+2026-06-15,Chattogram,Comilla,Passport Office,10,350000.0,35000.0,0.5
+2026-06-22,Chattogram,Comilla,BRTA,20,300000.0,15000.0,0.5
+2026-06-22,Chattogram,Comilla,Land Office,10,75000.0,7500.0,0.5
+2026-06-22,Chattogram,Comilla,Passport Office,10,350000.0,35000.0,0.5
+2026-06-29,Chattogram,Comilla,BRTA,20,300000.0,15000.0,0.5
+2026-06-29,Chattogram,Comilla,Land Office,10,75000.0,7500.0,0.5
+2026-06-29,Chattogram,Comilla,Passport Office,10,350000.0,35000.0,0.5
+2026-07-06,Chattogram,Comilla,BRTA,20,300000.0,15000.0,0.5
+2026-07-06,Chattogram,Comilla,Land Office,10,75000.0,7500.0,0.5
+2026-07-06,Chattogram,Comilla,Passport Office,10,350000.0,35000.0,0.5
+2026-07-13,Chattogram,Comilla,BRTA,20,300000.0,15000.0,0.5
+2026-07-13,Chattogram,Comilla,Land Office,10,75000.0,7500.0,0.5
+2026-07-13,Chattogram,Comilla,Passport Office,10,350000.0,35000.0,0.5
+2026-07-20,Chattogram,Comilla,BRTA,20,300000.0,15000.0,0.5
+2026-07-20,Chattogram,Comilla,Land Office,10,75000.0,7500.0,0.5
+2026-07-20,Chattogram,Comilla,Passport Office,10,350000.0,35000.0,0.5
+2026-07-27,Chattogram,Comilla,BRTA,20,300000.0,15000.0,0.5
+2026-07-27,Chattogram,Comilla,Land Office,10,75000.0,7500.0,0.5
+2026-07-27,Chattogram,Comilla,Passport Office,10,350000.0,35000.0,0.5
+2026-08-03,Chattogram,Comilla,BRTA,20,300000.0,15000.0,0.5
+2026-08-03,Chattogram,Comilla,Land Office,10,75000.0,7500.0,0.5
+2026-08-03,Chattogram,Comilla,Passport Office,10,350000.0,35000.0,0.5
+2026-08-10,Chattogram,Comilla,BRTA,20,300000.0,15000.0,0.5
+2026-08-10,Chattogram,Comilla,Land Office,10,75000.0,7500.0,0.5
+2026-08-10,Chattogram,Comilla,Passport Office,10,350000.0,35000.0,0.5
+2026-08-17,Chattogram,Comilla,BRTA,30,450000.0,15000.0,0.3333333333333333
+2026-08-17,Chattogram,Comilla,Land Office,20,150000.0,7500.0,0.25
+2026-08-17,Chattogram,Comilla,Passport Office,20,700000.0,35000.0,0.25
+2026-06-01,Chattogram,Cox's Bazar,BRTA,10,150000.0,15000.0,1.0
+2026-06-01,Chattogram,Cox's Bazar,Land Office,20,150000.0,7500.0,0.25
+2026-06-01,Chattogram,Cox's Bazar,Passport Office,20,700000.0,35000.0,0.25
+2026-06-08,Chattogram,Cox's Bazar,BRTA,10,150000.0,15000.0,1.0
+2026-06-08,Chattogram,Cox's Bazar,Land Office,20,150000.0,7500.0,0.25
+2026-06-08,Chattogram,Cox's Bazar,Passport Office,20,700000.0,35000.0,0.25
+2026-06-15,Chattogram,Cox's Bazar,BRTA,10,150000.0,15000.0,1.0
+2026-06-15,Chattogram,Cox's Bazar,Land Office,20,150000.0,7500.0,0.25
+2026-06-15,Chattogram,Cox's Bazar,Passport Office,20,700000.0,35000.0,0.25
+2026-06-22,Chattogram,Cox's Bazar,BRTA,10,150000.0,15000.0,1.0
+2026-06-22,Chattogram,Cox's Bazar,Land Office,20,150000.0,7500.0,0.25
+2026-06-22,Chattogram,Cox's Bazar,Passport Office,20,700000.0,35000.0,0.25
+2026-06-29,Chattogram,Cox's Bazar,BRTA,10,150000.0,15000.0,1.0
+2026-06-29,Chattogram,Cox's Bazar,Land Office,20,150000.0,7500.0,0.25
+2026-06-29,Chattogram,Cox's Bazar,Passport Office,20,700000.0,35000.0,0.25
+2026-07-06,Chattogram,Cox's Bazar,BRTA,10,150000.0,15000.0,1.0
+2026-07-06,Chattogram,Cox's Bazar,Land Office,20,150000.0,7500.0,0.25
+2026-07-06,Chattogram,Cox's Bazar,Passport Office,20,700000.0,35000.0,0.25
+2026-07-13,Chattogram,Cox's Bazar,BRTA,10,150000.0,15000.0,1.0
+2026-07-13,Chattogram,Cox's Bazar,Land Office,20,150000.0,7500.0,0.25
+2026-07-13,Chattogram,Cox's Bazar,Passport Office,20,700000.0,35000.0,0.25
+2026-07-20,Chattogram,Cox's Bazar,BRTA,10,150000.0,15000.0,1.0
+2026-07-20,Chattogram,Cox's Bazar,Land Office,20,150000.0,7500.0,0.25
+2026-07-20,Chattogram,Cox's Bazar,Passport Office,20,700000.0,35000.0,0.25
+2026-07-27,Chattogram,Cox's Bazar,BRTA,10,150000.0,15000.0,1.0
+2026-07-27,Chattogram,Cox's Bazar,Land Office,20,150000.0,7500.0,0.25
+2026-07-27,Chattogram,Cox's Bazar,Passport Office,20,700000.0,35000.0,0.25
+2026-08-03,Chattogram,Cox's Bazar,BRTA,10,150000.0,15000.0,1.0
+2026-08-03,Chattogram,Cox's Bazar,Land Office,20,150000.0,7500.0,0.25
+2026-08-03,Chattogram,Cox's Bazar,Passport Office,20,700000.0,35000.0,0.25
+2026-08-10,Chattogram,Cox's Bazar,BRTA,10,150000.0,15000.0,1.0
+2026-08-10,Chattogram,Cox's Bazar,Land Office,20,150000.0,7500.0,0.25
+2026-08-10,Chattogram,Cox's Bazar,Passport Office,20,700000.0,35000.0,0.25
+2026-08-17,Chattogram,Cox's Bazar,BRTA,20,300000.0,15000.0,0.5
+2026-08-17,Chattogram,Cox's Bazar,Land Office,30,225000.0,7500.0,0.16666666666666666
+2026-08-17,Chattogram,Cox's Bazar,Passport Office,30,1050000.0,35000.0,0.16666666666666666
+2026-06-01,Chattogram,Feni,BRTA,25,875000.0,35000.0,0.2
+2026-06-01,Chattogram,Feni,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-06-01,Chattogram,Feni,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-06-08,Chattogram,Feni,BRTA,25,875000.0,35000.0,0.2
+2026-06-08,Chattogram,Feni,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-06-08,Chattogram,Feni,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-06-15,Chattogram,Feni,BRTA,25,875000.0,35000.0,0.2
+2026-06-15,Chattogram,Feni,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-06-15,Chattogram,Feni,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-06-22,Chattogram,Feni,BRTA,25,875000.0,35000.0,0.2
+2026-06-22,Chattogram,Feni,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-06-22,Chattogram,Feni,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-06-29,Chattogram,Feni,BRTA,25,875000.0,35000.0,0.2
+2026-06-29,Chattogram,Feni,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-06-29,Chattogram,Feni,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-07-06,Chattogram,Feni,BRTA,25,875000.0,35000.0,0.2
+2026-07-06,Chattogram,Feni,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-07-06,Chattogram,Feni,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-07-13,Chattogram,Feni,BRTA,25,875000.0,35000.0,0.2
+2026-07-13,Chattogram,Feni,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-07-13,Chattogram,Feni,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-07-20,Chattogram,Feni,BRTA,25,875000.0,35000.0,0.2
+2026-07-20,Chattogram,Feni,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-07-20,Chattogram,Feni,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-07-27,Chattogram,Feni,BRTA,25,875000.0,35000.0,0.2
+2026-07-27,Chattogram,Feni,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-07-27,Chattogram,Feni,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-08-03,Chattogram,Feni,BRTA,25,875000.0,35000.0,0.2
+2026-08-03,Chattogram,Feni,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-08-03,Chattogram,Feni,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-08-10,Chattogram,Feni,BRTA,25,875000.0,35000.0,0.2
+2026-08-10,Chattogram,Feni,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-08-10,Chattogram,Feni,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-08-17,Chattogram,Feni,BRTA,15,525000.0,35000.0,0.3333333333333333
+2026-08-17,Chattogram,Feni,Land Office,10,150000.0,15000.0,1.0
+2026-08-17,Chattogram,Feni,Passport Office,10,750000.0,75000.0,1.0
+2026-06-01,Chattogram,Khagrachhari,BRTA,25,875000.0,35000.0,0.2
+2026-06-01,Chattogram,Khagrachhari,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-06-01,Chattogram,Khagrachhari,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-06-08,Chattogram,Khagrachhari,BRTA,25,875000.0,35000.0,0.2
+2026-06-08,Chattogram,Khagrachhari,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-06-08,Chattogram,Khagrachhari,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-06-15,Chattogram,Khagrachhari,BRTA,25,875000.0,35000.0,0.2
+2026-06-15,Chattogram,Khagrachhari,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-06-15,Chattogram,Khagrachhari,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-06-22,Chattogram,Khagrachhari,BRTA,25,875000.0,35000.0,0.2
+2026-06-22,Chattogram,Khagrachhari,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-06-22,Chattogram,Khagrachhari,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-06-29,Chattogram,Khagrachhari,BRTA,25,875000.0,35000.0,0.2
+2026-06-29,Chattogram,Khagrachhari,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-06-29,Chattogram,Khagrachhari,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-07-06,Chattogram,Khagrachhari,BRTA,25,875000.0,35000.0,0.2
+2026-07-06,Chattogram,Khagrachhari,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-07-06,Chattogram,Khagrachhari,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-07-13,Chattogram,Khagrachhari,BRTA,25,875000.0,35000.0,0.2
+2026-07-13,Chattogram,Khagrachhari,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-07-13,Chattogram,Khagrachhari,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-07-20,Chattogram,Khagrachhari,BRTA,25,875000.0,35000.0,0.2
+2026-07-20,Chattogram,Khagrachhari,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-07-20,Chattogram,Khagrachhari,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-07-27,Chattogram,Khagrachhari,BRTA,25,875000.0,35000.0,0.2
+2026-07-27,Chattogram,Khagrachhari,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-07-27,Chattogram,Khagrachhari,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-08-03,Chattogram,Khagrachhari,BRTA,25,875000.0,35000.0,0.2
+2026-08-03,Chattogram,Khagrachhari,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-08-03,Chattogram,Khagrachhari,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-08-10,Chattogram,Khagrachhari,BRTA,25,875000.0,35000.0,0.2
+2026-08-10,Chattogram,Khagrachhari,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-08-10,Chattogram,Khagrachhari,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-08-17,Chattogram,Khagrachhari,BRTA,15,525000.0,35000.0,0.3333333333333333
+2026-08-17,Chattogram,Khagrachhari,Land Office,10,150000.0,15000.0,1.0
+2026-08-17,Chattogram,Khagrachhari,Passport Office,10,750000.0,75000.0,1.0
+2026-06-01,Chattogram,Lakshmipur,BRTA,25,12500.0,500.0,0.2
+2026-06-01,Chattogram,Lakshmipur,Land Office,15,1125000.0,75000.0,0.6666666666666666
+2026-06-01,Chattogram,Lakshmipur,Passport Office,15,37500.0,2500.0,0.6666666666666666
+2026-06-08,Chattogram,Lakshmipur,BRTA,25,12500.0,500.0,0.2
+2026-06-08,Chattogram,Lakshmipur,Land Office,15,1125000.0,75000.0,0.6666666666666666
+2026-06-08,Chattogram,Lakshmipur,Passport Office,15,37500.0,2500.0,0.6666666666666666
+2026-06-15,Chattogram,Lakshmipur,BRTA,25,12500.0,500.0,0.2
+2026-06-15,Chattogram,Lakshmipur,Land Office,15,1125000.0,75000.0,0.6666666666666666
+2026-06-15,Chattogram,Lakshmipur,Passport Office,15,37500.0,2500.0,0.6666666666666666
+2026-06-22,Chattogram,Lakshmipur,BRTA,25,12500.0,500.0,0.2
+2026-06-22,Chattogram,Lakshmipur,Land Office,15,1125000.0,75000.0,0.6666666666666666
+2026-06-22,Chattogram,Lakshmipur,Passport Office,15,37500.0,2500.0,0.6666666666666666
+2026-06-29,Chattogram,Lakshmipur,BRTA,25,12500.0,500.0,0.2
+2026-06-29,Chattogram,Lakshmipur,Land Office,15,1125000.0,75000.0,0.6666666666666666
+2026-06-29,Chattogram,Lakshmipur,Passport Office,15,37500.0,2500.0,0.6666666666666666
+2026-07-06,Chattogram,Lakshmipur,BRTA,25,12500.0,500.0,0.2
+2026-07-06,Chattogram,Lakshmipur,Land Office,15,1125000.0,75000.0,0.6666666666666666
+2026-07-06,Chattogram,Lakshmipur,Passport Office,15,37500.0,2500.0,0.6666666666666666
+2026-07-13,Chattogram,Lakshmipur,BRTA,25,12500.0,500.0,0.2
+2026-07-13,Chattogram,Lakshmipur,Land Office,15,1125000.0,75000.0,0.6666666666666666
+2026-07-13,Chattogram,Lakshmipur,Passport Office,15,37500.0,2500.0,0.6666666666666666
+2026-07-20,Chattogram,Lakshmipur,BRTA,25,12500.0,500.0,0.2
+2026-07-20,Chattogram,Lakshmipur,Land Office,15,1125000.0,75000.0,0.6666666666666666
+2026-07-20,Chattogram,Lakshmipur,Passport Office,15,37500.0,2500.0,0.6666666666666666
+2026-07-27,Chattogram,Lakshmipur,BRTA,25,12500.0,500.0,0.2
+2026-07-27,Chattogram,Lakshmipur,Land Office,15,1125000.0,75000.0,0.6666666666666666
+2026-07-27,Chattogram,Lakshmipur,Passport Office,15,37500.0,2500.0,0.6666666666666666
+2026-08-03,Chattogram,Lakshmipur,BRTA,25,12500.0,500.0,0.2
+2026-08-03,Chattogram,Lakshmipur,Land Office,15,1125000.0,75000.0,0.6666666666666666
+2026-08-03,Chattogram,Lakshmipur,Passport Office,15,37500.0,2500.0,0.6666666666666666
+2026-08-10,Chattogram,Lakshmipur,BRTA,25,12500.0,500.0,0.2
+2026-08-10,Chattogram,Lakshmipur,Land Office,15,1125000.0,75000.0,0.6666666666666666
+2026-08-10,Chattogram,Lakshmipur,Passport Office,15,37500.0,2500.0,0.6666666666666666
+2026-08-17,Chattogram,Lakshmipur,BRTA,35,17500.0,500.0,0.14285714285714285
+2026-08-17,Chattogram,Lakshmipur,Land Office,25,1875000.0,75000.0,0.4
+2026-08-17,Chattogram,Lakshmipur,Passport Office,25,62500.0,2500.0,0.4
+2026-06-01,Chattogram,Noakhali,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-06-01,Chattogram,Noakhali,Land Office,25,62500.0,2500.0,0.4
+2026-06-01,Chattogram,Noakhali,Passport Office,25,375000.0,15000.0,0.4
+2026-06-08,Chattogram,Noakhali,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-06-08,Chattogram,Noakhali,Land Office,25,62500.0,2500.0,0.4
+2026-06-08,Chattogram,Noakhali,Passport Office,25,375000.0,15000.0,0.4
+2026-06-15,Chattogram,Noakhali,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-06-15,Chattogram,Noakhali,Land Office,25,62500.0,2500.0,0.4
+2026-06-15,Chattogram,Noakhali,Passport Office,25,375000.0,15000.0,0.4
+2026-06-22,Chattogram,Noakhali,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-06-22,Chattogram,Noakhali,Land Office,25,62500.0,2500.0,0.4
+2026-06-22,Chattogram,Noakhali,Passport Office,25,375000.0,15000.0,0.4
+2026-06-29,Chattogram,Noakhali,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-06-29,Chattogram,Noakhali,Land Office,25,62500.0,2500.0,0.4
+2026-06-29,Chattogram,Noakhali,Passport Office,25,375000.0,15000.0,0.4
+2026-07-06,Chattogram,Noakhali,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-07-06,Chattogram,Noakhali,Land Office,25,62500.0,2500.0,0.4
+2026-07-06,Chattogram,Noakhali,Passport Office,25,375000.0,15000.0,0.4
+2026-07-13,Chattogram,Noakhali,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-07-13,Chattogram,Noakhali,Land Office,25,62500.0,2500.0,0.4
+2026-07-13,Chattogram,Noakhali,Passport Office,25,375000.0,15000.0,0.4
+2026-07-20,Chattogram,Noakhali,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-07-20,Chattogram,Noakhali,Land Office,25,62500.0,2500.0,0.4
+2026-07-20,Chattogram,Noakhali,Passport Office,25,375000.0,15000.0,0.4
+2026-07-27,Chattogram,Noakhali,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-07-27,Chattogram,Noakhali,Land Office,25,62500.0,2500.0,0.4
+2026-07-27,Chattogram,Noakhali,Passport Office,25,375000.0,15000.0,0.4
+2026-08-03,Chattogram,Noakhali,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-08-03,Chattogram,Noakhali,Land Office,25,62500.0,2500.0,0.4
+2026-08-03,Chattogram,Noakhali,Passport Office,25,375000.0,15000.0,0.4
+2026-08-10,Chattogram,Noakhali,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-08-10,Chattogram,Noakhali,Land Office,25,62500.0,2500.0,0.4
+2026-08-10,Chattogram,Noakhali,Passport Office,25,375000.0,15000.0,0.4
+2026-08-17,Chattogram,Noakhali,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-08-17,Chattogram,Noakhali,Land Office,25,62500.0,2500.0,0.4
+2026-08-17,Chattogram,Noakhali,Passport Office,25,375000.0,15000.0,0.4
+2026-06-01,Chattogram,Rangamati,BRTA,20,1500000.0,75000.0,0.5
+2026-06-01,Chattogram,Rangamati,Land Office,10,350000.0,35000.0,0.5
+2026-06-01,Chattogram,Rangamati,Passport Office,10,5000.0,500.0,0.5
+2026-06-08,Chattogram,Rangamati,BRTA,20,1500000.0,75000.0,0.5
+2026-06-08,Chattogram,Rangamati,Land Office,10,350000.0,35000.0,0.5
+2026-06-08,Chattogram,Rangamati,Passport Office,10,5000.0,500.0,0.5
+2026-06-15,Chattogram,Rangamati,BRTA,20,1500000.0,75000.0,0.5
+2026-06-15,Chattogram,Rangamati,Land Office,10,350000.0,35000.0,0.5
+2026-06-15,Chattogram,Rangamati,Passport Office,10,5000.0,500.0,0.5
+2026-06-22,Chattogram,Rangamati,BRTA,20,1500000.0,75000.0,0.5
+2026-06-22,Chattogram,Rangamati,Land Office,10,350000.0,35000.0,0.5
+2026-06-22,Chattogram,Rangamati,Passport Office,10,5000.0,500.0,0.5
+2026-06-29,Chattogram,Rangamati,BRTA,20,1500000.0,75000.0,0.5
+2026-06-29,Chattogram,Rangamati,Land Office,10,350000.0,35000.0,0.5
+2026-06-29,Chattogram,Rangamati,Passport Office,10,5000.0,500.0,0.5
+2026-07-06,Chattogram,Rangamati,BRTA,20,1500000.0,75000.0,0.5
+2026-07-06,Chattogram,Rangamati,Land Office,10,350000.0,35000.0,0.5
+2026-07-06,Chattogram,Rangamati,Passport Office,10,5000.0,500.0,0.5
+2026-07-13,Chattogram,Rangamati,BRTA,20,1500000.0,75000.0,0.5
+2026-07-13,Chattogram,Rangamati,Land Office,10,350000.0,35000.0,0.5
+2026-07-13,Chattogram,Rangamati,Passport Office,10,5000.0,500.0,0.5
+2026-07-20,Chattogram,Rangamati,BRTA,20,1500000.0,75000.0,0.5
+2026-07-20,Chattogram,Rangamati,Land Office,10,350000.0,35000.0,0.5
+2026-07-20,Chattogram,Rangamati,Passport Office,10,5000.0,500.0,0.5
+2026-07-27,Chattogram,Rangamati,BRTA,20,1500000.0,75000.0,0.5
+2026-07-27,Chattogram,Rangamati,Land Office,10,350000.0,35000.0,0.5
+2026-07-27,Chattogram,Rangamati,Passport Office,10,5000.0,500.0,0.5
+2026-08-03,Chattogram,Rangamati,BRTA,20,1500000.0,75000.0,0.5
+2026-08-03,Chattogram,Rangamati,Land Office,10,350000.0,35000.0,0.5
+2026-08-03,Chattogram,Rangamati,Passport Office,10,5000.0,500.0,0.5
+2026-08-10,Chattogram,Rangamati,BRTA,20,1500000.0,75000.0,0.5
+2026-08-10,Chattogram,Rangamati,Land Office,10,350000.0,35000.0,0.5
+2026-08-10,Chattogram,Rangamati,Passport Office,10,5000.0,500.0,0.5
+2026-08-17,Chattogram,Rangamati,BRTA,20,1500000.0,75000.0,0.5
+2026-08-17,Chattogram,Rangamati,Land Office,10,350000.0,35000.0,0.5
+2026-08-17,Chattogram,Rangamati,Passport Office,10,5000.0,500.0,0.5
+2026-06-01,Dhaka,Dhaka,BRTA,20,300000.0,15000.0,0.5
+2026-06-01,Dhaka,Dhaka,Land Office,10,75000.0,7500.0,0.5
+2026-06-01,Dhaka,Dhaka,Passport Office,10,350000.0,35000.0,0.5
+2026-06-08,Dhaka,Dhaka,BRTA,20,300000.0,15000.0,0.5
+2026-06-08,Dhaka,Dhaka,Land Office,10,75000.0,7500.0,0.5
+2026-06-08,Dhaka,Dhaka,Passport Office,10,350000.0,35000.0,0.5
+2026-06-15,Dhaka,Dhaka,BRTA,20,300000.0,15000.0,0.5
+2026-06-15,Dhaka,Dhaka,Land Office,10,75000.0,7500.0,0.5
+2026-06-15,Dhaka,Dhaka,Passport Office,10,350000.0,35000.0,0.5
+2026-06-22,Dhaka,Dhaka,BRTA,20,300000.0,15000.0,0.5
+2026-06-22,Dhaka,Dhaka,Land Office,10,75000.0,7500.0,0.5
+2026-06-22,Dhaka,Dhaka,Passport Office,10,350000.0,35000.0,0.5
+2026-06-29,Dhaka,Dhaka,BRTA,20,300000.0,15000.0,0.5
+2026-06-29,Dhaka,Dhaka,Land Office,10,75000.0,7500.0,0.5
+2026-06-29,Dhaka,Dhaka,Passport Office,10,350000.0,35000.0,0.5
+2026-07-06,Dhaka,Dhaka,BRTA,20,300000.0,15000.0,0.5
+2026-07-06,Dhaka,Dhaka,Land Office,10,75000.0,7500.0,0.5
+2026-07-06,Dhaka,Dhaka,Passport Office,10,350000.0,35000.0,0.5
+2026-07-13,Dhaka,Dhaka,BRTA,20,300000.0,15000.0,0.5
+2026-07-13,Dhaka,Dhaka,Land Office,10,75000.0,7500.0,0.5
+2026-07-13,Dhaka,Dhaka,Passport Office,10,350000.0,35000.0,0.5
+2026-07-20,Dhaka,Dhaka,BRTA,20,300000.0,15000.0,0.5
+2026-07-20,Dhaka,Dhaka,Land Office,10,75000.0,7500.0,0.5
+2026-07-20,Dhaka,Dhaka,Passport Office,10,350000.0,35000.0,0.5
+2026-07-27,Dhaka,Dhaka,BRTA,20,300000.0,15000.0,0.5
+2026-07-27,Dhaka,Dhaka,Land Office,10,75000.0,7500.0,0.5
+2026-07-27,Dhaka,Dhaka,Passport Office,10,350000.0,35000.0,0.5
+2026-08-03,Dhaka,Dhaka,BRTA,20,300000.0,15000.0,0.5
+2026-08-03,Dhaka,Dhaka,Land Office,10,75000.0,7500.0,0.5
+2026-08-03,Dhaka,Dhaka,Passport Office,10,350000.0,35000.0,0.5
+2026-08-10,Dhaka,Dhaka,BRTA,20,300000.0,15000.0,0.5
+2026-08-10,Dhaka,Dhaka,Land Office,10,75000.0,7500.0,0.5
+2026-08-10,Dhaka,Dhaka,Passport Office,10,350000.0,35000.0,0.5
+2026-08-17,Dhaka,Dhaka,BRTA,30,450000.0,15000.0,0.3333333333333333
+2026-08-17,Dhaka,Dhaka,Land Office,20,150000.0,7500.0,0.25
+2026-08-17,Dhaka,Dhaka,Passport Office,20,700000.0,35000.0,0.25
+2026-06-01,Dhaka,Faridpur,BRTA,20,1500000.0,75000.0,0.5
+2026-06-01,Dhaka,Faridpur,Land Office,10,350000.0,35000.0,0.5
+2026-06-01,Dhaka,Faridpur,Passport Office,10,5000.0,500.0,0.5
+2026-06-08,Dhaka,Faridpur,BRTA,20,1500000.0,75000.0,0.5
+2026-06-08,Dhaka,Faridpur,Land Office,10,350000.0,35000.0,0.5
+2026-06-08,Dhaka,Faridpur,Passport Office,10,5000.0,500.0,0.5
+2026-06-15,Dhaka,Faridpur,BRTA,20,1500000.0,75000.0,0.5
+2026-06-15,Dhaka,Faridpur,Land Office,10,350000.0,35000.0,0.5
+2026-06-15,Dhaka,Faridpur,Passport Office,10,5000.0,500.0,0.5
+2026-06-22,Dhaka,Faridpur,BRTA,20,1500000.0,75000.0,0.5
+2026-06-22,Dhaka,Faridpur,Land Office,10,350000.0,35000.0,0.5
+2026-06-22,Dhaka,Faridpur,Passport Office,10,5000.0,500.0,0.5
+2026-06-29,Dhaka,Faridpur,BRTA,20,1500000.0,75000.0,0.5
+2026-06-29,Dhaka,Faridpur,Land Office,10,350000.0,35000.0,0.5
+2026-06-29,Dhaka,Faridpur,Passport Office,10,5000.0,500.0,0.5
+2026-07-06,Dhaka,Faridpur,BRTA,20,1500000.0,75000.0,0.5
+2026-07-06,Dhaka,Faridpur,Land Office,10,350000.0,35000.0,0.5
+2026-07-06,Dhaka,Faridpur,Passport Office,10,5000.0,500.0,0.5
+2026-07-13,Dhaka,Faridpur,BRTA,20,1500000.0,75000.0,0.5
+2026-07-13,Dhaka,Faridpur,Land Office,10,350000.0,35000.0,0.5
+2026-07-13,Dhaka,Faridpur,Passport Office,10,5000.0,500.0,0.5
+2026-07-20,Dhaka,Faridpur,BRTA,20,1500000.0,75000.0,0.5
+2026-07-20,Dhaka,Faridpur,Land Office,10,350000.0,35000.0,0.5
+2026-07-20,Dhaka,Faridpur,Passport Office,10,5000.0,500.0,0.5
+2026-07-27,Dhaka,Faridpur,BRTA,20,1500000.0,75000.0,0.5
+2026-07-27,Dhaka,Faridpur,Land Office,10,350000.0,35000.0,0.5
+2026-07-27,Dhaka,Faridpur,Passport Office,10,5000.0,500.0,0.5
+2026-08-03,Dhaka,Faridpur,BRTA,20,1500000.0,75000.0,0.5
+2026-08-03,Dhaka,Faridpur,Land Office,10,350000.0,35000.0,0.5
+2026-08-03,Dhaka,Faridpur,Passport Office,10,5000.0,500.0,0.5
+2026-08-10,Dhaka,Faridpur,BRTA,20,1500000.0,75000.0,0.5
+2026-08-10,Dhaka,Faridpur,Land Office,10,350000.0,35000.0,0.5
+2026-08-10,Dhaka,Faridpur,Passport Office,10,5000.0,500.0,0.5
+2026-08-17,Dhaka,Faridpur,BRTA,20,1500000.0,75000.0,0.5
+2026-08-17,Dhaka,Faridpur,Land Office,10,350000.0,35000.0,0.5
+2026-08-17,Dhaka,Faridpur,Passport Office,10,5000.0,500.0,0.5
+2026-06-01,Dhaka,Gazipur,BRTA,10,150000.0,15000.0,1.0
+2026-06-01,Dhaka,Gazipur,Land Office,20,150000.0,7500.0,0.25
+2026-06-01,Dhaka,Gazipur,Passport Office,20,700000.0,35000.0,0.25
+2026-06-08,Dhaka,Gazipur,BRTA,10,150000.0,15000.0,1.0
+2026-06-08,Dhaka,Gazipur,Land Office,20,150000.0,7500.0,0.25
+2026-06-08,Dhaka,Gazipur,Passport Office,20,700000.0,35000.0,0.25
+2026-06-15,Dhaka,Gazipur,BRTA,10,150000.0,15000.0,1.0
+2026-06-15,Dhaka,Gazipur,Land Office,20,150000.0,7500.0,0.25
+2026-06-15,Dhaka,Gazipur,Passport Office,20,700000.0,35000.0,0.25
+2026-06-22,Dhaka,Gazipur,BRTA,10,150000.0,15000.0,1.0
+2026-06-22,Dhaka,Gazipur,Land Office,20,150000.0,7500.0,0.25
+2026-06-22,Dhaka,Gazipur,Passport Office,20,700000.0,35000.0,0.25
+2026-06-29,Dhaka,Gazipur,BRTA,10,150000.0,15000.0,1.0
+2026-06-29,Dhaka,Gazipur,Land Office,20,150000.0,7500.0,0.25
+2026-06-29,Dhaka,Gazipur,Passport Office,20,700000.0,35000.0,0.25
+2026-07-06,Dhaka,Gazipur,BRTA,10,150000.0,15000.0,1.0
+2026-07-06,Dhaka,Gazipur,Land Office,20,150000.0,7500.0,0.25
+2026-07-06,Dhaka,Gazipur,Passport Office,20,700000.0,35000.0,0.25
+2026-07-13,Dhaka,Gazipur,BRTA,10,150000.0,15000.0,1.0
+2026-07-13,Dhaka,Gazipur,Land Office,20,150000.0,7500.0,0.25
+2026-07-13,Dhaka,Gazipur,Passport Office,20,700000.0,35000.0,0.25
+2026-07-20,Dhaka,Gazipur,BRTA,10,150000.0,15000.0,1.0
+2026-07-20,Dhaka,Gazipur,Land Office,20,150000.0,7500.0,0.25
+2026-07-20,Dhaka,Gazipur,Passport Office,20,700000.0,35000.0,0.25
+2026-07-27,Dhaka,Gazipur,BRTA,10,150000.0,15000.0,1.0
+2026-07-27,Dhaka,Gazipur,Land Office,20,150000.0,7500.0,0.25
+2026-07-27,Dhaka,Gazipur,Passport Office,20,700000.0,35000.0,0.25
+2026-08-03,Dhaka,Gazipur,BRTA,10,150000.0,15000.0,1.0
+2026-08-03,Dhaka,Gazipur,Land Office,20,150000.0,7500.0,0.25
+2026-08-03,Dhaka,Gazipur,Passport Office,20,700000.0,35000.0,0.25
+2026-08-10,Dhaka,Gazipur,BRTA,10,150000.0,15000.0,1.0
+2026-08-10,Dhaka,Gazipur,Land Office,20,150000.0,7500.0,0.25
+2026-08-10,Dhaka,Gazipur,Passport Office,20,700000.0,35000.0,0.25
+2026-08-17,Dhaka,Gazipur,BRTA,20,300000.0,15000.0,0.5
+2026-08-17,Dhaka,Gazipur,Land Office,30,225000.0,7500.0,0.16666666666666666
+2026-08-17,Dhaka,Gazipur,Passport Office,30,1050000.0,35000.0,0.16666666666666666
+2026-06-01,Dhaka,Gopalganj,BRTA,10,25000.0,2500.0,1.0
+2026-06-01,Dhaka,Gopalganj,Land Office,20,10000.0,500.0,0.25
+2026-06-01,Dhaka,Gopalganj,Passport Office,20,150000.0,7500.0,0.25
+2026-06-08,Dhaka,Gopalganj,BRTA,10,25000.0,2500.0,1.0
+2026-06-08,Dhaka,Gopalganj,Land Office,20,10000.0,500.0,0.25
+2026-06-08,Dhaka,Gopalganj,Passport Office,20,150000.0,7500.0,0.25
+2026-06-15,Dhaka,Gopalganj,BRTA,10,25000.0,2500.0,1.0
+2026-06-15,Dhaka,Gopalganj,Land Office,20,10000.0,500.0,0.25
+2026-06-15,Dhaka,Gopalganj,Passport Office,20,150000.0,7500.0,0.25
+2026-06-22,Dhaka,Gopalganj,BRTA,10,25000.0,2500.0,1.0
+2026-06-22,Dhaka,Gopalganj,Land Office,20,10000.0,500.0,0.25
+2026-06-22,Dhaka,Gopalganj,Passport Office,20,150000.0,7500.0,0.25
+2026-06-29,Dhaka,Gopalganj,BRTA,10,25000.0,2500.0,1.0
+2026-06-29,Dhaka,Gopalganj,Land Office,20,10000.0,500.0,0.25
+2026-06-29,Dhaka,Gopalganj,Passport Office,20,150000.0,7500.0,0.25
+2026-07-06,Dhaka,Gopalganj,BRTA,10,25000.0,2500.0,1.0
+2026-07-06,Dhaka,Gopalganj,Land Office,20,10000.0,500.0,0.25
+2026-07-06,Dhaka,Gopalganj,Passport Office,20,150000.0,7500.0,0.25
+2026-07-13,Dhaka,Gopalganj,BRTA,10,25000.0,2500.0,1.0
+2026-07-13,Dhaka,Gopalganj,Land Office,20,10000.0,500.0,0.25
+2026-07-13,Dhaka,Gopalganj,Passport Office,20,150000.0,7500.0,0.25
+2026-07-20,Dhaka,Gopalganj,BRTA,10,25000.0,2500.0,1.0
+2026-07-20,Dhaka,Gopalganj,Land Office,20,10000.0,500.0,0.25
+2026-07-20,Dhaka,Gopalganj,Passport Office,20,150000.0,7500.0,0.25
+2026-07-27,Dhaka,Gopalganj,BRTA,10,25000.0,2500.0,1.0
+2026-07-27,Dhaka,Gopalganj,Land Office,20,10000.0,500.0,0.25
+2026-07-27,Dhaka,Gopalganj,Passport Office,20,150000.0,7500.0,0.25
+2026-08-03,Dhaka,Gopalganj,BRTA,10,25000.0,2500.0,1.0
+2026-08-03,Dhaka,Gopalganj,Land Office,20,10000.0,500.0,0.25
+2026-08-03,Dhaka,Gopalganj,Passport Office,20,150000.0,7500.0,0.25
+2026-08-10,Dhaka,Gopalganj,BRTA,10,25000.0,2500.0,1.0
+2026-08-10,Dhaka,Gopalganj,Land Office,20,10000.0,500.0,0.25
+2026-08-10,Dhaka,Gopalganj,Passport Office,20,150000.0,7500.0,0.25
+2026-08-17,Dhaka,Gopalganj,BRTA,10,25000.0,2500.0,1.0
+2026-08-17,Dhaka,Gopalganj,Land Office,10,5000.0,500.0,0.5
+2026-08-17,Dhaka,Gopalganj,Passport Office,10,75000.0,7500.0,0.5
+2026-06-01,Dhaka,Kishoreganj,BRTA,10,150000.0,15000.0,1.0
+2026-06-01,Dhaka,Kishoreganj,Land Office,20,150000.0,7500.0,0.25
+2026-06-01,Dhaka,Kishoreganj,Passport Office,20,700000.0,35000.0,0.25
+2026-06-08,Dhaka,Kishoreganj,BRTA,10,150000.0,15000.0,1.0
+2026-06-08,Dhaka,Kishoreganj,Land Office,20,150000.0,7500.0,0.25
+2026-06-08,Dhaka,Kishoreganj,Passport Office,20,700000.0,35000.0,0.25
+2026-06-15,Dhaka,Kishoreganj,BRTA,10,150000.0,15000.0,1.0
+2026-06-15,Dhaka,Kishoreganj,Land Office,20,150000.0,7500.0,0.25
+2026-06-15,Dhaka,Kishoreganj,Passport Office,20,700000.0,35000.0,0.25
+2026-06-22,Dhaka,Kishoreganj,BRTA,10,150000.0,15000.0,1.0
+2026-06-22,Dhaka,Kishoreganj,Land Office,20,150000.0,7500.0,0.25
+2026-06-22,Dhaka,Kishoreganj,Passport Office,20,700000.0,35000.0,0.25
+2026-06-29,Dhaka,Kishoreganj,BRTA,10,150000.0,15000.0,1.0
+2026-06-29,Dhaka,Kishoreganj,Land Office,20,150000.0,7500.0,0.25
+2026-06-29,Dhaka,Kishoreganj,Passport Office,20,700000.0,35000.0,0.25
+2026-07-06,Dhaka,Kishoreganj,BRTA,10,150000.0,15000.0,1.0
+2026-07-06,Dhaka,Kishoreganj,Land Office,20,150000.0,7500.0,0.25
+2026-07-06,Dhaka,Kishoreganj,Passport Office,20,700000.0,35000.0,0.25
+2026-07-13,Dhaka,Kishoreganj,BRTA,10,150000.0,15000.0,1.0
+2026-07-13,Dhaka,Kishoreganj,Land Office,20,150000.0,7500.0,0.25
+2026-07-13,Dhaka,Kishoreganj,Passport Office,20,700000.0,35000.0,0.25
+2026-07-20,Dhaka,Kishoreganj,BRTA,10,150000.0,15000.0,1.0
+2026-07-20,Dhaka,Kishoreganj,Land Office,20,150000.0,7500.0,0.25
+2026-07-20,Dhaka,Kishoreganj,Passport Office,20,700000.0,35000.0,0.25
+2026-07-27,Dhaka,Kishoreganj,BRTA,10,150000.0,15000.0,1.0
+2026-07-27,Dhaka,Kishoreganj,Land Office,20,150000.0,7500.0,0.25
+2026-07-27,Dhaka,Kishoreganj,Passport Office,20,700000.0,35000.0,0.25
+2026-08-03,Dhaka,Kishoreganj,BRTA,10,150000.0,15000.0,1.0
+2026-08-03,Dhaka,Kishoreganj,Land Office,20,150000.0,7500.0,0.25
+2026-08-03,Dhaka,Kishoreganj,Passport Office,20,700000.0,35000.0,0.25
+2026-08-10,Dhaka,Kishoreganj,BRTA,10,150000.0,15000.0,1.0
+2026-08-10,Dhaka,Kishoreganj,Land Office,20,150000.0,7500.0,0.25
+2026-08-10,Dhaka,Kishoreganj,Passport Office,20,700000.0,35000.0,0.25
+2026-08-17,Dhaka,Kishoreganj,BRTA,20,300000.0,15000.0,0.5
+2026-08-17,Dhaka,Kishoreganj,Land Office,30,225000.0,7500.0,0.16666666666666666
+2026-08-17,Dhaka,Kishoreganj,Passport Office,30,1050000.0,35000.0,0.16666666666666666
+2026-06-01,Dhaka,Madaripur,BRTA,25,187500.0,7500.0,0.2
+2026-06-01,Dhaka,Madaripur,Land Office,15,37500.0,2500.0,0.6666666666666666
+2026-06-01,Dhaka,Madaripur,Passport Office,15,225000.0,15000.0,0.6666666666666666
+2026-06-08,Dhaka,Madaripur,BRTA,25,187500.0,7500.0,0.2
+2026-06-08,Dhaka,Madaripur,Land Office,15,37500.0,2500.0,0.6666666666666666
+2026-06-08,Dhaka,Madaripur,Passport Office,15,225000.0,15000.0,0.6666666666666666
+2026-06-15,Dhaka,Madaripur,BRTA,25,187500.0,7500.0,0.2
+2026-06-15,Dhaka,Madaripur,Land Office,15,37500.0,2500.0,0.6666666666666666
+2026-06-15,Dhaka,Madaripur,Passport Office,15,225000.0,15000.0,0.6666666666666666
+2026-06-22,Dhaka,Madaripur,BRTA,25,187500.0,7500.0,0.2
+2026-06-22,Dhaka,Madaripur,Land Office,15,37500.0,2500.0,0.6666666666666666
+2026-06-22,Dhaka,Madaripur,Passport Office,15,225000.0,15000.0,0.6666666666666666
+2026-06-29,Dhaka,Madaripur,BRTA,25,187500.0,7500.0,0.2
+2026-06-29,Dhaka,Madaripur,Land Office,15,37500.0,2500.0,0.6666666666666666
+2026-06-29,Dhaka,Madaripur,Passport Office,15,225000.0,15000.0,0.6666666666666666
+2026-07-06,Dhaka,Madaripur,BRTA,25,187500.0,7500.0,0.2
+2026-07-06,Dhaka,Madaripur,Land Office,15,37500.0,2500.0,0.6666666666666666
+2026-07-06,Dhaka,Madaripur,Passport Office,15,225000.0,15000.0,0.6666666666666666
+2026-07-13,Dhaka,Madaripur,BRTA,25,187500.0,7500.0,0.2
+2026-07-13,Dhaka,Madaripur,Land Office,15,37500.0,2500.0,0.6666666666666666
+2026-07-13,Dhaka,Madaripur,Passport Office,15,225000.0,15000.0,0.6666666666666666
+2026-07-20,Dhaka,Madaripur,BRTA,25,187500.0,7500.0,0.2
+2026-07-20,Dhaka,Madaripur,Land Office,15,37500.0,2500.0,0.6666666666666666
+2026-07-20,Dhaka,Madaripur,Passport Office,15,225000.0,15000.0,0.6666666666666666
+2026-07-27,Dhaka,Madaripur,BRTA,25,187500.0,7500.0,0.2
+2026-07-27,Dhaka,Madaripur,Land Office,15,37500.0,2500.0,0.6666666666666666
+2026-07-27,Dhaka,Madaripur,Passport Office,15,225000.0,15000.0,0.6666666666666666
+2026-08-03,Dhaka,Madaripur,BRTA,25,187500.0,7500.0,0.2
+2026-08-03,Dhaka,Madaripur,Land Office,15,37500.0,2500.0,0.6666666666666666
+2026-08-03,Dhaka,Madaripur,Passport Office,15,225000.0,15000.0,0.6666666666666666
+2026-08-10,Dhaka,Madaripur,BRTA,25,187500.0,7500.0,0.2
+2026-08-10,Dhaka,Madaripur,Land Office,15,37500.0,2500.0,0.6666666666666666
+2026-08-10,Dhaka,Madaripur,Passport Office,15,225000.0,15000.0,0.6666666666666666
+2026-08-17,Dhaka,Madaripur,BRTA,25,187500.0,7500.0,0.2
+2026-08-17,Dhaka,Madaripur,Land Office,15,37500.0,2500.0,0.6666666666666666
+2026-08-17,Dhaka,Madaripur,Passport Office,15,225000.0,15000.0,0.6666666666666666
+2026-06-01,Dhaka,Manikganj,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-06-01,Dhaka,Manikganj,Land Office,25,62500.0,2500.0,0.4
+2026-06-01,Dhaka,Manikganj,Passport Office,25,375000.0,15000.0,0.4
+2026-06-08,Dhaka,Manikganj,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-06-08,Dhaka,Manikganj,Land Office,25,62500.0,2500.0,0.4
+2026-06-08,Dhaka,Manikganj,Passport Office,25,375000.0,15000.0,0.4
+2026-06-15,Dhaka,Manikganj,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-06-15,Dhaka,Manikganj,Land Office,25,62500.0,2500.0,0.4
+2026-06-15,Dhaka,Manikganj,Passport Office,25,375000.0,15000.0,0.4
+2026-06-22,Dhaka,Manikganj,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-06-22,Dhaka,Manikganj,Land Office,25,62500.0,2500.0,0.4
+2026-06-22,Dhaka,Manikganj,Passport Office,25,375000.0,15000.0,0.4
+2026-06-29,Dhaka,Manikganj,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-06-29,Dhaka,Manikganj,Land Office,25,62500.0,2500.0,0.4
+2026-06-29,Dhaka,Manikganj,Passport Office,25,375000.0,15000.0,0.4
+2026-07-06,Dhaka,Manikganj,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-07-06,Dhaka,Manikganj,Land Office,25,62500.0,2500.0,0.4
+2026-07-06,Dhaka,Manikganj,Passport Office,25,375000.0,15000.0,0.4
+2026-07-13,Dhaka,Manikganj,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-07-13,Dhaka,Manikganj,Land Office,25,62500.0,2500.0,0.4
+2026-07-13,Dhaka,Manikganj,Passport Office,25,375000.0,15000.0,0.4
+2026-07-20,Dhaka,Manikganj,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-07-20,Dhaka,Manikganj,Land Office,25,62500.0,2500.0,0.4
+2026-07-20,Dhaka,Manikganj,Passport Office,25,375000.0,15000.0,0.4
+2026-07-27,Dhaka,Manikganj,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-07-27,Dhaka,Manikganj,Land Office,25,62500.0,2500.0,0.4
+2026-07-27,Dhaka,Manikganj,Passport Office,25,375000.0,15000.0,0.4
+2026-08-03,Dhaka,Manikganj,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-08-03,Dhaka,Manikganj,Land Office,25,62500.0,2500.0,0.4
+2026-08-03,Dhaka,Manikganj,Passport Office,25,375000.0,15000.0,0.4
+2026-08-10,Dhaka,Manikganj,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-08-10,Dhaka,Manikganj,Land Office,25,62500.0,2500.0,0.4
+2026-08-10,Dhaka,Manikganj,Passport Office,25,375000.0,15000.0,0.4
+2026-08-17,Dhaka,Manikganj,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-08-17,Dhaka,Manikganj,Land Office,25,62500.0,2500.0,0.4
+2026-08-17,Dhaka,Manikganj,Passport Office,25,375000.0,15000.0,0.4
+2026-06-01,Dhaka,Munshiganj,BRTA,25,875000.0,35000.0,0.2
+2026-06-01,Dhaka,Munshiganj,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-06-01,Dhaka,Munshiganj,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-06-08,Dhaka,Munshiganj,BRTA,25,875000.0,35000.0,0.2
+2026-06-08,Dhaka,Munshiganj,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-06-08,Dhaka,Munshiganj,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-06-15,Dhaka,Munshiganj,BRTA,25,875000.0,35000.0,0.2
+2026-06-15,Dhaka,Munshiganj,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-06-15,Dhaka,Munshiganj,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-06-22,Dhaka,Munshiganj,BRTA,25,875000.0,35000.0,0.2
+2026-06-22,Dhaka,Munshiganj,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-06-22,Dhaka,Munshiganj,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-06-29,Dhaka,Munshiganj,BRTA,25,875000.0,35000.0,0.2
+2026-06-29,Dhaka,Munshiganj,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-06-29,Dhaka,Munshiganj,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-07-06,Dhaka,Munshiganj,BRTA,25,875000.0,35000.0,0.2
+2026-07-06,Dhaka,Munshiganj,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-07-06,Dhaka,Munshiganj,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-07-13,Dhaka,Munshiganj,BRTA,25,875000.0,35000.0,0.2
+2026-07-13,Dhaka,Munshiganj,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-07-13,Dhaka,Munshiganj,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-07-20,Dhaka,Munshiganj,BRTA,25,875000.0,35000.0,0.2
+2026-07-20,Dhaka,Munshiganj,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-07-20,Dhaka,Munshiganj,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-07-27,Dhaka,Munshiganj,BRTA,25,875000.0,35000.0,0.2
+2026-07-27,Dhaka,Munshiganj,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-07-27,Dhaka,Munshiganj,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-08-03,Dhaka,Munshiganj,BRTA,25,875000.0,35000.0,0.2
+2026-08-03,Dhaka,Munshiganj,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-08-03,Dhaka,Munshiganj,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-08-10,Dhaka,Munshiganj,BRTA,25,875000.0,35000.0,0.2
+2026-08-10,Dhaka,Munshiganj,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-08-10,Dhaka,Munshiganj,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-08-17,Dhaka,Munshiganj,BRTA,15,525000.0,35000.0,0.3333333333333333
+2026-08-17,Dhaka,Munshiganj,Land Office,10,150000.0,15000.0,1.0
+2026-08-17,Dhaka,Munshiganj,Passport Office,10,750000.0,75000.0,1.0
+2026-06-01,Dhaka,Narayanganj,BRTA,10,750000.0,75000.0,1.0
+2026-06-01,Dhaka,Narayanganj,Land Office,20,700000.0,35000.0,0.25
+2026-06-01,Dhaka,Narayanganj,Passport Office,20,10000.0,500.0,0.25
+2026-06-08,Dhaka,Narayanganj,BRTA,10,750000.0,75000.0,1.0
+2026-06-08,Dhaka,Narayanganj,Land Office,20,700000.0,35000.0,0.25
+2026-06-08,Dhaka,Narayanganj,Passport Office,20,10000.0,500.0,0.25
+2026-06-15,Dhaka,Narayanganj,BRTA,10,750000.0,75000.0,1.0
+2026-06-15,Dhaka,Narayanganj,Land Office,20,700000.0,35000.0,0.25
+2026-06-15,Dhaka,Narayanganj,Passport Office,20,10000.0,500.0,0.25
+2026-06-22,Dhaka,Narayanganj,BRTA,10,750000.0,75000.0,1.0
+2026-06-22,Dhaka,Narayanganj,Land Office,20,700000.0,35000.0,0.25
+2026-06-22,Dhaka,Narayanganj,Passport Office,20,10000.0,500.0,0.25
+2026-06-29,Dhaka,Narayanganj,BRTA,10,750000.0,75000.0,1.0
+2026-06-29,Dhaka,Narayanganj,Land Office,20,700000.0,35000.0,0.25
+2026-06-29,Dhaka,Narayanganj,Passport Office,20,10000.0,500.0,0.25
+2026-07-06,Dhaka,Narayanganj,BRTA,10,750000.0,75000.0,1.0
+2026-07-06,Dhaka,Narayanganj,Land Office,20,700000.0,35000.0,0.25
+2026-07-06,Dhaka,Narayanganj,Passport Office,20,10000.0,500.0,0.25
+2026-07-13,Dhaka,Narayanganj,BRTA,10,750000.0,75000.0,1.0
+2026-07-13,Dhaka,Narayanganj,Land Office,20,700000.0,35000.0,0.25
+2026-07-13,Dhaka,Narayanganj,Passport Office,20,10000.0,500.0,0.25
+2026-07-20,Dhaka,Narayanganj,BRTA,10,750000.0,75000.0,1.0
+2026-07-20,Dhaka,Narayanganj,Land Office,20,700000.0,35000.0,0.25
+2026-07-20,Dhaka,Narayanganj,Passport Office,20,10000.0,500.0,0.25
+2026-07-27,Dhaka,Narayanganj,BRTA,10,750000.0,75000.0,1.0
+2026-07-27,Dhaka,Narayanganj,Land Office,20,700000.0,35000.0,0.25
+2026-07-27,Dhaka,Narayanganj,Passport Office,20,10000.0,500.0,0.25
+2026-08-03,Dhaka,Narayanganj,BRTA,10,750000.0,75000.0,1.0
+2026-08-03,Dhaka,Narayanganj,Land Office,20,700000.0,35000.0,0.25
+2026-08-03,Dhaka,Narayanganj,Passport Office,20,10000.0,500.0,0.25
+2026-08-10,Dhaka,Narayanganj,BRTA,10,750000.0,75000.0,1.0
+2026-08-10,Dhaka,Narayanganj,Land Office,20,700000.0,35000.0,0.25
+2026-08-10,Dhaka,Narayanganj,Passport Office,20,10000.0,500.0,0.25
+2026-08-17,Dhaka,Narayanganj,BRTA,10,750000.0,75000.0,1.0
+2026-08-17,Dhaka,Narayanganj,Land Office,20,700000.0,35000.0,0.25
+2026-08-17,Dhaka,Narayanganj,Passport Office,20,10000.0,500.0,0.25
+2026-06-01,Dhaka,Narsingdi,BRTA,20,50000.0,2500.0,0.5
+2026-06-01,Dhaka,Narsingdi,Land Office,10,5000.0,500.0,0.5
+2026-06-01,Dhaka,Narsingdi,Passport Office,10,75000.0,7500.0,0.5
+2026-06-08,Dhaka,Narsingdi,BRTA,20,50000.0,2500.0,0.5
+2026-06-08,Dhaka,Narsingdi,Land Office,10,5000.0,500.0,0.5
+2026-06-08,Dhaka,Narsingdi,Passport Office,10,75000.0,7500.0,0.5
+2026-06-15,Dhaka,Narsingdi,BRTA,20,50000.0,2500.0,0.5
+2026-06-15,Dhaka,Narsingdi,Land Office,10,5000.0,500.0,0.5
+2026-06-15,Dhaka,Narsingdi,Passport Office,10,75000.0,7500.0,0.5
+2026-06-22,Dhaka,Narsingdi,BRTA,20,50000.0,2500.0,0.5
+2026-06-22,Dhaka,Narsingdi,Land Office,10,5000.0,500.0,0.5
+2026-06-22,Dhaka,Narsingdi,Passport Office,10,75000.0,7500.0,0.5
+2026-06-29,Dhaka,Narsingdi,BRTA,20,50000.0,2500.0,0.5
+2026-06-29,Dhaka,Narsingdi,Land Office,10,5000.0,500.0,0.5
+2026-06-29,Dhaka,Narsingdi,Passport Office,10,75000.0,7500.0,0.5
+2026-07-06,Dhaka,Narsingdi,BRTA,20,50000.0,2500.0,0.5
+2026-07-06,Dhaka,Narsingdi,Land Office,10,5000.0,500.0,0.5
+2026-07-06,Dhaka,Narsingdi,Passport Office,10,75000.0,7500.0,0.5
+2026-07-13,Dhaka,Narsingdi,BRTA,20,50000.0,2500.0,0.5
+2026-07-13,Dhaka,Narsingdi,Land Office,10,5000.0,500.0,0.5
+2026-07-13,Dhaka,Narsingdi,Passport Office,10,75000.0,7500.0,0.5
+2026-07-20,Dhaka,Narsingdi,BRTA,20,50000.0,2500.0,0.5
+2026-07-20,Dhaka,Narsingdi,Land Office,10,5000.0,500.0,0.5
+2026-07-20,Dhaka,Narsingdi,Passport Office,10,75000.0,7500.0,0.5
+2026-07-27,Dhaka,Narsingdi,BRTA,20,50000.0,2500.0,0.5
+2026-07-27,Dhaka,Narsingdi,Land Office,10,5000.0,500.0,0.5
+2026-07-27,Dhaka,Narsingdi,Passport Office,10,75000.0,7500.0,0.5
+2026-08-03,Dhaka,Narsingdi,BRTA,20,50000.0,2500.0,0.5
+2026-08-03,Dhaka,Narsingdi,Land Office,10,5000.0,500.0,0.5
+2026-08-03,Dhaka,Narsingdi,Passport Office,10,75000.0,7500.0,0.5
+2026-08-10,Dhaka,Narsingdi,BRTA,20,50000.0,2500.0,0.5
+2026-08-10,Dhaka,Narsingdi,Land Office,10,5000.0,500.0,0.5
+2026-08-10,Dhaka,Narsingdi,Passport Office,10,75000.0,7500.0,0.5
+2026-08-17,Dhaka,Narsingdi,BRTA,10,25000.0,2500.0,1.0
+2026-08-17,Dhaka,Narsingdi,Land Office,10,5000.0,500.0,0.5
+2026-08-17,Dhaka,Narsingdi,Passport Office,10,75000.0,7500.0,0.5
+2026-06-01,Dhaka,Rajbari,BRTA,20,50000.0,2500.0,0.5
+2026-06-01,Dhaka,Rajbari,Land Office,10,5000.0,500.0,0.5
+2026-06-01,Dhaka,Rajbari,Passport Office,10,75000.0,7500.0,0.5
+2026-06-08,Dhaka,Rajbari,BRTA,20,50000.0,2500.0,0.5
+2026-06-08,Dhaka,Rajbari,Land Office,10,5000.0,500.0,0.5
+2026-06-08,Dhaka,Rajbari,Passport Office,10,75000.0,7500.0,0.5
+2026-06-15,Dhaka,Rajbari,BRTA,20,50000.0,2500.0,0.5
+2026-06-15,Dhaka,Rajbari,Land Office,10,5000.0,500.0,0.5
+2026-06-15,Dhaka,Rajbari,Passport Office,10,75000.0,7500.0,0.5
+2026-06-22,Dhaka,Rajbari,BRTA,20,50000.0,2500.0,0.5
+2026-06-22,Dhaka,Rajbari,Land Office,10,5000.0,500.0,0.5
+2026-06-22,Dhaka,Rajbari,Passport Office,10,75000.0,7500.0,0.5
+2026-06-29,Dhaka,Rajbari,BRTA,20,50000.0,2500.0,0.5
+2026-06-29,Dhaka,Rajbari,Land Office,10,5000.0,500.0,0.5
+2026-06-29,Dhaka,Rajbari,Passport Office,10,75000.0,7500.0,0.5
+2026-07-06,Dhaka,Rajbari,BRTA,20,50000.0,2500.0,0.5
+2026-07-06,Dhaka,Rajbari,Land Office,10,5000.0,500.0,0.5
+2026-07-06,Dhaka,Rajbari,Passport Office,10,75000.0,7500.0,0.5
+2026-07-13,Dhaka,Rajbari,BRTA,20,50000.0,2500.0,0.5
+2026-07-13,Dhaka,Rajbari,Land Office,10,5000.0,500.0,0.5
+2026-07-13,Dhaka,Rajbari,Passport Office,10,75000.0,7500.0,0.5
+2026-07-20,Dhaka,Rajbari,BRTA,20,50000.0,2500.0,0.5
+2026-07-20,Dhaka,Rajbari,Land Office,10,5000.0,500.0,0.5
+2026-07-20,Dhaka,Rajbari,Passport Office,10,75000.0,7500.0,0.5
+2026-07-27,Dhaka,Rajbari,BRTA,20,50000.0,2500.0,0.5
+2026-07-27,Dhaka,Rajbari,Land Office,10,5000.0,500.0,0.5
+2026-07-27,Dhaka,Rajbari,Passport Office,10,75000.0,7500.0,0.5
+2026-08-03,Dhaka,Rajbari,BRTA,20,50000.0,2500.0,0.5
+2026-08-03,Dhaka,Rajbari,Land Office,10,5000.0,500.0,0.5
+2026-08-03,Dhaka,Rajbari,Passport Office,10,75000.0,7500.0,0.5
+2026-08-10,Dhaka,Rajbari,BRTA,20,50000.0,2500.0,0.5
+2026-08-10,Dhaka,Rajbari,Land Office,10,5000.0,500.0,0.5
+2026-08-10,Dhaka,Rajbari,Passport Office,10,75000.0,7500.0,0.5
+2026-08-17,Dhaka,Rajbari,BRTA,10,25000.0,2500.0,1.0
+2026-08-17,Dhaka,Rajbari,Land Office,10,5000.0,500.0,0.5
+2026-08-17,Dhaka,Rajbari,Passport Office,10,75000.0,7500.0,0.5
+2026-06-01,Dhaka,Shariatpur,BRTA,10,750000.0,75000.0,1.0
+2026-06-01,Dhaka,Shariatpur,Land Office,20,700000.0,35000.0,0.25
+2026-06-01,Dhaka,Shariatpur,Passport Office,20,10000.0,500.0,0.25
+2026-06-08,Dhaka,Shariatpur,BRTA,10,750000.0,75000.0,1.0
+2026-06-08,Dhaka,Shariatpur,Land Office,20,700000.0,35000.0,0.25
+2026-06-08,Dhaka,Shariatpur,Passport Office,20,10000.0,500.0,0.25
+2026-06-15,Dhaka,Shariatpur,BRTA,10,750000.0,75000.0,1.0
+2026-06-15,Dhaka,Shariatpur,Land Office,20,700000.0,35000.0,0.25
+2026-06-15,Dhaka,Shariatpur,Passport Office,20,10000.0,500.0,0.25
+2026-06-22,Dhaka,Shariatpur,BRTA,10,750000.0,75000.0,1.0
+2026-06-22,Dhaka,Shariatpur,Land Office,20,700000.0,35000.0,0.25
+2026-06-22,Dhaka,Shariatpur,Passport Office,20,10000.0,500.0,0.25
+2026-06-29,Dhaka,Shariatpur,BRTA,10,750000.0,75000.0,1.0
+2026-06-29,Dhaka,Shariatpur,Land Office,20,700000.0,35000.0,0.25
+2026-06-29,Dhaka,Shariatpur,Passport Office,20,10000.0,500.0,0.25
+2026-07-06,Dhaka,Shariatpur,BRTA,10,750000.0,75000.0,1.0
+2026-07-06,Dhaka,Shariatpur,Land Office,20,700000.0,35000.0,0.25
+2026-07-06,Dhaka,Shariatpur,Passport Office,20,10000.0,500.0,0.25
+2026-07-13,Dhaka,Shariatpur,BRTA,10,750000.0,75000.0,1.0
+2026-07-13,Dhaka,Shariatpur,Land Office,20,700000.0,35000.0,0.25
+2026-07-13,Dhaka,Shariatpur,Passport Office,20,10000.0,500.0,0.25
+2026-07-20,Dhaka,Shariatpur,BRTA,10,750000.0,75000.0,1.0
+2026-07-20,Dhaka,Shariatpur,Land Office,20,700000.0,35000.0,0.25
+2026-07-20,Dhaka,Shariatpur,Passport Office,20,10000.0,500.0,0.25
+2026-07-27,Dhaka,Shariatpur,BRTA,10,750000.0,75000.0,1.0
+2026-07-27,Dhaka,Shariatpur,Land Office,20,700000.0,35000.0,0.25
+2026-07-27,Dhaka,Shariatpur,Passport Office,20,10000.0,500.0,0.25
+2026-08-03,Dhaka,Shariatpur,BRTA,10,750000.0,75000.0,1.0
+2026-08-03,Dhaka,Shariatpur,Land Office,20,700000.0,35000.0,0.25
+2026-08-03,Dhaka,Shariatpur,Passport Office,20,10000.0,500.0,0.25
+2026-08-10,Dhaka,Shariatpur,BRTA,10,750000.0,75000.0,1.0
+2026-08-10,Dhaka,Shariatpur,Land Office,20,700000.0,35000.0,0.25
+2026-08-10,Dhaka,Shariatpur,Passport Office,20,10000.0,500.0,0.25
+2026-08-17,Dhaka,Shariatpur,BRTA,10,750000.0,75000.0,1.0
+2026-08-17,Dhaka,Shariatpur,Land Office,20,700000.0,35000.0,0.25
+2026-08-17,Dhaka,Shariatpur,Passport Office,20,10000.0,500.0,0.25
+2026-06-01,Dhaka,Tangail,BRTA,10,25000.0,2500.0,1.0
+2026-06-01,Dhaka,Tangail,Land Office,20,10000.0,500.0,0.25
+2026-06-01,Dhaka,Tangail,Passport Office,20,150000.0,7500.0,0.25
+2026-06-08,Dhaka,Tangail,BRTA,10,25000.0,2500.0,1.0
+2026-06-08,Dhaka,Tangail,Land Office,20,10000.0,500.0,0.25
+2026-06-08,Dhaka,Tangail,Passport Office,20,150000.0,7500.0,0.25
+2026-06-15,Dhaka,Tangail,BRTA,10,25000.0,2500.0,1.0
+2026-06-15,Dhaka,Tangail,Land Office,20,10000.0,500.0,0.25
+2026-06-15,Dhaka,Tangail,Passport Office,20,150000.0,7500.0,0.25
+2026-06-22,Dhaka,Tangail,BRTA,10,25000.0,2500.0,1.0
+2026-06-22,Dhaka,Tangail,Land Office,20,10000.0,500.0,0.25
+2026-06-22,Dhaka,Tangail,Passport Office,20,150000.0,7500.0,0.25
+2026-06-29,Dhaka,Tangail,BRTA,10,25000.0,2500.0,1.0
+2026-06-29,Dhaka,Tangail,Land Office,20,10000.0,500.0,0.25
+2026-06-29,Dhaka,Tangail,Passport Office,20,150000.0,7500.0,0.25
+2026-07-06,Dhaka,Tangail,BRTA,10,25000.0,2500.0,1.0
+2026-07-06,Dhaka,Tangail,Land Office,20,10000.0,500.0,0.25
+2026-07-06,Dhaka,Tangail,Passport Office,20,150000.0,7500.0,0.25
+2026-07-13,Dhaka,Tangail,BRTA,10,25000.0,2500.0,1.0
+2026-07-13,Dhaka,Tangail,Land Office,20,10000.0,500.0,0.25
+2026-07-13,Dhaka,Tangail,Passport Office,20,150000.0,7500.0,0.25
+2026-07-20,Dhaka,Tangail,BRTA,10,25000.0,2500.0,1.0
+2026-07-20,Dhaka,Tangail,Land Office,20,10000.0,500.0,0.25
+2026-07-20,Dhaka,Tangail,Passport Office,20,150000.0,7500.0,0.25
+2026-07-27,Dhaka,Tangail,BRTA,10,25000.0,2500.0,1.0
+2026-07-27,Dhaka,Tangail,Land Office,20,10000.0,500.0,0.25
+2026-07-27,Dhaka,Tangail,Passport Office,20,150000.0,7500.0,0.25
+2026-08-03,Dhaka,Tangail,BRTA,10,25000.0,2500.0,1.0
+2026-08-03,Dhaka,Tangail,Land Office,20,10000.0,500.0,0.25
+2026-08-03,Dhaka,Tangail,Passport Office,20,150000.0,7500.0,0.25
+2026-08-10,Dhaka,Tangail,BRTA,10,25000.0,2500.0,1.0
+2026-08-10,Dhaka,Tangail,Land Office,20,10000.0,500.0,0.25
+2026-08-10,Dhaka,Tangail,Passport Office,20,150000.0,7500.0,0.25
+2026-08-17,Dhaka,Tangail,BRTA,10,25000.0,2500.0,1.0
+2026-08-17,Dhaka,Tangail,Land Office,10,5000.0,500.0,0.5
+2026-08-17,Dhaka,Tangail,Passport Office,10,75000.0,7500.0,0.5
+2026-06-01,Khulna,Bagerhat,BRTA,10,750000.0,75000.0,1.0
+2026-06-01,Khulna,Bagerhat,Land Office,20,700000.0,35000.0,0.25
+2026-06-01,Khulna,Bagerhat,Passport Office,20,10000.0,500.0,0.25
+2026-06-08,Khulna,Bagerhat,BRTA,10,750000.0,75000.0,1.0
+2026-06-08,Khulna,Bagerhat,Land Office,20,700000.0,35000.0,0.25
+2026-06-08,Khulna,Bagerhat,Passport Office,20,10000.0,500.0,0.25
+2026-06-15,Khulna,Bagerhat,BRTA,10,750000.0,75000.0,1.0
+2026-06-15,Khulna,Bagerhat,Land Office,20,700000.0,35000.0,0.25
+2026-06-15,Khulna,Bagerhat,Passport Office,20,10000.0,500.0,0.25
+2026-06-22,Khulna,Bagerhat,BRTA,10,750000.0,75000.0,1.0
+2026-06-22,Khulna,Bagerhat,Land Office,20,700000.0,35000.0,0.25
+2026-06-22,Khulna,Bagerhat,Passport Office,20,10000.0,500.0,0.25
+2026-06-29,Khulna,Bagerhat,BRTA,10,750000.0,75000.0,1.0
+2026-06-29,Khulna,Bagerhat,Land Office,20,700000.0,35000.0,0.25
+2026-06-29,Khulna,Bagerhat,Passport Office,20,10000.0,500.0,0.25
+2026-07-06,Khulna,Bagerhat,BRTA,10,750000.0,75000.0,1.0
+2026-07-06,Khulna,Bagerhat,Land Office,20,700000.0,35000.0,0.25
+2026-07-06,Khulna,Bagerhat,Passport Office,20,10000.0,500.0,0.25
+2026-07-13,Khulna,Bagerhat,BRTA,10,750000.0,75000.0,1.0
+2026-07-13,Khulna,Bagerhat,Land Office,20,700000.0,35000.0,0.25
+2026-07-13,Khulna,Bagerhat,Passport Office,20,10000.0,500.0,0.25
+2026-07-20,Khulna,Bagerhat,BRTA,10,750000.0,75000.0,1.0
+2026-07-20,Khulna,Bagerhat,Land Office,20,700000.0,35000.0,0.25
+2026-07-20,Khulna,Bagerhat,Passport Office,20,10000.0,500.0,0.25
+2026-07-27,Khulna,Bagerhat,BRTA,10,750000.0,75000.0,1.0
+2026-07-27,Khulna,Bagerhat,Land Office,20,700000.0,35000.0,0.25
+2026-07-27,Khulna,Bagerhat,Passport Office,20,10000.0,500.0,0.25
+2026-08-03,Khulna,Bagerhat,BRTA,10,750000.0,75000.0,1.0
+2026-08-03,Khulna,Bagerhat,Land Office,20,700000.0,35000.0,0.25
+2026-08-03,Khulna,Bagerhat,Passport Office,20,10000.0,500.0,0.25
+2026-08-10,Khulna,Bagerhat,BRTA,10,750000.0,75000.0,1.0
+2026-08-10,Khulna,Bagerhat,Land Office,20,700000.0,35000.0,0.25
+2026-08-10,Khulna,Bagerhat,Passport Office,20,10000.0,500.0,0.25
+2026-08-17,Khulna,Bagerhat,BRTA,10,750000.0,75000.0,1.0
+2026-08-17,Khulna,Bagerhat,Land Office,20,700000.0,35000.0,0.25
+2026-08-17,Khulna,Bagerhat,Passport Office,20,10000.0,500.0,0.25
+2026-06-01,Khulna,Chuadanga,BRTA,25,875000.0,35000.0,0.2
+2026-06-01,Khulna,Chuadanga,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-06-01,Khulna,Chuadanga,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-06-08,Khulna,Chuadanga,BRTA,25,875000.0,35000.0,0.2
+2026-06-08,Khulna,Chuadanga,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-06-08,Khulna,Chuadanga,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-06-15,Khulna,Chuadanga,BRTA,25,875000.0,35000.0,0.2
+2026-06-15,Khulna,Chuadanga,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-06-15,Khulna,Chuadanga,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-06-22,Khulna,Chuadanga,BRTA,25,875000.0,35000.0,0.2
+2026-06-22,Khulna,Chuadanga,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-06-22,Khulna,Chuadanga,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-06-29,Khulna,Chuadanga,BRTA,25,875000.0,35000.0,0.2
+2026-06-29,Khulna,Chuadanga,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-06-29,Khulna,Chuadanga,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-07-06,Khulna,Chuadanga,BRTA,25,875000.0,35000.0,0.2
+2026-07-06,Khulna,Chuadanga,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-07-06,Khulna,Chuadanga,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-07-13,Khulna,Chuadanga,BRTA,25,875000.0,35000.0,0.2
+2026-07-13,Khulna,Chuadanga,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-07-13,Khulna,Chuadanga,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-07-20,Khulna,Chuadanga,BRTA,25,875000.0,35000.0,0.2
+2026-07-20,Khulna,Chuadanga,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-07-20,Khulna,Chuadanga,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-07-27,Khulna,Chuadanga,BRTA,25,875000.0,35000.0,0.2
+2026-07-27,Khulna,Chuadanga,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-07-27,Khulna,Chuadanga,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-08-03,Khulna,Chuadanga,BRTA,25,875000.0,35000.0,0.2
+2026-08-03,Khulna,Chuadanga,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-08-03,Khulna,Chuadanga,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-08-10,Khulna,Chuadanga,BRTA,25,875000.0,35000.0,0.2
+2026-08-10,Khulna,Chuadanga,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-08-10,Khulna,Chuadanga,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-08-17,Khulna,Chuadanga,BRTA,15,525000.0,35000.0,0.3333333333333333
+2026-08-17,Khulna,Chuadanga,Land Office,10,150000.0,15000.0,1.0
+2026-08-17,Khulna,Chuadanga,Passport Office,10,750000.0,75000.0,1.0
+2026-06-01,Khulna,Jessore,BRTA,20,300000.0,15000.0,0.5
+2026-06-01,Khulna,Jessore,Land Office,10,75000.0,7500.0,0.5
+2026-06-01,Khulna,Jessore,Passport Office,10,350000.0,35000.0,0.5
+2026-06-08,Khulna,Jessore,BRTA,20,300000.0,15000.0,0.5
+2026-06-08,Khulna,Jessore,Land Office,10,75000.0,7500.0,0.5
+2026-06-08,Khulna,Jessore,Passport Office,10,350000.0,35000.0,0.5
+2026-06-15,Khulna,Jessore,BRTA,20,300000.0,15000.0,0.5
+2026-06-15,Khulna,Jessore,Land Office,10,75000.0,7500.0,0.5
+2026-06-15,Khulna,Jessore,Passport Office,10,350000.0,35000.0,0.5
+2026-06-22,Khulna,Jessore,BRTA,20,300000.0,15000.0,0.5
+2026-06-22,Khulna,Jessore,Land Office,10,75000.0,7500.0,0.5
+2026-06-22,Khulna,Jessore,Passport Office,10,350000.0,35000.0,0.5
+2026-06-29,Khulna,Jessore,BRTA,20,300000.0,15000.0,0.5
+2026-06-29,Khulna,Jessore,Land Office,10,75000.0,7500.0,0.5
+2026-06-29,Khulna,Jessore,Passport Office,10,350000.0,35000.0,0.5
+2026-07-06,Khulna,Jessore,BRTA,20,300000.0,15000.0,0.5
+2026-07-06,Khulna,Jessore,Land Office,10,75000.0,7500.0,0.5
+2026-07-06,Khulna,Jessore,Passport Office,10,350000.0,35000.0,0.5
+2026-07-13,Khulna,Jessore,BRTA,20,300000.0,15000.0,0.5
+2026-07-13,Khulna,Jessore,Land Office,10,75000.0,7500.0,0.5
+2026-07-13,Khulna,Jessore,Passport Office,10,350000.0,35000.0,0.5
+2026-07-20,Khulna,Jessore,BRTA,20,300000.0,15000.0,0.5
+2026-07-20,Khulna,Jessore,Land Office,10,75000.0,7500.0,0.5
+2026-07-20,Khulna,Jessore,Passport Office,10,350000.0,35000.0,0.5
+2026-07-27,Khulna,Jessore,BRTA,20,300000.0,15000.0,0.5
+2026-07-27,Khulna,Jessore,Land Office,10,75000.0,7500.0,0.5
+2026-07-27,Khulna,Jessore,Passport Office,10,350000.0,35000.0,0.5
+2026-08-03,Khulna,Jessore,BRTA,20,300000.0,15000.0,0.5
+2026-08-03,Khulna,Jessore,Land Office,10,75000.0,7500.0,0.5
+2026-08-03,Khulna,Jessore,Passport Office,10,350000.0,35000.0,0.5
+2026-08-10,Khulna,Jessore,BRTA,20,300000.0,15000.0,0.5
+2026-08-10,Khulna,Jessore,Land Office,10,75000.0,7500.0,0.5
+2026-08-10,Khulna,Jessore,Passport Office,10,350000.0,35000.0,0.5
+2026-08-17,Khulna,Jessore,BRTA,30,450000.0,15000.0,0.3333333333333333
+2026-08-17,Khulna,Jessore,Land Office,20,150000.0,7500.0,0.25
+2026-08-17,Khulna,Jessore,Passport Office,20,700000.0,35000.0,0.25
+2026-06-01,Khulna,Jhenaidah,BRTA,15,525000.0,35000.0,0.3333333333333333
+2026-06-01,Khulna,Jhenaidah,Land Office,25,375000.0,15000.0,0.4
+2026-06-01,Khulna,Jhenaidah,Passport Office,25,1875000.0,75000.0,0.4
+2026-06-08,Khulna,Jhenaidah,BRTA,15,525000.0,35000.0,0.3333333333333333
+2026-06-08,Khulna,Jhenaidah,Land Office,25,375000.0,15000.0,0.4
+2026-06-08,Khulna,Jhenaidah,Passport Office,25,1875000.0,75000.0,0.4
+2026-06-15,Khulna,Jhenaidah,BRTA,15,525000.0,35000.0,0.3333333333333333
+2026-06-15,Khulna,Jhenaidah,Land Office,25,375000.0,15000.0,0.4
+2026-06-15,Khulna,Jhenaidah,Passport Office,25,1875000.0,75000.0,0.4
+2026-06-22,Khulna,Jhenaidah,BRTA,15,525000.0,35000.0,0.3333333333333333
+2026-06-22,Khulna,Jhenaidah,Land Office,25,375000.0,15000.0,0.4
+2026-06-22,Khulna,Jhenaidah,Passport Office,25,1875000.0,75000.0,0.4
+2026-06-29,Khulna,Jhenaidah,BRTA,15,525000.0,35000.0,0.3333333333333333
+2026-06-29,Khulna,Jhenaidah,Land Office,25,375000.0,15000.0,0.4
+2026-06-29,Khulna,Jhenaidah,Passport Office,25,1875000.0,75000.0,0.4
+2026-07-06,Khulna,Jhenaidah,BRTA,15,525000.0,35000.0,0.3333333333333333
+2026-07-06,Khulna,Jhenaidah,Land Office,25,375000.0,15000.0,0.4
+2026-07-06,Khulna,Jhenaidah,Passport Office,25,1875000.0,75000.0,0.4
+2026-07-13,Khulna,Jhenaidah,BRTA,15,525000.0,35000.0,0.3333333333333333
+2026-07-13,Khulna,Jhenaidah,Land Office,25,375000.0,15000.0,0.4
+2026-07-13,Khulna,Jhenaidah,Passport Office,25,1875000.0,75000.0,0.4
+2026-07-20,Khulna,Jhenaidah,BRTA,15,525000.0,35000.0,0.3333333333333333
+2026-07-20,Khulna,Jhenaidah,Land Office,25,375000.0,15000.0,0.4
+2026-07-20,Khulna,Jhenaidah,Passport Office,25,1875000.0,75000.0,0.4
+2026-07-27,Khulna,Jhenaidah,BRTA,15,525000.0,35000.0,0.3333333333333333
+2026-07-27,Khulna,Jhenaidah,Land Office,25,375000.0,15000.0,0.4
+2026-07-27,Khulna,Jhenaidah,Passport Office,25,1875000.0,75000.0,0.4
+2026-08-03,Khulna,Jhenaidah,BRTA,15,525000.0,35000.0,0.3333333333333333
+2026-08-03,Khulna,Jhenaidah,Land Office,25,375000.0,15000.0,0.4
+2026-08-03,Khulna,Jhenaidah,Passport Office,25,1875000.0,75000.0,0.4
+2026-08-10,Khulna,Jhenaidah,BRTA,15,525000.0,35000.0,0.3333333333333333
+2026-08-10,Khulna,Jhenaidah,Land Office,25,375000.0,15000.0,0.4
+2026-08-10,Khulna,Jhenaidah,Passport Office,25,1875000.0,75000.0,0.4
+2026-08-17,Khulna,Jhenaidah,BRTA,10,350000.0,35000.0,0.5
+2026-08-17,Khulna,Jhenaidah,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-08-17,Khulna,Jhenaidah,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-06-01,Khulna,Khulna,BRTA,15,7500.0,500.0,0.3333333333333333
+2026-06-01,Khulna,Khulna,Land Office,25,1875000.0,75000.0,0.4
+2026-06-01,Khulna,Khulna,Passport Office,25,62500.0,2500.0,0.4
+2026-06-08,Khulna,Khulna,BRTA,15,7500.0,500.0,0.3333333333333333
+2026-06-08,Khulna,Khulna,Land Office,25,1875000.0,75000.0,0.4
+2026-06-08,Khulna,Khulna,Passport Office,25,62500.0,2500.0,0.4
+2026-06-15,Khulna,Khulna,BRTA,15,7500.0,500.0,0.3333333333333333
+2026-06-15,Khulna,Khulna,Land Office,25,1875000.0,75000.0,0.4
+2026-06-15,Khulna,Khulna,Passport Office,25,62500.0,2500.0,0.4
+2026-06-22,Khulna,Khulna,BRTA,15,7500.0,500.0,0.3333333333333333
+2026-06-22,Khulna,Khulna,Land Office,25,1875000.0,75000.0,0.4
+2026-06-22,Khulna,Khulna,Passport Office,25,62500.0,2500.0,0.4
+2026-06-29,Khulna,Khulna,BRTA,15,7500.0,500.0,0.3333333333333333
+2026-06-29,Khulna,Khulna,Land Office,25,1875000.0,75000.0,0.4
+2026-06-29,Khulna,Khulna,Passport Office,25,62500.0,2500.0,0.4
+2026-07-06,Khulna,Khulna,BRTA,15,7500.0,500.0,0.3333333333333333
+2026-07-06,Khulna,Khulna,Land Office,25,1875000.0,75000.0,0.4
+2026-07-06,Khulna,Khulna,Passport Office,25,62500.0,2500.0,0.4
+2026-07-13,Khulna,Khulna,BRTA,15,7500.0,500.0,0.3333333333333333
+2026-07-13,Khulna,Khulna,Land Office,25,1875000.0,75000.0,0.4
+2026-07-13,Khulna,Khulna,Passport Office,25,62500.0,2500.0,0.4
+2026-07-20,Khulna,Khulna,BRTA,15,7500.0,500.0,0.3333333333333333
+2026-07-20,Khulna,Khulna,Land Office,25,1875000.0,75000.0,0.4
+2026-07-20,Khulna,Khulna,Passport Office,25,62500.0,2500.0,0.4
+2026-07-27,Khulna,Khulna,BRTA,15,7500.0,500.0,0.3333333333333333
+2026-07-27,Khulna,Khulna,Land Office,25,1875000.0,75000.0,0.4
+2026-07-27,Khulna,Khulna,Passport Office,25,62500.0,2500.0,0.4
+2026-08-03,Khulna,Khulna,BRTA,15,7500.0,500.0,0.3333333333333333
+2026-08-03,Khulna,Khulna,Land Office,25,1875000.0,75000.0,0.4
+2026-08-03,Khulna,Khulna,Passport Office,25,62500.0,2500.0,0.4
+2026-08-10,Khulna,Khulna,BRTA,15,7500.0,500.0,0.3333333333333333
+2026-08-10,Khulna,Khulna,Land Office,25,1875000.0,75000.0,0.4
+2026-08-10,Khulna,Khulna,Passport Office,25,62500.0,2500.0,0.4
+2026-08-17,Khulna,Khulna,BRTA,25,12500.0,500.0,0.2
+2026-08-17,Khulna,Khulna,Land Office,35,2625000.0,75000.0,0.2857142857142857
+2026-08-17,Khulna,Khulna,Passport Office,35,87500.0,2500.0,0.2857142857142857
+2026-06-01,Khulna,Kushtia,BRTA,20,1500000.0,75000.0,0.5
+2026-06-01,Khulna,Kushtia,Land Office,10,350000.0,35000.0,0.5
+2026-06-01,Khulna,Kushtia,Passport Office,10,5000.0,500.0,0.5
+2026-06-08,Khulna,Kushtia,BRTA,20,1500000.0,75000.0,0.5
+2026-06-08,Khulna,Kushtia,Land Office,10,350000.0,35000.0,0.5
+2026-06-08,Khulna,Kushtia,Passport Office,10,5000.0,500.0,0.5
+2026-06-15,Khulna,Kushtia,BRTA,20,1500000.0,75000.0,0.5
+2026-06-15,Khulna,Kushtia,Land Office,10,350000.0,35000.0,0.5
+2026-06-15,Khulna,Kushtia,Passport Office,10,5000.0,500.0,0.5
+2026-06-22,Khulna,Kushtia,BRTA,20,1500000.0,75000.0,0.5
+2026-06-22,Khulna,Kushtia,Land Office,10,350000.0,35000.0,0.5
+2026-06-22,Khulna,Kushtia,Passport Office,10,5000.0,500.0,0.5
+2026-06-29,Khulna,Kushtia,BRTA,20,1500000.0,75000.0,0.5
+2026-06-29,Khulna,Kushtia,Land Office,10,350000.0,35000.0,0.5
+2026-06-29,Khulna,Kushtia,Passport Office,10,5000.0,500.0,0.5
+2026-07-06,Khulna,Kushtia,BRTA,20,1500000.0,75000.0,0.5
+2026-07-06,Khulna,Kushtia,Land Office,10,350000.0,35000.0,0.5
+2026-07-06,Khulna,Kushtia,Passport Office,10,5000.0,500.0,0.5
+2026-07-13,Khulna,Kushtia,BRTA,20,1500000.0,75000.0,0.5
+2026-07-13,Khulna,Kushtia,Land Office,10,350000.0,35000.0,0.5
+2026-07-13,Khulna,Kushtia,Passport Office,10,5000.0,500.0,0.5
+2026-07-20,Khulna,Kushtia,BRTA,20,1500000.0,75000.0,0.5
+2026-07-20,Khulna,Kushtia,Land Office,10,350000.0,35000.0,0.5
+2026-07-20,Khulna,Kushtia,Passport Office,10,5000.0,500.0,0.5
+2026-07-27,Khulna,Kushtia,BRTA,20,1500000.0,75000.0,0.5
+2026-07-27,Khulna,Kushtia,Land Office,10,350000.0,35000.0,0.5
+2026-07-27,Khulna,Kushtia,Passport Office,10,5000.0,500.0,0.5
+2026-08-03,Khulna,Kushtia,BRTA,20,1500000.0,75000.0,0.5
+2026-08-03,Khulna,Kushtia,Land Office,10,350000.0,35000.0,0.5
+2026-08-03,Khulna,Kushtia,Passport Office,10,5000.0,500.0,0.5
+2026-08-10,Khulna,Kushtia,BRTA,20,1500000.0,75000.0,0.5
+2026-08-10,Khulna,Kushtia,Land Office,10,350000.0,35000.0,0.5
+2026-08-10,Khulna,Kushtia,Passport Office,10,5000.0,500.0,0.5
+2026-08-17,Khulna,Kushtia,BRTA,20,1500000.0,75000.0,0.5
+2026-08-17,Khulna,Kushtia,Land Office,10,350000.0,35000.0,0.5
+2026-08-17,Khulna,Kushtia,Passport Office,10,5000.0,500.0,0.5
+2026-06-01,Khulna,Magura,BRTA,20,50000.0,2500.0,0.5
+2026-06-01,Khulna,Magura,Land Office,10,5000.0,500.0,0.5
+2026-06-01,Khulna,Magura,Passport Office,10,75000.0,7500.0,0.5
+2026-06-08,Khulna,Magura,BRTA,20,50000.0,2500.0,0.5
+2026-06-08,Khulna,Magura,Land Office,10,5000.0,500.0,0.5
+2026-06-08,Khulna,Magura,Passport Office,10,75000.0,7500.0,0.5
+2026-06-15,Khulna,Magura,BRTA,20,50000.0,2500.0,0.5
+2026-06-15,Khulna,Magura,Land Office,10,5000.0,500.0,0.5
+2026-06-15,Khulna,Magura,Passport Office,10,75000.0,7500.0,0.5
+2026-06-22,Khulna,Magura,BRTA,20,50000.0,2500.0,0.5
+2026-06-22,Khulna,Magura,Land Office,10,5000.0,500.0,0.5
+2026-06-22,Khulna,Magura,Passport Office,10,75000.0,7500.0,0.5
+2026-06-29,Khulna,Magura,BRTA,20,50000.0,2500.0,0.5
+2026-06-29,Khulna,Magura,Land Office,10,5000.0,500.0,0.5
+2026-06-29,Khulna,Magura,Passport Office,10,75000.0,7500.0,0.5
+2026-07-06,Khulna,Magura,BRTA,20,50000.0,2500.0,0.5
+2026-07-06,Khulna,Magura,Land Office,10,5000.0,500.0,0.5
+2026-07-06,Khulna,Magura,Passport Office,10,75000.0,7500.0,0.5
+2026-07-13,Khulna,Magura,BRTA,20,50000.0,2500.0,0.5
+2026-07-13,Khulna,Magura,Land Office,10,5000.0,500.0,0.5
+2026-07-13,Khulna,Magura,Passport Office,10,75000.0,7500.0,0.5
+2026-07-20,Khulna,Magura,BRTA,20,50000.0,2500.0,0.5
+2026-07-20,Khulna,Magura,Land Office,10,5000.0,500.0,0.5
+2026-07-20,Khulna,Magura,Passport Office,10,75000.0,7500.0,0.5
+2026-07-27,Khulna,Magura,BRTA,20,50000.0,2500.0,0.5
+2026-07-27,Khulna,Magura,Land Office,10,5000.0,500.0,0.5
+2026-07-27,Khulna,Magura,Passport Office,10,75000.0,7500.0,0.5
+2026-08-03,Khulna,Magura,BRTA,20,50000.0,2500.0,0.5
+2026-08-03,Khulna,Magura,Land Office,10,5000.0,500.0,0.5
+2026-08-03,Khulna,Magura,Passport Office,10,75000.0,7500.0,0.5
+2026-08-10,Khulna,Magura,BRTA,20,50000.0,2500.0,0.5
+2026-08-10,Khulna,Magura,Land Office,10,5000.0,500.0,0.5
+2026-08-10,Khulna,Magura,Passport Office,10,75000.0,7500.0,0.5
+2026-08-17,Khulna,Magura,BRTA,10,25000.0,2500.0,1.0
+2026-08-17,Khulna,Magura,Land Office,10,5000.0,500.0,0.5
+2026-08-17,Khulna,Magura,Passport Office,10,75000.0,7500.0,0.5
+2026-06-01,Khulna,Meherpur,BRTA,20,50000.0,2500.0,0.5
+2026-06-01,Khulna,Meherpur,Land Office,10,5000.0,500.0,0.5
+2026-06-01,Khulna,Meherpur,Passport Office,10,75000.0,7500.0,0.5
+2026-06-08,Khulna,Meherpur,BRTA,20,50000.0,2500.0,0.5
+2026-06-08,Khulna,Meherpur,Land Office,10,5000.0,500.0,0.5
+2026-06-08,Khulna,Meherpur,Passport Office,10,75000.0,7500.0,0.5
+2026-06-15,Khulna,Meherpur,BRTA,20,50000.0,2500.0,0.5
+2026-06-15,Khulna,Meherpur,Land Office,10,5000.0,500.0,0.5
+2026-06-15,Khulna,Meherpur,Passport Office,10,75000.0,7500.0,0.5
+2026-06-22,Khulna,Meherpur,BRTA,20,50000.0,2500.0,0.5
+2026-06-22,Khulna,Meherpur,Land Office,10,5000.0,500.0,0.5
+2026-06-22,Khulna,Meherpur,Passport Office,10,75000.0,7500.0,0.5
+2026-06-29,Khulna,Meherpur,BRTA,20,50000.0,2500.0,0.5
+2026-06-29,Khulna,Meherpur,Land Office,10,5000.0,500.0,0.5
+2026-06-29,Khulna,Meherpur,Passport Office,10,75000.0,7500.0,0.5
+2026-07-06,Khulna,Meherpur,BRTA,20,50000.0,2500.0,0.5
+2026-07-06,Khulna,Meherpur,Land Office,10,5000.0,500.0,0.5
+2026-07-06,Khulna,Meherpur,Passport Office,10,75000.0,7500.0,0.5
+2026-07-13,Khulna,Meherpur,BRTA,20,50000.0,2500.0,0.5
+2026-07-13,Khulna,Meherpur,Land Office,10,5000.0,500.0,0.5
+2026-07-13,Khulna,Meherpur,Passport Office,10,75000.0,7500.0,0.5
+2026-07-20,Khulna,Meherpur,BRTA,20,50000.0,2500.0,0.5
+2026-07-20,Khulna,Meherpur,Land Office,10,5000.0,500.0,0.5
+2026-07-20,Khulna,Meherpur,Passport Office,10,75000.0,7500.0,0.5
+2026-07-27,Khulna,Meherpur,BRTA,20,50000.0,2500.0,0.5
+2026-07-27,Khulna,Meherpur,Land Office,10,5000.0,500.0,0.5
+2026-07-27,Khulna,Meherpur,Passport Office,10,75000.0,7500.0,0.5
+2026-08-03,Khulna,Meherpur,BRTA,20,50000.0,2500.0,0.5
+2026-08-03,Khulna,Meherpur,Land Office,10,5000.0,500.0,0.5
+2026-08-03,Khulna,Meherpur,Passport Office,10,75000.0,7500.0,0.5
+2026-08-10,Khulna,Meherpur,BRTA,20,50000.0,2500.0,0.5
+2026-08-10,Khulna,Meherpur,Land Office,10,5000.0,500.0,0.5
+2026-08-10,Khulna,Meherpur,Passport Office,10,75000.0,7500.0,0.5
+2026-08-17,Khulna,Meherpur,BRTA,10,25000.0,2500.0,1.0
+2026-08-17,Khulna,Meherpur,Land Office,10,5000.0,500.0,0.5
+2026-08-17,Khulna,Meherpur,Passport Office,10,75000.0,7500.0,0.5
+2026-06-01,Khulna,Narail,BRTA,25,187500.0,7500.0,0.2
+2026-06-01,Khulna,Narail,Land Office,15,37500.0,2500.0,0.6666666666666666
+2026-06-01,Khulna,Narail,Passport Office,15,225000.0,15000.0,0.6666666666666666
+2026-06-08,Khulna,Narail,BRTA,25,187500.0,7500.0,0.2
+2026-06-08,Khulna,Narail,Land Office,15,37500.0,2500.0,0.6666666666666666
+2026-06-08,Khulna,Narail,Passport Office,15,225000.0,15000.0,0.6666666666666666
+2026-06-15,Khulna,Narail,BRTA,25,187500.0,7500.0,0.2
+2026-06-15,Khulna,Narail,Land Office,15,37500.0,2500.0,0.6666666666666666
+2026-06-15,Khulna,Narail,Passport Office,15,225000.0,15000.0,0.6666666666666666
+2026-06-22,Khulna,Narail,BRTA,25,187500.0,7500.0,0.2
+2026-06-22,Khulna,Narail,Land Office,15,37500.0,2500.0,0.6666666666666666
+2026-06-22,Khulna,Narail,Passport Office,15,225000.0,15000.0,0.6666666666666666
+2026-06-29,Khulna,Narail,BRTA,25,187500.0,7500.0,0.2
+2026-06-29,Khulna,Narail,Land Office,15,37500.0,2500.0,0.6666666666666666
+2026-06-29,Khulna,Narail,Passport Office,15,225000.0,15000.0,0.6666666666666666
+2026-07-06,Khulna,Narail,BRTA,25,187500.0,7500.0,0.2
+2026-07-06,Khulna,Narail,Land Office,15,37500.0,2500.0,0.6666666666666666
+2026-07-06,Khulna,Narail,Passport Office,15,225000.0,15000.0,0.6666666666666666
+2026-07-13,Khulna,Narail,BRTA,25,187500.0,7500.0,0.2
+2026-07-13,Khulna,Narail,Land Office,15,37500.0,2500.0,0.6666666666666666
+2026-07-13,Khulna,Narail,Passport Office,15,225000.0,15000.0,0.6666666666666666
+2026-07-20,Khulna,Narail,BRTA,25,187500.0,7500.0,0.2
+2026-07-20,Khulna,Narail,Land Office,15,37500.0,2500.0,0.6666666666666666
+2026-07-20,Khulna,Narail,Passport Office,15,225000.0,15000.0,0.6666666666666666
+2026-07-27,Khulna,Narail,BRTA,25,187500.0,7500.0,0.2
+2026-07-27,Khulna,Narail,Land Office,15,37500.0,2500.0,0.6666666666666666
+2026-07-27,Khulna,Narail,Passport Office,15,225000.0,15000.0,0.6666666666666666
+2026-08-03,Khulna,Narail,BRTA,25,187500.0,7500.0,0.2
+2026-08-03,Khulna,Narail,Land Office,15,37500.0,2500.0,0.6666666666666666
+2026-08-03,Khulna,Narail,Passport Office,15,225000.0,15000.0,0.6666666666666666
+2026-08-10,Khulna,Narail,BRTA,25,187500.0,7500.0,0.2
+2026-08-10,Khulna,Narail,Land Office,15,37500.0,2500.0,0.6666666666666666
+2026-08-10,Khulna,Narail,Passport Office,15,225000.0,15000.0,0.6666666666666666
+2026-08-17,Khulna,Narail,BRTA,25,187500.0,7500.0,0.2
+2026-08-17,Khulna,Narail,Land Office,15,37500.0,2500.0,0.6666666666666666
+2026-08-17,Khulna,Narail,Passport Office,15,225000.0,15000.0,0.6666666666666666
+2026-06-01,Khulna,Satkhira,BRTA,15,525000.0,35000.0,0.3333333333333333
+2026-06-01,Khulna,Satkhira,Land Office,25,375000.0,15000.0,0.4
+2026-06-01,Khulna,Satkhira,Passport Office,25,1875000.0,75000.0,0.4
+2026-06-08,Khulna,Satkhira,BRTA,15,525000.0,35000.0,0.3333333333333333
+2026-06-08,Khulna,Satkhira,Land Office,25,375000.0,15000.0,0.4
+2026-06-08,Khulna,Satkhira,Passport Office,25,1875000.0,75000.0,0.4
+2026-06-15,Khulna,Satkhira,BRTA,15,525000.0,35000.0,0.3333333333333333
+2026-06-15,Khulna,Satkhira,Land Office,25,375000.0,15000.0,0.4
+2026-06-15,Khulna,Satkhira,Passport Office,25,1875000.0,75000.0,0.4
+2026-06-22,Khulna,Satkhira,BRTA,15,525000.0,35000.0,0.3333333333333333
+2026-06-22,Khulna,Satkhira,Land Office,25,375000.0,15000.0,0.4
+2026-06-22,Khulna,Satkhira,Passport Office,25,1875000.0,75000.0,0.4
+2026-06-29,Khulna,Satkhira,BRTA,15,525000.0,35000.0,0.3333333333333333
+2026-06-29,Khulna,Satkhira,Land Office,25,375000.0,15000.0,0.4
+2026-06-29,Khulna,Satkhira,Passport Office,25,1875000.0,75000.0,0.4
+2026-07-06,Khulna,Satkhira,BRTA,15,525000.0,35000.0,0.3333333333333333
+2026-07-06,Khulna,Satkhira,Land Office,25,375000.0,15000.0,0.4
+2026-07-06,Khulna,Satkhira,Passport Office,25,1875000.0,75000.0,0.4
+2026-07-13,Khulna,Satkhira,BRTA,15,525000.0,35000.0,0.3333333333333333
+2026-07-13,Khulna,Satkhira,Land Office,25,375000.0,15000.0,0.4
+2026-07-13,Khulna,Satkhira,Passport Office,25,1875000.0,75000.0,0.4
+2026-07-20,Khulna,Satkhira,BRTA,15,525000.0,35000.0,0.3333333333333333
+2026-07-20,Khulna,Satkhira,Land Office,25,375000.0,15000.0,0.4
+2026-07-20,Khulna,Satkhira,Passport Office,25,1875000.0,75000.0,0.4
+2026-07-27,Khulna,Satkhira,BRTA,15,525000.0,35000.0,0.3333333333333333
+2026-07-27,Khulna,Satkhira,Land Office,25,375000.0,15000.0,0.4
+2026-07-27,Khulna,Satkhira,Passport Office,25,1875000.0,75000.0,0.4
+2026-08-03,Khulna,Satkhira,BRTA,15,525000.0,35000.0,0.3333333333333333
+2026-08-03,Khulna,Satkhira,Land Office,25,375000.0,15000.0,0.4
+2026-08-03,Khulna,Satkhira,Passport Office,25,1875000.0,75000.0,0.4
+2026-08-10,Khulna,Satkhira,BRTA,15,525000.0,35000.0,0.3333333333333333
+2026-08-10,Khulna,Satkhira,Land Office,25,375000.0,15000.0,0.4
+2026-08-10,Khulna,Satkhira,Passport Office,25,1875000.0,75000.0,0.4
+2026-08-17,Khulna,Satkhira,BRTA,10,350000.0,35000.0,0.5
+2026-08-17,Khulna,Satkhira,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-08-17,Khulna,Satkhira,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-06-01,Mymensingh,Jamalpur,BRTA,20,50000.0,2500.0,0.5
+2026-06-01,Mymensingh,Jamalpur,Land Office,10,5000.0,500.0,0.5
+2026-06-01,Mymensingh,Jamalpur,Passport Office,10,75000.0,7500.0,0.5
+2026-06-08,Mymensingh,Jamalpur,BRTA,20,50000.0,2500.0,0.5
+2026-06-08,Mymensingh,Jamalpur,Land Office,10,5000.0,500.0,0.5
+2026-06-08,Mymensingh,Jamalpur,Passport Office,10,75000.0,7500.0,0.5
+2026-06-15,Mymensingh,Jamalpur,BRTA,20,50000.0,2500.0,0.5
+2026-06-15,Mymensingh,Jamalpur,Land Office,10,5000.0,500.0,0.5
+2026-06-15,Mymensingh,Jamalpur,Passport Office,10,75000.0,7500.0,0.5
+2026-06-22,Mymensingh,Jamalpur,BRTA,20,50000.0,2500.0,0.5
+2026-06-22,Mymensingh,Jamalpur,Land Office,10,5000.0,500.0,0.5
+2026-06-22,Mymensingh,Jamalpur,Passport Office,10,75000.0,7500.0,0.5
+2026-06-29,Mymensingh,Jamalpur,BRTA,20,50000.0,2500.0,0.5
+2026-06-29,Mymensingh,Jamalpur,Land Office,10,5000.0,500.0,0.5
+2026-06-29,Mymensingh,Jamalpur,Passport Office,10,75000.0,7500.0,0.5
+2026-07-06,Mymensingh,Jamalpur,BRTA,20,50000.0,2500.0,0.5
+2026-07-06,Mymensingh,Jamalpur,Land Office,10,5000.0,500.0,0.5
+2026-07-06,Mymensingh,Jamalpur,Passport Office,10,75000.0,7500.0,0.5
+2026-07-13,Mymensingh,Jamalpur,BRTA,20,50000.0,2500.0,0.5
+2026-07-13,Mymensingh,Jamalpur,Land Office,10,5000.0,500.0,0.5
+2026-07-13,Mymensingh,Jamalpur,Passport Office,10,75000.0,7500.0,0.5
+2026-07-20,Mymensingh,Jamalpur,BRTA,20,50000.0,2500.0,0.5
+2026-07-20,Mymensingh,Jamalpur,Land Office,10,5000.0,500.0,0.5
+2026-07-20,Mymensingh,Jamalpur,Passport Office,10,75000.0,7500.0,0.5
+2026-07-27,Mymensingh,Jamalpur,BRTA,20,50000.0,2500.0,0.5
+2026-07-27,Mymensingh,Jamalpur,Land Office,10,5000.0,500.0,0.5
+2026-07-27,Mymensingh,Jamalpur,Passport Office,10,75000.0,7500.0,0.5
+2026-08-03,Mymensingh,Jamalpur,BRTA,20,50000.0,2500.0,0.5
+2026-08-03,Mymensingh,Jamalpur,Land Office,10,5000.0,500.0,0.5
+2026-08-03,Mymensingh,Jamalpur,Passport Office,10,75000.0,7500.0,0.5
+2026-08-10,Mymensingh,Jamalpur,BRTA,20,50000.0,2500.0,0.5
+2026-08-10,Mymensingh,Jamalpur,Land Office,10,5000.0,500.0,0.5
+2026-08-10,Mymensingh,Jamalpur,Passport Office,10,75000.0,7500.0,0.5
+2026-08-17,Mymensingh,Jamalpur,BRTA,10,25000.0,2500.0,1.0
+2026-08-17,Mymensingh,Jamalpur,Land Office,10,5000.0,500.0,0.5
+2026-08-17,Mymensingh,Jamalpur,Passport Office,10,75000.0,7500.0,0.5
+2026-06-01,Mymensingh,Mymensingh,BRTA,20,1500000.0,75000.0,0.5
+2026-06-01,Mymensingh,Mymensingh,Land Office,10,350000.0,35000.0,0.5
+2026-06-01,Mymensingh,Mymensingh,Passport Office,10,5000.0,500.0,0.5
+2026-06-08,Mymensingh,Mymensingh,BRTA,20,1500000.0,75000.0,0.5
+2026-06-08,Mymensingh,Mymensingh,Land Office,10,350000.0,35000.0,0.5
+2026-06-08,Mymensingh,Mymensingh,Passport Office,10,5000.0,500.0,0.5
+2026-06-15,Mymensingh,Mymensingh,BRTA,20,1500000.0,75000.0,0.5
+2026-06-15,Mymensingh,Mymensingh,Land Office,10,350000.0,35000.0,0.5
+2026-06-15,Mymensingh,Mymensingh,Passport Office,10,5000.0,500.0,0.5
+2026-06-22,Mymensingh,Mymensingh,BRTA,20,1500000.0,75000.0,0.5
+2026-06-22,Mymensingh,Mymensingh,Land Office,10,350000.0,35000.0,0.5
+2026-06-22,Mymensingh,Mymensingh,Passport Office,10,5000.0,500.0,0.5
+2026-06-29,Mymensingh,Mymensingh,BRTA,20,1500000.0,75000.0,0.5
+2026-06-29,Mymensingh,Mymensingh,Land Office,10,350000.0,35000.0,0.5
+2026-06-29,Mymensingh,Mymensingh,Passport Office,10,5000.0,500.0,0.5
+2026-07-06,Mymensingh,Mymensingh,BRTA,20,1500000.0,75000.0,0.5
+2026-07-06,Mymensingh,Mymensingh,Land Office,10,350000.0,35000.0,0.5
+2026-07-06,Mymensingh,Mymensingh,Passport Office,10,5000.0,500.0,0.5
+2026-07-13,Mymensingh,Mymensingh,BRTA,20,1500000.0,75000.0,0.5
+2026-07-13,Mymensingh,Mymensingh,Land Office,10,350000.0,35000.0,0.5
+2026-07-13,Mymensingh,Mymensingh,Passport Office,10,5000.0,500.0,0.5
+2026-07-20,Mymensingh,Mymensingh,BRTA,20,1500000.0,75000.0,0.5
+2026-07-20,Mymensingh,Mymensingh,Land Office,10,350000.0,35000.0,0.5
+2026-07-20,Mymensingh,Mymensingh,Passport Office,10,5000.0,500.0,0.5
+2026-07-27,Mymensingh,Mymensingh,BRTA,20,1500000.0,75000.0,0.5
+2026-07-27,Mymensingh,Mymensingh,Land Office,10,350000.0,35000.0,0.5
+2026-07-27,Mymensingh,Mymensingh,Passport Office,10,5000.0,500.0,0.5
+2026-08-03,Mymensingh,Mymensingh,BRTA,20,1500000.0,75000.0,0.5
+2026-08-03,Mymensingh,Mymensingh,Land Office,10,350000.0,35000.0,0.5
+2026-08-03,Mymensingh,Mymensingh,Passport Office,10,5000.0,500.0,0.5
+2026-08-10,Mymensingh,Mymensingh,BRTA,20,1500000.0,75000.0,0.5
+2026-08-10,Mymensingh,Mymensingh,Land Office,10,350000.0,35000.0,0.5
+2026-08-10,Mymensingh,Mymensingh,Passport Office,10,5000.0,500.0,0.5
+2026-08-17,Mymensingh,Mymensingh,BRTA,20,1500000.0,75000.0,0.5
+2026-08-17,Mymensingh,Mymensingh,Land Office,10,350000.0,35000.0,0.5
+2026-08-17,Mymensingh,Mymensingh,Passport Office,10,5000.0,500.0,0.5
+2026-06-01,Mymensingh,Netrakona,BRTA,10,750000.0,75000.0,1.0
+2026-06-01,Mymensingh,Netrakona,Land Office,20,700000.0,35000.0,0.25
+2026-06-01,Mymensingh,Netrakona,Passport Office,20,10000.0,500.0,0.25
+2026-06-08,Mymensingh,Netrakona,BRTA,10,750000.0,75000.0,1.0
+2026-06-08,Mymensingh,Netrakona,Land Office,20,700000.0,35000.0,0.25
+2026-06-08,Mymensingh,Netrakona,Passport Office,20,10000.0,500.0,0.25
+2026-06-15,Mymensingh,Netrakona,BRTA,10,750000.0,75000.0,1.0
+2026-06-15,Mymensingh,Netrakona,Land Office,20,700000.0,35000.0,0.25
+2026-06-15,Mymensingh,Netrakona,Passport Office,20,10000.0,500.0,0.25
+2026-06-22,Mymensingh,Netrakona,BRTA,10,750000.0,75000.0,1.0
+2026-06-22,Mymensingh,Netrakona,Land Office,20,700000.0,35000.0,0.25
+2026-06-22,Mymensingh,Netrakona,Passport Office,20,10000.0,500.0,0.25
+2026-06-29,Mymensingh,Netrakona,BRTA,10,750000.0,75000.0,1.0
+2026-06-29,Mymensingh,Netrakona,Land Office,20,700000.0,35000.0,0.25
+2026-06-29,Mymensingh,Netrakona,Passport Office,20,10000.0,500.0,0.25
+2026-07-06,Mymensingh,Netrakona,BRTA,10,750000.0,75000.0,1.0
+2026-07-06,Mymensingh,Netrakona,Land Office,20,700000.0,35000.0,0.25
+2026-07-06,Mymensingh,Netrakona,Passport Office,20,10000.0,500.0,0.25
+2026-07-13,Mymensingh,Netrakona,BRTA,10,750000.0,75000.0,1.0
+2026-07-13,Mymensingh,Netrakona,Land Office,20,700000.0,35000.0,0.25
+2026-07-13,Mymensingh,Netrakona,Passport Office,20,10000.0,500.0,0.25
+2026-07-20,Mymensingh,Netrakona,BRTA,10,750000.0,75000.0,1.0
+2026-07-20,Mymensingh,Netrakona,Land Office,20,700000.0,35000.0,0.25
+2026-07-20,Mymensingh,Netrakona,Passport Office,20,10000.0,500.0,0.25
+2026-07-27,Mymensingh,Netrakona,BRTA,10,750000.0,75000.0,1.0
+2026-07-27,Mymensingh,Netrakona,Land Office,20,700000.0,35000.0,0.25
+2026-07-27,Mymensingh,Netrakona,Passport Office,20,10000.0,500.0,0.25
+2026-08-03,Mymensingh,Netrakona,BRTA,10,750000.0,75000.0,1.0
+2026-08-03,Mymensingh,Netrakona,Land Office,20,700000.0,35000.0,0.25
+2026-08-03,Mymensingh,Netrakona,Passport Office,20,10000.0,500.0,0.25
+2026-08-10,Mymensingh,Netrakona,BRTA,10,750000.0,75000.0,1.0
+2026-08-10,Mymensingh,Netrakona,Land Office,20,700000.0,35000.0,0.25
+2026-08-10,Mymensingh,Netrakona,Passport Office,20,10000.0,500.0,0.25
+2026-08-17,Mymensingh,Netrakona,BRTA,10,750000.0,75000.0,1.0
+2026-08-17,Mymensingh,Netrakona,Land Office,20,700000.0,35000.0,0.25
+2026-08-17,Mymensingh,Netrakona,Passport Office,20,10000.0,500.0,0.25
+2026-06-01,Mymensingh,Sherpur,BRTA,15,525000.0,35000.0,0.3333333333333333
+2026-06-01,Mymensingh,Sherpur,Land Office,25,375000.0,15000.0,0.4
+2026-06-01,Mymensingh,Sherpur,Passport Office,25,1875000.0,75000.0,0.4
+2026-06-08,Mymensingh,Sherpur,BRTA,15,525000.0,35000.0,0.3333333333333333
+2026-06-08,Mymensingh,Sherpur,Land Office,25,375000.0,15000.0,0.4
+2026-06-08,Mymensingh,Sherpur,Passport Office,25,1875000.0,75000.0,0.4
+2026-06-15,Mymensingh,Sherpur,BRTA,15,525000.0,35000.0,0.3333333333333333
+2026-06-15,Mymensingh,Sherpur,Land Office,25,375000.0,15000.0,0.4
+2026-06-15,Mymensingh,Sherpur,Passport Office,25,1875000.0,75000.0,0.4
+2026-06-22,Mymensingh,Sherpur,BRTA,15,525000.0,35000.0,0.3333333333333333
+2026-06-22,Mymensingh,Sherpur,Land Office,25,375000.0,15000.0,0.4
+2026-06-22,Mymensingh,Sherpur,Passport Office,25,1875000.0,75000.0,0.4
+2026-06-29,Mymensingh,Sherpur,BRTA,15,525000.0,35000.0,0.3333333333333333
+2026-06-29,Mymensingh,Sherpur,Land Office,25,375000.0,15000.0,0.4
+2026-06-29,Mymensingh,Sherpur,Passport Office,25,1875000.0,75000.0,0.4
+2026-07-06,Mymensingh,Sherpur,BRTA,15,525000.0,35000.0,0.3333333333333333
+2026-07-06,Mymensingh,Sherpur,Land Office,25,375000.0,15000.0,0.4
+2026-07-06,Mymensingh,Sherpur,Passport Office,25,1875000.0,75000.0,0.4
+2026-07-13,Mymensingh,Sherpur,BRTA,15,525000.0,35000.0,0.3333333333333333
+2026-07-13,Mymensingh,Sherpur,Land Office,25,375000.0,15000.0,0.4
+2026-07-13,Mymensingh,Sherpur,Passport Office,25,1875000.0,75000.0,0.4
+2026-07-20,Mymensingh,Sherpur,BRTA,15,525000.0,35000.0,0.3333333333333333
+2026-07-20,Mymensingh,Sherpur,Land Office,25,375000.0,15000.0,0.4
+2026-07-20,Mymensingh,Sherpur,Passport Office,25,1875000.0,75000.0,0.4
+2026-07-27,Mymensingh,Sherpur,BRTA,15,525000.0,35000.0,0.3333333333333333
+2026-07-27,Mymensingh,Sherpur,Land Office,25,375000.0,15000.0,0.4
+2026-07-27,Mymensingh,Sherpur,Passport Office,25,1875000.0,75000.0,0.4
+2026-08-03,Mymensingh,Sherpur,BRTA,15,525000.0,35000.0,0.3333333333333333
+2026-08-03,Mymensingh,Sherpur,Land Office,25,375000.0,15000.0,0.4
+2026-08-03,Mymensingh,Sherpur,Passport Office,25,1875000.0,75000.0,0.4
+2026-08-10,Mymensingh,Sherpur,BRTA,15,525000.0,35000.0,0.3333333333333333
+2026-08-10,Mymensingh,Sherpur,Land Office,25,375000.0,15000.0,0.4
+2026-08-10,Mymensingh,Sherpur,Passport Office,25,1875000.0,75000.0,0.4
+2026-08-17,Mymensingh,Sherpur,BRTA,10,350000.0,35000.0,0.5
+2026-08-17,Mymensingh,Sherpur,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-08-17,Mymensingh,Sherpur,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-06-01,Rajshahi,Bogra,BRTA,15,7500.0,500.0,0.3333333333333333
+2026-06-01,Rajshahi,Bogra,Land Office,25,1875000.0,75000.0,0.4
+2026-06-01,Rajshahi,Bogra,Passport Office,25,62500.0,2500.0,0.4
+2026-06-08,Rajshahi,Bogra,BRTA,15,7500.0,500.0,0.3333333333333333
+2026-06-08,Rajshahi,Bogra,Land Office,25,1875000.0,75000.0,0.4
+2026-06-08,Rajshahi,Bogra,Passport Office,25,62500.0,2500.0,0.4
+2026-06-15,Rajshahi,Bogra,BRTA,15,7500.0,500.0,0.3333333333333333
+2026-06-15,Rajshahi,Bogra,Land Office,25,1875000.0,75000.0,0.4
+2026-06-15,Rajshahi,Bogra,Passport Office,25,62500.0,2500.0,0.4
+2026-06-22,Rajshahi,Bogra,BRTA,15,7500.0,500.0,0.3333333333333333
+2026-06-22,Rajshahi,Bogra,Land Office,25,1875000.0,75000.0,0.4
+2026-06-22,Rajshahi,Bogra,Passport Office,25,62500.0,2500.0,0.4
+2026-06-29,Rajshahi,Bogra,BRTA,15,7500.0,500.0,0.3333333333333333
+2026-06-29,Rajshahi,Bogra,Land Office,25,1875000.0,75000.0,0.4
+2026-06-29,Rajshahi,Bogra,Passport Office,25,62500.0,2500.0,0.4
+2026-07-06,Rajshahi,Bogra,BRTA,15,7500.0,500.0,0.3333333333333333
+2026-07-06,Rajshahi,Bogra,Land Office,25,1875000.0,75000.0,0.4
+2026-07-06,Rajshahi,Bogra,Passport Office,25,62500.0,2500.0,0.4
+2026-07-13,Rajshahi,Bogra,BRTA,15,7500.0,500.0,0.3333333333333333
+2026-07-13,Rajshahi,Bogra,Land Office,25,1875000.0,75000.0,0.4
+2026-07-13,Rajshahi,Bogra,Passport Office,25,62500.0,2500.0,0.4
+2026-07-20,Rajshahi,Bogra,BRTA,15,7500.0,500.0,0.3333333333333333
+2026-07-20,Rajshahi,Bogra,Land Office,25,1875000.0,75000.0,0.4
+2026-07-20,Rajshahi,Bogra,Passport Office,25,62500.0,2500.0,0.4
+2026-07-27,Rajshahi,Bogra,BRTA,15,7500.0,500.0,0.3333333333333333
+2026-07-27,Rajshahi,Bogra,Land Office,25,1875000.0,75000.0,0.4
+2026-07-27,Rajshahi,Bogra,Passport Office,25,62500.0,2500.0,0.4
+2026-08-03,Rajshahi,Bogra,BRTA,15,7500.0,500.0,0.3333333333333333
+2026-08-03,Rajshahi,Bogra,Land Office,25,1875000.0,75000.0,0.4
+2026-08-03,Rajshahi,Bogra,Passport Office,25,62500.0,2500.0,0.4
+2026-08-10,Rajshahi,Bogra,BRTA,15,7500.0,500.0,0.3333333333333333
+2026-08-10,Rajshahi,Bogra,Land Office,25,1875000.0,75000.0,0.4
+2026-08-10,Rajshahi,Bogra,Passport Office,25,62500.0,2500.0,0.4
+2026-08-17,Rajshahi,Bogra,BRTA,25,12500.0,500.0,0.2
+2026-08-17,Rajshahi,Bogra,Land Office,35,2625000.0,75000.0,0.2857142857142857
+2026-08-17,Rajshahi,Bogra,Passport Office,35,87500.0,2500.0,0.2857142857142857
+2026-06-01,Rajshahi,Joypurhat,BRTA,10,25000.0,2500.0,1.0
+2026-06-01,Rajshahi,Joypurhat,Land Office,20,10000.0,500.0,0.25
+2026-06-01,Rajshahi,Joypurhat,Passport Office,20,150000.0,7500.0,0.25
+2026-06-08,Rajshahi,Joypurhat,BRTA,10,25000.0,2500.0,1.0
+2026-06-08,Rajshahi,Joypurhat,Land Office,20,10000.0,500.0,0.25
+2026-06-08,Rajshahi,Joypurhat,Passport Office,20,150000.0,7500.0,0.25
+2026-06-15,Rajshahi,Joypurhat,BRTA,10,25000.0,2500.0,1.0
+2026-06-15,Rajshahi,Joypurhat,Land Office,20,10000.0,500.0,0.25
+2026-06-15,Rajshahi,Joypurhat,Passport Office,20,150000.0,7500.0,0.25
+2026-06-22,Rajshahi,Joypurhat,BRTA,10,25000.0,2500.0,1.0
+2026-06-22,Rajshahi,Joypurhat,Land Office,20,10000.0,500.0,0.25
+2026-06-22,Rajshahi,Joypurhat,Passport Office,20,150000.0,7500.0,0.25
+2026-06-29,Rajshahi,Joypurhat,BRTA,10,25000.0,2500.0,1.0
+2026-06-29,Rajshahi,Joypurhat,Land Office,20,10000.0,500.0,0.25
+2026-06-29,Rajshahi,Joypurhat,Passport Office,20,150000.0,7500.0,0.25
+2026-07-06,Rajshahi,Joypurhat,BRTA,10,25000.0,2500.0,1.0
+2026-07-06,Rajshahi,Joypurhat,Land Office,20,10000.0,500.0,0.25
+2026-07-06,Rajshahi,Joypurhat,Passport Office,20,150000.0,7500.0,0.25
+2026-07-13,Rajshahi,Joypurhat,BRTA,10,25000.0,2500.0,1.0
+2026-07-13,Rajshahi,Joypurhat,Land Office,20,10000.0,500.0,0.25
+2026-07-13,Rajshahi,Joypurhat,Passport Office,20,150000.0,7500.0,0.25
+2026-07-20,Rajshahi,Joypurhat,BRTA,10,25000.0,2500.0,1.0
+2026-07-20,Rajshahi,Joypurhat,Land Office,20,10000.0,500.0,0.25
+2026-07-20,Rajshahi,Joypurhat,Passport Office,20,150000.0,7500.0,0.25
+2026-07-27,Rajshahi,Joypurhat,BRTA,10,25000.0,2500.0,1.0
+2026-07-27,Rajshahi,Joypurhat,Land Office,20,10000.0,500.0,0.25
+2026-07-27,Rajshahi,Joypurhat,Passport Office,20,150000.0,7500.0,0.25
+2026-08-03,Rajshahi,Joypurhat,BRTA,10,25000.0,2500.0,1.0
+2026-08-03,Rajshahi,Joypurhat,Land Office,20,10000.0,500.0,0.25
+2026-08-03,Rajshahi,Joypurhat,Passport Office,20,150000.0,7500.0,0.25
+2026-08-10,Rajshahi,Joypurhat,BRTA,10,25000.0,2500.0,1.0
+2026-08-10,Rajshahi,Joypurhat,Land Office,20,10000.0,500.0,0.25
+2026-08-10,Rajshahi,Joypurhat,Passport Office,20,150000.0,7500.0,0.25
+2026-08-17,Rajshahi,Joypurhat,BRTA,10,25000.0,2500.0,1.0
+2026-08-17,Rajshahi,Joypurhat,Land Office,10,5000.0,500.0,0.5
+2026-08-17,Rajshahi,Joypurhat,Passport Office,10,75000.0,7500.0,0.5
+2026-06-01,Rajshahi,Naogaon,BRTA,20,50000.0,2500.0,0.5
+2026-06-01,Rajshahi,Naogaon,Land Office,10,5000.0,500.0,0.5
+2026-06-01,Rajshahi,Naogaon,Passport Office,10,75000.0,7500.0,0.5
+2026-06-08,Rajshahi,Naogaon,BRTA,20,50000.0,2500.0,0.5
+2026-06-08,Rajshahi,Naogaon,Land Office,10,5000.0,500.0,0.5
+2026-06-08,Rajshahi,Naogaon,Passport Office,10,75000.0,7500.0,0.5
+2026-06-15,Rajshahi,Naogaon,BRTA,20,50000.0,2500.0,0.5
+2026-06-15,Rajshahi,Naogaon,Land Office,10,5000.0,500.0,0.5
+2026-06-15,Rajshahi,Naogaon,Passport Office,10,75000.0,7500.0,0.5
+2026-06-22,Rajshahi,Naogaon,BRTA,20,50000.0,2500.0,0.5
+2026-06-22,Rajshahi,Naogaon,Land Office,10,5000.0,500.0,0.5
+2026-06-22,Rajshahi,Naogaon,Passport Office,10,75000.0,7500.0,0.5
+2026-06-29,Rajshahi,Naogaon,BRTA,20,50000.0,2500.0,0.5
+2026-06-29,Rajshahi,Naogaon,Land Office,10,5000.0,500.0,0.5
+2026-06-29,Rajshahi,Naogaon,Passport Office,10,75000.0,7500.0,0.5
+2026-07-06,Rajshahi,Naogaon,BRTA,20,50000.0,2500.0,0.5
+2026-07-06,Rajshahi,Naogaon,Land Office,10,5000.0,500.0,0.5
+2026-07-06,Rajshahi,Naogaon,Passport Office,10,75000.0,7500.0,0.5
+2026-07-13,Rajshahi,Naogaon,BRTA,20,50000.0,2500.0,0.5
+2026-07-13,Rajshahi,Naogaon,Land Office,10,5000.0,500.0,0.5
+2026-07-13,Rajshahi,Naogaon,Passport Office,10,75000.0,7500.0,0.5
+2026-07-20,Rajshahi,Naogaon,BRTA,20,50000.0,2500.0,0.5
+2026-07-20,Rajshahi,Naogaon,Land Office,10,5000.0,500.0,0.5
+2026-07-20,Rajshahi,Naogaon,Passport Office,10,75000.0,7500.0,0.5
+2026-07-27,Rajshahi,Naogaon,BRTA,20,50000.0,2500.0,0.5
+2026-07-27,Rajshahi,Naogaon,Land Office,10,5000.0,500.0,0.5
+2026-07-27,Rajshahi,Naogaon,Passport Office,10,75000.0,7500.0,0.5
+2026-08-03,Rajshahi,Naogaon,BRTA,20,50000.0,2500.0,0.5
+2026-08-03,Rajshahi,Naogaon,Land Office,10,5000.0,500.0,0.5
+2026-08-03,Rajshahi,Naogaon,Passport Office,10,75000.0,7500.0,0.5
+2026-08-10,Rajshahi,Naogaon,BRTA,20,50000.0,2500.0,0.5
+2026-08-10,Rajshahi,Naogaon,Land Office,10,5000.0,500.0,0.5
+2026-08-10,Rajshahi,Naogaon,Passport Office,10,75000.0,7500.0,0.5
+2026-08-17,Rajshahi,Naogaon,BRTA,10,25000.0,2500.0,1.0
+2026-08-17,Rajshahi,Naogaon,Land Office,10,5000.0,500.0,0.5
+2026-08-17,Rajshahi,Naogaon,Passport Office,10,75000.0,7500.0,0.5
+2026-06-01,Rajshahi,Natore,BRTA,10,25000.0,2500.0,1.0
+2026-06-01,Rajshahi,Natore,Land Office,20,10000.0,500.0,0.25
+2026-06-01,Rajshahi,Natore,Passport Office,20,150000.0,7500.0,0.25
+2026-06-08,Rajshahi,Natore,BRTA,10,25000.0,2500.0,1.0
+2026-06-08,Rajshahi,Natore,Land Office,20,10000.0,500.0,0.25
+2026-06-08,Rajshahi,Natore,Passport Office,20,150000.0,7500.0,0.25
+2026-06-15,Rajshahi,Natore,BRTA,10,25000.0,2500.0,1.0
+2026-06-15,Rajshahi,Natore,Land Office,20,10000.0,500.0,0.25
+2026-06-15,Rajshahi,Natore,Passport Office,20,150000.0,7500.0,0.25
+2026-06-22,Rajshahi,Natore,BRTA,10,25000.0,2500.0,1.0
+2026-06-22,Rajshahi,Natore,Land Office,20,10000.0,500.0,0.25
+2026-06-22,Rajshahi,Natore,Passport Office,20,150000.0,7500.0,0.25
+2026-06-29,Rajshahi,Natore,BRTA,10,25000.0,2500.0,1.0
+2026-06-29,Rajshahi,Natore,Land Office,20,10000.0,500.0,0.25
+2026-06-29,Rajshahi,Natore,Passport Office,20,150000.0,7500.0,0.25
+2026-07-06,Rajshahi,Natore,BRTA,10,25000.0,2500.0,1.0
+2026-07-06,Rajshahi,Natore,Land Office,20,10000.0,500.0,0.25
+2026-07-06,Rajshahi,Natore,Passport Office,20,150000.0,7500.0,0.25
+2026-07-13,Rajshahi,Natore,BRTA,10,25000.0,2500.0,1.0
+2026-07-13,Rajshahi,Natore,Land Office,20,10000.0,500.0,0.25
+2026-07-13,Rajshahi,Natore,Passport Office,20,150000.0,7500.0,0.25
+2026-07-20,Rajshahi,Natore,BRTA,10,25000.0,2500.0,1.0
+2026-07-20,Rajshahi,Natore,Land Office,20,10000.0,500.0,0.25
+2026-07-20,Rajshahi,Natore,Passport Office,20,150000.0,7500.0,0.25
+2026-07-27,Rajshahi,Natore,BRTA,10,25000.0,2500.0,1.0
+2026-07-27,Rajshahi,Natore,Land Office,20,10000.0,500.0,0.25
+2026-07-27,Rajshahi,Natore,Passport Office,20,150000.0,7500.0,0.25
+2026-08-03,Rajshahi,Natore,BRTA,10,25000.0,2500.0,1.0
+2026-08-03,Rajshahi,Natore,Land Office,20,10000.0,500.0,0.25
+2026-08-03,Rajshahi,Natore,Passport Office,20,150000.0,7500.0,0.25
+2026-08-10,Rajshahi,Natore,BRTA,10,25000.0,2500.0,1.0
+2026-08-10,Rajshahi,Natore,Land Office,20,10000.0,500.0,0.25
+2026-08-10,Rajshahi,Natore,Passport Office,20,150000.0,7500.0,0.25
+2026-08-17,Rajshahi,Natore,BRTA,10,25000.0,2500.0,1.0
+2026-08-17,Rajshahi,Natore,Land Office,10,5000.0,500.0,0.5
+2026-08-17,Rajshahi,Natore,Passport Office,10,75000.0,7500.0,0.5
+2026-06-01,Rajshahi,Nawabganj,BRTA,20,300000.0,15000.0,0.5
+2026-06-01,Rajshahi,Nawabganj,Land Office,10,75000.0,7500.0,0.5
+2026-06-01,Rajshahi,Nawabganj,Passport Office,10,350000.0,35000.0,0.5
+2026-06-08,Rajshahi,Nawabganj,BRTA,20,300000.0,15000.0,0.5
+2026-06-08,Rajshahi,Nawabganj,Land Office,10,75000.0,7500.0,0.5
+2026-06-08,Rajshahi,Nawabganj,Passport Office,10,350000.0,35000.0,0.5
+2026-06-15,Rajshahi,Nawabganj,BRTA,20,300000.0,15000.0,0.5
+2026-06-15,Rajshahi,Nawabganj,Land Office,10,75000.0,7500.0,0.5
+2026-06-15,Rajshahi,Nawabganj,Passport Office,10,350000.0,35000.0,0.5
+2026-06-22,Rajshahi,Nawabganj,BRTA,20,300000.0,15000.0,0.5
+2026-06-22,Rajshahi,Nawabganj,Land Office,10,75000.0,7500.0,0.5
+2026-06-22,Rajshahi,Nawabganj,Passport Office,10,350000.0,35000.0,0.5
+2026-06-29,Rajshahi,Nawabganj,BRTA,20,300000.0,15000.0,0.5
+2026-06-29,Rajshahi,Nawabganj,Land Office,10,75000.0,7500.0,0.5
+2026-06-29,Rajshahi,Nawabganj,Passport Office,10,350000.0,35000.0,0.5
+2026-07-06,Rajshahi,Nawabganj,BRTA,20,300000.0,15000.0,0.5
+2026-07-06,Rajshahi,Nawabganj,Land Office,10,75000.0,7500.0,0.5
+2026-07-06,Rajshahi,Nawabganj,Passport Office,10,350000.0,35000.0,0.5
+2026-07-13,Rajshahi,Nawabganj,BRTA,20,300000.0,15000.0,0.5
+2026-07-13,Rajshahi,Nawabganj,Land Office,10,75000.0,7500.0,0.5
+2026-07-13,Rajshahi,Nawabganj,Passport Office,10,350000.0,35000.0,0.5
+2026-07-20,Rajshahi,Nawabganj,BRTA,20,300000.0,15000.0,0.5
+2026-07-20,Rajshahi,Nawabganj,Land Office,10,75000.0,7500.0,0.5
+2026-07-20,Rajshahi,Nawabganj,Passport Office,10,350000.0,35000.0,0.5
+2026-07-27,Rajshahi,Nawabganj,BRTA,20,300000.0,15000.0,0.5
+2026-07-27,Rajshahi,Nawabganj,Land Office,10,75000.0,7500.0,0.5
+2026-07-27,Rajshahi,Nawabganj,Passport Office,10,350000.0,35000.0,0.5
+2026-08-03,Rajshahi,Nawabganj,BRTA,20,300000.0,15000.0,0.5
+2026-08-03,Rajshahi,Nawabganj,Land Office,10,75000.0,7500.0,0.5
+2026-08-03,Rajshahi,Nawabganj,Passport Office,10,350000.0,35000.0,0.5
+2026-08-10,Rajshahi,Nawabganj,BRTA,20,300000.0,15000.0,0.5
+2026-08-10,Rajshahi,Nawabganj,Land Office,10,75000.0,7500.0,0.5
+2026-08-10,Rajshahi,Nawabganj,Passport Office,10,350000.0,35000.0,0.5
+2026-08-17,Rajshahi,Nawabganj,BRTA,30,450000.0,15000.0,0.3333333333333333
+2026-08-17,Rajshahi,Nawabganj,Land Office,20,150000.0,7500.0,0.25
+2026-08-17,Rajshahi,Nawabganj,Passport Office,20,700000.0,35000.0,0.25
+2026-06-01,Rajshahi,Pabna,BRTA,15,525000.0,35000.0,0.3333333333333333
+2026-06-01,Rajshahi,Pabna,Land Office,25,375000.0,15000.0,0.4
+2026-06-01,Rajshahi,Pabna,Passport Office,25,1875000.0,75000.0,0.4
+2026-06-08,Rajshahi,Pabna,BRTA,15,525000.0,35000.0,0.3333333333333333
+2026-06-08,Rajshahi,Pabna,Land Office,25,375000.0,15000.0,0.4
+2026-06-08,Rajshahi,Pabna,Passport Office,25,1875000.0,75000.0,0.4
+2026-06-15,Rajshahi,Pabna,BRTA,15,525000.0,35000.0,0.3333333333333333
+2026-06-15,Rajshahi,Pabna,Land Office,25,375000.0,15000.0,0.4
+2026-06-15,Rajshahi,Pabna,Passport Office,25,1875000.0,75000.0,0.4
+2026-06-22,Rajshahi,Pabna,BRTA,15,525000.0,35000.0,0.3333333333333333
+2026-06-22,Rajshahi,Pabna,Land Office,25,375000.0,15000.0,0.4
+2026-06-22,Rajshahi,Pabna,Passport Office,25,1875000.0,75000.0,0.4
+2026-06-29,Rajshahi,Pabna,BRTA,15,525000.0,35000.0,0.3333333333333333
+2026-06-29,Rajshahi,Pabna,Land Office,25,375000.0,15000.0,0.4
+2026-06-29,Rajshahi,Pabna,Passport Office,25,1875000.0,75000.0,0.4
+2026-07-06,Rajshahi,Pabna,BRTA,15,525000.0,35000.0,0.3333333333333333
+2026-07-06,Rajshahi,Pabna,Land Office,25,375000.0,15000.0,0.4
+2026-07-06,Rajshahi,Pabna,Passport Office,25,1875000.0,75000.0,0.4
+2026-07-13,Rajshahi,Pabna,BRTA,15,525000.0,35000.0,0.3333333333333333
+2026-07-13,Rajshahi,Pabna,Land Office,25,375000.0,15000.0,0.4
+2026-07-13,Rajshahi,Pabna,Passport Office,25,1875000.0,75000.0,0.4
+2026-07-20,Rajshahi,Pabna,BRTA,15,525000.0,35000.0,0.3333333333333333
+2026-07-20,Rajshahi,Pabna,Land Office,25,375000.0,15000.0,0.4
+2026-07-20,Rajshahi,Pabna,Passport Office,25,1875000.0,75000.0,0.4
+2026-07-27,Rajshahi,Pabna,BRTA,15,525000.0,35000.0,0.3333333333333333
+2026-07-27,Rajshahi,Pabna,Land Office,25,375000.0,15000.0,0.4
+2026-07-27,Rajshahi,Pabna,Passport Office,25,1875000.0,75000.0,0.4
+2026-08-03,Rajshahi,Pabna,BRTA,15,525000.0,35000.0,0.3333333333333333
+2026-08-03,Rajshahi,Pabna,Land Office,25,375000.0,15000.0,0.4
+2026-08-03,Rajshahi,Pabna,Passport Office,25,1875000.0,75000.0,0.4
+2026-08-10,Rajshahi,Pabna,BRTA,15,525000.0,35000.0,0.3333333333333333
+2026-08-10,Rajshahi,Pabna,Land Office,25,375000.0,15000.0,0.4
+2026-08-10,Rajshahi,Pabna,Passport Office,25,1875000.0,75000.0,0.4
+2026-08-17,Rajshahi,Pabna,BRTA,10,350000.0,35000.0,0.5
+2026-08-17,Rajshahi,Pabna,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-08-17,Rajshahi,Pabna,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-06-01,Rajshahi,Rajshahi,BRTA,25,875000.0,35000.0,0.2
+2026-06-01,Rajshahi,Rajshahi,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-06-01,Rajshahi,Rajshahi,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-06-08,Rajshahi,Rajshahi,BRTA,25,875000.0,35000.0,0.2
+2026-06-08,Rajshahi,Rajshahi,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-06-08,Rajshahi,Rajshahi,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-06-15,Rajshahi,Rajshahi,BRTA,25,875000.0,35000.0,0.2
+2026-06-15,Rajshahi,Rajshahi,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-06-15,Rajshahi,Rajshahi,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-06-22,Rajshahi,Rajshahi,BRTA,25,875000.0,35000.0,0.2
+2026-06-22,Rajshahi,Rajshahi,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-06-22,Rajshahi,Rajshahi,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-06-29,Rajshahi,Rajshahi,BRTA,25,875000.0,35000.0,0.2
+2026-06-29,Rajshahi,Rajshahi,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-06-29,Rajshahi,Rajshahi,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-07-06,Rajshahi,Rajshahi,BRTA,25,875000.0,35000.0,0.2
+2026-07-06,Rajshahi,Rajshahi,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-07-06,Rajshahi,Rajshahi,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-07-13,Rajshahi,Rajshahi,BRTA,25,875000.0,35000.0,0.2
+2026-07-13,Rajshahi,Rajshahi,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-07-13,Rajshahi,Rajshahi,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-07-20,Rajshahi,Rajshahi,BRTA,25,875000.0,35000.0,0.2
+2026-07-20,Rajshahi,Rajshahi,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-07-20,Rajshahi,Rajshahi,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-07-27,Rajshahi,Rajshahi,BRTA,25,875000.0,35000.0,0.2
+2026-07-27,Rajshahi,Rajshahi,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-07-27,Rajshahi,Rajshahi,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-08-03,Rajshahi,Rajshahi,BRTA,25,875000.0,35000.0,0.2
+2026-08-03,Rajshahi,Rajshahi,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-08-03,Rajshahi,Rajshahi,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-08-10,Rajshahi,Rajshahi,BRTA,25,875000.0,35000.0,0.2
+2026-08-10,Rajshahi,Rajshahi,Land Office,15,225000.0,15000.0,0.6666666666666666
+2026-08-10,Rajshahi,Rajshahi,Passport Office,15,1125000.0,75000.0,0.6666666666666666
+2026-08-17,Rajshahi,Rajshahi,BRTA,15,525000.0,35000.0,0.3333333333333333
+2026-08-17,Rajshahi,Rajshahi,Land Office,10,150000.0,15000.0,1.0
+2026-08-17,Rajshahi,Rajshahi,Passport Office,10,750000.0,75000.0,1.0
+2026-06-01,Rajshahi,Sirajganj,BRTA,15,7500.0,500.0,0.3333333333333333
+2026-06-01,Rajshahi,Sirajganj,Land Office,25,1875000.0,75000.0,0.4
+2026-06-01,Rajshahi,Sirajganj,Passport Office,25,62500.0,2500.0,0.4
+2026-06-08,Rajshahi,Sirajganj,BRTA,15,7500.0,500.0,0.3333333333333333
+2026-06-08,Rajshahi,Sirajganj,Land Office,25,1875000.0,75000.0,0.4
+2026-06-08,Rajshahi,Sirajganj,Passport Office,25,62500.0,2500.0,0.4
+2026-06-15,Rajshahi,Sirajganj,BRTA,15,7500.0,500.0,0.3333333333333333
+2026-06-15,Rajshahi,Sirajganj,Land Office,25,1875000.0,75000.0,0.4
+2026-06-15,Rajshahi,Sirajganj,Passport Office,25,62500.0,2500.0,0.4
+2026-06-22,Rajshahi,Sirajganj,BRTA,15,7500.0,500.0,0.3333333333333333
+2026-06-22,Rajshahi,Sirajganj,Land Office,25,1875000.0,75000.0,0.4
+2026-06-22,Rajshahi,Sirajganj,Passport Office,25,62500.0,2500.0,0.4
+2026-06-29,Rajshahi,Sirajganj,BRTA,15,7500.0,500.0,0.3333333333333333
+2026-06-29,Rajshahi,Sirajganj,Land Office,25,1875000.0,75000.0,0.4
+2026-06-29,Rajshahi,Sirajganj,Passport Office,25,62500.0,2500.0,0.4
+2026-07-06,Rajshahi,Sirajganj,BRTA,15,7500.0,500.0,0.3333333333333333
+2026-07-06,Rajshahi,Sirajganj,Land Office,25,1875000.0,75000.0,0.4
+2026-07-06,Rajshahi,Sirajganj,Passport Office,25,62500.0,2500.0,0.4
+2026-07-13,Rajshahi,Sirajganj,BRTA,15,7500.0,500.0,0.3333333333333333
+2026-07-13,Rajshahi,Sirajganj,Land Office,25,1875000.0,75000.0,0.4
+2026-07-13,Rajshahi,Sirajganj,Passport Office,25,62500.0,2500.0,0.4
+2026-07-20,Rajshahi,Sirajganj,BRTA,15,7500.0,500.0,0.3333333333333333
+2026-07-20,Rajshahi,Sirajganj,Land Office,25,1875000.0,75000.0,0.4
+2026-07-20,Rajshahi,Sirajganj,Passport Office,25,62500.0,2500.0,0.4
+2026-07-27,Rajshahi,Sirajganj,BRTA,15,7500.0,500.0,0.3333333333333333
+2026-07-27,Rajshahi,Sirajganj,Land Office,25,1875000.0,75000.0,0.4
+2026-07-27,Rajshahi,Sirajganj,Passport Office,25,62500.0,2500.0,0.4
+2026-08-03,Rajshahi,Sirajganj,BRTA,15,7500.0,500.0,0.3333333333333333
+2026-08-03,Rajshahi,Sirajganj,Land Office,25,1875000.0,75000.0,0.4
+2026-08-03,Rajshahi,Sirajganj,Passport Office,25,62500.0,2500.0,0.4
+2026-08-10,Rajshahi,Sirajganj,BRTA,15,7500.0,500.0,0.3333333333333333
+2026-08-10,Rajshahi,Sirajganj,Land Office,25,1875000.0,75000.0,0.4
+2026-08-10,Rajshahi,Sirajganj,Passport Office,25,62500.0,2500.0,0.4
+2026-08-17,Rajshahi,Sirajganj,BRTA,25,12500.0,500.0,0.2
+2026-08-17,Rajshahi,Sirajganj,Land Office,35,2625000.0,75000.0,0.2857142857142857
+2026-08-17,Rajshahi,Sirajganj,Passport Office,35,87500.0,2500.0,0.2857142857142857
+2026-06-01,Rangpur,Dinajpur,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-06-01,Rangpur,Dinajpur,Land Office,25,62500.0,2500.0,0.4
+2026-06-01,Rangpur,Dinajpur,Passport Office,25,375000.0,15000.0,0.4
+2026-06-08,Rangpur,Dinajpur,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-06-08,Rangpur,Dinajpur,Land Office,25,62500.0,2500.0,0.4
+2026-06-08,Rangpur,Dinajpur,Passport Office,25,375000.0,15000.0,0.4
+2026-06-15,Rangpur,Dinajpur,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-06-15,Rangpur,Dinajpur,Land Office,25,62500.0,2500.0,0.4
+2026-06-15,Rangpur,Dinajpur,Passport Office,25,375000.0,15000.0,0.4
+2026-06-22,Rangpur,Dinajpur,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-06-22,Rangpur,Dinajpur,Land Office,25,62500.0,2500.0,0.4
+2026-06-22,Rangpur,Dinajpur,Passport Office,25,375000.0,15000.0,0.4
+2026-06-29,Rangpur,Dinajpur,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-06-29,Rangpur,Dinajpur,Land Office,25,62500.0,2500.0,0.4
+2026-06-29,Rangpur,Dinajpur,Passport Office,25,375000.0,15000.0,0.4
+2026-07-06,Rangpur,Dinajpur,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-07-06,Rangpur,Dinajpur,Land Office,25,62500.0,2500.0,0.4
+2026-07-06,Rangpur,Dinajpur,Passport Office,25,375000.0,15000.0,0.4
+2026-07-13,Rangpur,Dinajpur,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-07-13,Rangpur,Dinajpur,Land Office,25,62500.0,2500.0,0.4
+2026-07-13,Rangpur,Dinajpur,Passport Office,25,375000.0,15000.0,0.4
+2026-07-20,Rangpur,Dinajpur,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-07-20,Rangpur,Dinajpur,Land Office,25,62500.0,2500.0,0.4
+2026-07-20,Rangpur,Dinajpur,Passport Office,25,375000.0,15000.0,0.4
+2026-07-27,Rangpur,Dinajpur,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-07-27,Rangpur,Dinajpur,Land Office,25,62500.0,2500.0,0.4
+2026-07-27,Rangpur,Dinajpur,Passport Office,25,375000.0,15000.0,0.4
+2026-08-03,Rangpur,Dinajpur,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-08-03,Rangpur,Dinajpur,Land Office,25,62500.0,2500.0,0.4
+2026-08-03,Rangpur,Dinajpur,Passport Office,25,375000.0,15000.0,0.4
+2026-08-10,Rangpur,Dinajpur,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-08-10,Rangpur,Dinajpur,Land Office,25,62500.0,2500.0,0.4
+2026-08-10,Rangpur,Dinajpur,Passport Office,25,375000.0,15000.0,0.4
+2026-08-17,Rangpur,Dinajpur,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-08-17,Rangpur,Dinajpur,Land Office,25,62500.0,2500.0,0.4
+2026-08-17,Rangpur,Dinajpur,Passport Office,25,375000.0,15000.0,0.4
+2026-06-01,Rangpur,Gaibandha,BRTA,25,187500.0,7500.0,0.2
+2026-06-01,Rangpur,Gaibandha,Land Office,15,37500.0,2500.0,0.6666666666666666
+2026-06-01,Rangpur,Gaibandha,Passport Office,15,225000.0,15000.0,0.6666666666666666
+2026-06-08,Rangpur,Gaibandha,BRTA,25,187500.0,7500.0,0.2
+2026-06-08,Rangpur,Gaibandha,Land Office,15,37500.0,2500.0,0.6666666666666666
+2026-06-08,Rangpur,Gaibandha,Passport Office,15,225000.0,15000.0,0.6666666666666666
+2026-06-15,Rangpur,Gaibandha,BRTA,25,187500.0,7500.0,0.2
+2026-06-15,Rangpur,Gaibandha,Land Office,15,37500.0,2500.0,0.6666666666666666
+2026-06-15,Rangpur,Gaibandha,Passport Office,15,225000.0,15000.0,0.6666666666666666
+2026-06-22,Rangpur,Gaibandha,BRTA,25,187500.0,7500.0,0.2
+2026-06-22,Rangpur,Gaibandha,Land Office,15,37500.0,2500.0,0.6666666666666666
+2026-06-22,Rangpur,Gaibandha,Passport Office,15,225000.0,15000.0,0.6666666666666666
+2026-06-29,Rangpur,Gaibandha,BRTA,25,187500.0,7500.0,0.2
+2026-06-29,Rangpur,Gaibandha,Land Office,15,37500.0,2500.0,0.6666666666666666
+2026-06-29,Rangpur,Gaibandha,Passport Office,15,225000.0,15000.0,0.6666666666666666
+2026-07-06,Rangpur,Gaibandha,BRTA,25,187500.0,7500.0,0.2
+2026-07-06,Rangpur,Gaibandha,Land Office,15,37500.0,2500.0,0.6666666666666666
+2026-07-06,Rangpur,Gaibandha,Passport Office,15,225000.0,15000.0,0.6666666666666666
+2026-07-13,Rangpur,Gaibandha,BRTA,25,187500.0,7500.0,0.2
+2026-07-13,Rangpur,Gaibandha,Land Office,15,37500.0,2500.0,0.6666666666666666
+2026-07-13,Rangpur,Gaibandha,Passport Office,15,225000.0,15000.0,0.6666666666666666
+2026-07-20,Rangpur,Gaibandha,BRTA,25,187500.0,7500.0,0.2
+2026-07-20,Rangpur,Gaibandha,Land Office,15,37500.0,2500.0,0.6666666666666666
+2026-07-20,Rangpur,Gaibandha,Passport Office,15,225000.0,15000.0,0.6666666666666666
+2026-07-27,Rangpur,Gaibandha,BRTA,25,187500.0,7500.0,0.2
+2026-07-27,Rangpur,Gaibandha,Land Office,15,37500.0,2500.0,0.6666666666666666
+2026-07-27,Rangpur,Gaibandha,Passport Office,15,225000.0,15000.0,0.6666666666666666
+2026-08-03,Rangpur,Gaibandha,BRTA,25,187500.0,7500.0,0.2
+2026-08-03,Rangpur,Gaibandha,Land Office,15,37500.0,2500.0,0.6666666666666666
+2026-08-03,Rangpur,Gaibandha,Passport Office,15,225000.0,15000.0,0.6666666666666666
+2026-08-10,Rangpur,Gaibandha,BRTA,25,187500.0,7500.0,0.2
+2026-08-10,Rangpur,Gaibandha,Land Office,15,37500.0,2500.0,0.6666666666666666
+2026-08-10,Rangpur,Gaibandha,Passport Office,15,225000.0,15000.0,0.6666666666666666
+2026-08-17,Rangpur,Gaibandha,BRTA,25,187500.0,7500.0,0.2
+2026-08-17,Rangpur,Gaibandha,Land Office,15,37500.0,2500.0,0.6666666666666666
+2026-08-17,Rangpur,Gaibandha,Passport Office,15,225000.0,15000.0,0.6666666666666666
+2026-06-01,Rangpur,Kurigram,BRTA,10,150000.0,15000.0,1.0
+2026-06-01,Rangpur,Kurigram,Land Office,20,150000.0,7500.0,0.25
+2026-06-01,Rangpur,Kurigram,Passport Office,20,700000.0,35000.0,0.25
+2026-06-08,Rangpur,Kurigram,BRTA,10,150000.0,15000.0,1.0
+2026-06-08,Rangpur,Kurigram,Land Office,20,150000.0,7500.0,0.25
+2026-06-08,Rangpur,Kurigram,Passport Office,20,700000.0,35000.0,0.25
+2026-06-15,Rangpur,Kurigram,BRTA,10,150000.0,15000.0,1.0
+2026-06-15,Rangpur,Kurigram,Land Office,20,150000.0,7500.0,0.25
+2026-06-15,Rangpur,Kurigram,Passport Office,20,700000.0,35000.0,0.25
+2026-06-22,Rangpur,Kurigram,BRTA,10,150000.0,15000.0,1.0
+2026-06-22,Rangpur,Kurigram,Land Office,20,150000.0,7500.0,0.25
+2026-06-22,Rangpur,Kurigram,Passport Office,20,700000.0,35000.0,0.25
+2026-06-29,Rangpur,Kurigram,BRTA,10,150000.0,15000.0,1.0
+2026-06-29,Rangpur,Kurigram,Land Office,20,150000.0,7500.0,0.25
+2026-06-29,Rangpur,Kurigram,Passport Office,20,700000.0,35000.0,0.25
+2026-07-06,Rangpur,Kurigram,BRTA,10,150000.0,15000.0,1.0
+2026-07-06,Rangpur,Kurigram,Land Office,20,150000.0,7500.0,0.25
+2026-07-06,Rangpur,Kurigram,Passport Office,20,700000.0,35000.0,0.25
+2026-07-13,Rangpur,Kurigram,BRTA,10,150000.0,15000.0,1.0
+2026-07-13,Rangpur,Kurigram,Land Office,20,150000.0,7500.0,0.25
+2026-07-13,Rangpur,Kurigram,Passport Office,20,700000.0,35000.0,0.25
+2026-07-20,Rangpur,Kurigram,BRTA,10,150000.0,15000.0,1.0
+2026-07-20,Rangpur,Kurigram,Land Office,20,150000.0,7500.0,0.25
+2026-07-20,Rangpur,Kurigram,Passport Office,20,700000.0,35000.0,0.25
+2026-07-27,Rangpur,Kurigram,BRTA,10,150000.0,15000.0,1.0
+2026-07-27,Rangpur,Kurigram,Land Office,20,150000.0,7500.0,0.25
+2026-07-27,Rangpur,Kurigram,Passport Office,20,700000.0,35000.0,0.25
+2026-08-03,Rangpur,Kurigram,BRTA,10,150000.0,15000.0,1.0
+2026-08-03,Rangpur,Kurigram,Land Office,20,150000.0,7500.0,0.25
+2026-08-03,Rangpur,Kurigram,Passport Office,20,700000.0,35000.0,0.25
+2026-08-10,Rangpur,Kurigram,BRTA,10,150000.0,15000.0,1.0
+2026-08-10,Rangpur,Kurigram,Land Office,20,150000.0,7500.0,0.25
+2026-08-10,Rangpur,Kurigram,Passport Office,20,700000.0,35000.0,0.25
+2026-08-17,Rangpur,Kurigram,BRTA,20,300000.0,15000.0,0.5
+2026-08-17,Rangpur,Kurigram,Land Office,30,225000.0,7500.0,0.16666666666666666
+2026-08-17,Rangpur,Kurigram,Passport Office,30,1050000.0,35000.0,0.16666666666666666
+2026-06-01,Rangpur,Lalmonirhat,BRTA,20,1500000.0,75000.0,0.5
+2026-06-01,Rangpur,Lalmonirhat,Land Office,10,350000.0,35000.0,0.5
+2026-06-01,Rangpur,Lalmonirhat,Passport Office,10,5000.0,500.0,0.5
+2026-06-08,Rangpur,Lalmonirhat,BRTA,20,1500000.0,75000.0,0.5
+2026-06-08,Rangpur,Lalmonirhat,Land Office,10,350000.0,35000.0,0.5
+2026-06-08,Rangpur,Lalmonirhat,Passport Office,10,5000.0,500.0,0.5
+2026-06-15,Rangpur,Lalmonirhat,BRTA,20,1500000.0,75000.0,0.5
+2026-06-15,Rangpur,Lalmonirhat,Land Office,10,350000.0,35000.0,0.5
+2026-06-15,Rangpur,Lalmonirhat,Passport Office,10,5000.0,500.0,0.5
+2026-06-22,Rangpur,Lalmonirhat,BRTA,20,1500000.0,75000.0,0.5
+2026-06-22,Rangpur,Lalmonirhat,Land Office,10,350000.0,35000.0,0.5
+2026-06-22,Rangpur,Lalmonirhat,Passport Office,10,5000.0,500.0,0.5
+2026-06-29,Rangpur,Lalmonirhat,BRTA,20,1500000.0,75000.0,0.5
+2026-06-29,Rangpur,Lalmonirhat,Land Office,10,350000.0,35000.0,0.5
+2026-06-29,Rangpur,Lalmonirhat,Passport Office,10,5000.0,500.0,0.5
+2026-07-06,Rangpur,Lalmonirhat,BRTA,20,1500000.0,75000.0,0.5
+2026-07-06,Rangpur,Lalmonirhat,Land Office,10,350000.0,35000.0,0.5
+2026-07-06,Rangpur,Lalmonirhat,Passport Office,10,5000.0,500.0,0.5
+2026-07-13,Rangpur,Lalmonirhat,BRTA,20,1500000.0,75000.0,0.5
+2026-07-13,Rangpur,Lalmonirhat,Land Office,10,350000.0,35000.0,0.5
+2026-07-13,Rangpur,Lalmonirhat,Passport Office,10,5000.0,500.0,0.5
+2026-07-20,Rangpur,Lalmonirhat,BRTA,20,1500000.0,75000.0,0.5
+2026-07-20,Rangpur,Lalmonirhat,Land Office,10,350000.0,35000.0,0.5
+2026-07-20,Rangpur,Lalmonirhat,Passport Office,10,5000.0,500.0,0.5
+2026-07-27,Rangpur,Lalmonirhat,BRTA,20,1500000.0,75000.0,0.5
+2026-07-27,Rangpur,Lalmonirhat,Land Office,10,350000.0,35000.0,0.5
+2026-07-27,Rangpur,Lalmonirhat,Passport Office,10,5000.0,500.0,0.5
+2026-08-03,Rangpur,Lalmonirhat,BRTA,20,1500000.0,75000.0,0.5
+2026-08-03,Rangpur,Lalmonirhat,Land Office,10,350000.0,35000.0,0.5
+2026-08-03,Rangpur,Lalmonirhat,Passport Office,10,5000.0,500.0,0.5
+2026-08-10,Rangpur,Lalmonirhat,BRTA,20,1500000.0,75000.0,0.5
+2026-08-10,Rangpur,Lalmonirhat,Land Office,10,350000.0,35000.0,0.5
+2026-08-10,Rangpur,Lalmonirhat,Passport Office,10,5000.0,500.0,0.5
+2026-08-17,Rangpur,Lalmonirhat,BRTA,20,1500000.0,75000.0,0.5
+2026-08-17,Rangpur,Lalmonirhat,Land Office,10,350000.0,35000.0,0.5
+2026-08-17,Rangpur,Lalmonirhat,Passport Office,10,5000.0,500.0,0.5
+2026-06-01,Rangpur,Nilphamari,BRTA,10,25000.0,2500.0,1.0
+2026-06-01,Rangpur,Nilphamari,Land Office,20,10000.0,500.0,0.25
+2026-06-01,Rangpur,Nilphamari,Passport Office,20,150000.0,7500.0,0.25
+2026-06-08,Rangpur,Nilphamari,BRTA,10,25000.0,2500.0,1.0
+2026-06-08,Rangpur,Nilphamari,Land Office,20,10000.0,500.0,0.25
+2026-06-08,Rangpur,Nilphamari,Passport Office,20,150000.0,7500.0,0.25
+2026-06-15,Rangpur,Nilphamari,BRTA,10,25000.0,2500.0,1.0
+2026-06-15,Rangpur,Nilphamari,Land Office,20,10000.0,500.0,0.25
+2026-06-15,Rangpur,Nilphamari,Passport Office,20,150000.0,7500.0,0.25
+2026-06-22,Rangpur,Nilphamari,BRTA,10,25000.0,2500.0,1.0
+2026-06-22,Rangpur,Nilphamari,Land Office,20,10000.0,500.0,0.25
+2026-06-22,Rangpur,Nilphamari,Passport Office,20,150000.0,7500.0,0.25
+2026-06-29,Rangpur,Nilphamari,BRTA,10,25000.0,2500.0,1.0
+2026-06-29,Rangpur,Nilphamari,Land Office,20,10000.0,500.0,0.25
+2026-06-29,Rangpur,Nilphamari,Passport Office,20,150000.0,7500.0,0.25
+2026-07-06,Rangpur,Nilphamari,BRTA,10,25000.0,2500.0,1.0
+2026-07-06,Rangpur,Nilphamari,Land Office,20,10000.0,500.0,0.25
+2026-07-06,Rangpur,Nilphamari,Passport Office,20,150000.0,7500.0,0.25
+2026-07-13,Rangpur,Nilphamari,BRTA,10,25000.0,2500.0,1.0
+2026-07-13,Rangpur,Nilphamari,Land Office,20,10000.0,500.0,0.25
+2026-07-13,Rangpur,Nilphamari,Passport Office,20,150000.0,7500.0,0.25
+2026-07-20,Rangpur,Nilphamari,BRTA,10,25000.0,2500.0,1.0
+2026-07-20,Rangpur,Nilphamari,Land Office,20,10000.0,500.0,0.25
+2026-07-20,Rangpur,Nilphamari,Passport Office,20,150000.0,7500.0,0.25
+2026-07-27,Rangpur,Nilphamari,BRTA,10,25000.0,2500.0,1.0
+2026-07-27,Rangpur,Nilphamari,Land Office,20,10000.0,500.0,0.25
+2026-07-27,Rangpur,Nilphamari,Passport Office,20,150000.0,7500.0,0.25
+2026-08-03,Rangpur,Nilphamari,BRTA,10,25000.0,2500.0,1.0
+2026-08-03,Rangpur,Nilphamari,Land Office,20,10000.0,500.0,0.25
+2026-08-03,Rangpur,Nilphamari,Passport Office,20,150000.0,7500.0,0.25
+2026-08-10,Rangpur,Nilphamari,BRTA,10,25000.0,2500.0,1.0
+2026-08-10,Rangpur,Nilphamari,Land Office,20,10000.0,500.0,0.25
+2026-08-10,Rangpur,Nilphamari,Passport Office,20,150000.0,7500.0,0.25
+2026-08-17,Rangpur,Nilphamari,BRTA,10,25000.0,2500.0,1.0
+2026-08-17,Rangpur,Nilphamari,Land Office,10,5000.0,500.0,0.5
+2026-08-17,Rangpur,Nilphamari,Passport Office,10,75000.0,7500.0,0.5
+2026-06-01,Rangpur,Panchagarh,BRTA,10,150000.0,15000.0,1.0
+2026-06-01,Rangpur,Panchagarh,Land Office,20,150000.0,7500.0,0.25
+2026-06-01,Rangpur,Panchagarh,Passport Office,20,700000.0,35000.0,0.25
+2026-06-08,Rangpur,Panchagarh,BRTA,10,150000.0,15000.0,1.0
+2026-06-08,Rangpur,Panchagarh,Land Office,20,150000.0,7500.0,0.25
+2026-06-08,Rangpur,Panchagarh,Passport Office,20,700000.0,35000.0,0.25
+2026-06-15,Rangpur,Panchagarh,BRTA,10,150000.0,15000.0,1.0
+2026-06-15,Rangpur,Panchagarh,Land Office,20,150000.0,7500.0,0.25
+2026-06-15,Rangpur,Panchagarh,Passport Office,20,700000.0,35000.0,0.25
+2026-06-22,Rangpur,Panchagarh,BRTA,10,150000.0,15000.0,1.0
+2026-06-22,Rangpur,Panchagarh,Land Office,20,150000.0,7500.0,0.25
+2026-06-22,Rangpur,Panchagarh,Passport Office,20,700000.0,35000.0,0.25
+2026-06-29,Rangpur,Panchagarh,BRTA,10,150000.0,15000.0,1.0
+2026-06-29,Rangpur,Panchagarh,Land Office,20,150000.0,7500.0,0.25
+2026-06-29,Rangpur,Panchagarh,Passport Office,20,700000.0,35000.0,0.25
+2026-07-06,Rangpur,Panchagarh,BRTA,10,150000.0,15000.0,1.0
+2026-07-06,Rangpur,Panchagarh,Land Office,20,150000.0,7500.0,0.25
+2026-07-06,Rangpur,Panchagarh,Passport Office,20,700000.0,35000.0,0.25
+2026-07-13,Rangpur,Panchagarh,BRTA,10,150000.0,15000.0,1.0
+2026-07-13,Rangpur,Panchagarh,Land Office,20,150000.0,7500.0,0.25
+2026-07-13,Rangpur,Panchagarh,Passport Office,20,700000.0,35000.0,0.25
+2026-07-20,Rangpur,Panchagarh,BRTA,10,150000.0,15000.0,1.0
+2026-07-20,Rangpur,Panchagarh,Land Office,20,150000.0,7500.0,0.25
+2026-07-20,Rangpur,Panchagarh,Passport Office,20,700000.0,35000.0,0.25
+2026-07-27,Rangpur,Panchagarh,BRTA,10,150000.0,15000.0,1.0
+2026-07-27,Rangpur,Panchagarh,Land Office,20,150000.0,7500.0,0.25
+2026-07-27,Rangpur,Panchagarh,Passport Office,20,700000.0,35000.0,0.25
+2026-08-03,Rangpur,Panchagarh,BRTA,10,150000.0,15000.0,1.0
+2026-08-03,Rangpur,Panchagarh,Land Office,20,150000.0,7500.0,0.25
+2026-08-03,Rangpur,Panchagarh,Passport Office,20,700000.0,35000.0,0.25
+2026-08-10,Rangpur,Panchagarh,BRTA,10,150000.0,15000.0,1.0
+2026-08-10,Rangpur,Panchagarh,Land Office,20,150000.0,7500.0,0.25
+2026-08-10,Rangpur,Panchagarh,Passport Office,20,700000.0,35000.0,0.25
+2026-08-17,Rangpur,Panchagarh,BRTA,20,300000.0,15000.0,0.5
+2026-08-17,Rangpur,Panchagarh,Land Office,30,225000.0,7500.0,0.16666666666666666
+2026-08-17,Rangpur,Panchagarh,Passport Office,30,1050000.0,35000.0,0.16666666666666666
+2026-06-01,Rangpur,Rangpur,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-06-01,Rangpur,Rangpur,Land Office,25,62500.0,2500.0,0.4
+2026-06-01,Rangpur,Rangpur,Passport Office,25,375000.0,15000.0,0.4
+2026-06-08,Rangpur,Rangpur,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-06-08,Rangpur,Rangpur,Land Office,25,62500.0,2500.0,0.4
+2026-06-08,Rangpur,Rangpur,Passport Office,25,375000.0,15000.0,0.4
+2026-06-15,Rangpur,Rangpur,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-06-15,Rangpur,Rangpur,Land Office,25,62500.0,2500.0,0.4
+2026-06-15,Rangpur,Rangpur,Passport Office,25,375000.0,15000.0,0.4
+2026-06-22,Rangpur,Rangpur,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-06-22,Rangpur,Rangpur,Land Office,25,62500.0,2500.0,0.4
+2026-06-22,Rangpur,Rangpur,Passport Office,25,375000.0,15000.0,0.4
+2026-06-29,Rangpur,Rangpur,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-06-29,Rangpur,Rangpur,Land Office,25,62500.0,2500.0,0.4
+2026-06-29,Rangpur,Rangpur,Passport Office,25,375000.0,15000.0,0.4
+2026-07-06,Rangpur,Rangpur,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-07-06,Rangpur,Rangpur,Land Office,25,62500.0,2500.0,0.4
+2026-07-06,Rangpur,Rangpur,Passport Office,25,375000.0,15000.0,0.4
+2026-07-13,Rangpur,Rangpur,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-07-13,Rangpur,Rangpur,Land Office,25,62500.0,2500.0,0.4
+2026-07-13,Rangpur,Rangpur,Passport Office,25,375000.0,15000.0,0.4
+2026-07-20,Rangpur,Rangpur,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-07-20,Rangpur,Rangpur,Land Office,25,62500.0,2500.0,0.4
+2026-07-20,Rangpur,Rangpur,Passport Office,25,375000.0,15000.0,0.4
+2026-07-27,Rangpur,Rangpur,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-07-27,Rangpur,Rangpur,Land Office,25,62500.0,2500.0,0.4
+2026-07-27,Rangpur,Rangpur,Passport Office,25,375000.0,15000.0,0.4
+2026-08-03,Rangpur,Rangpur,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-08-03,Rangpur,Rangpur,Land Office,25,62500.0,2500.0,0.4
+2026-08-03,Rangpur,Rangpur,Passport Office,25,375000.0,15000.0,0.4
+2026-08-10,Rangpur,Rangpur,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-08-10,Rangpur,Rangpur,Land Office,25,62500.0,2500.0,0.4
+2026-08-10,Rangpur,Rangpur,Passport Office,25,375000.0,15000.0,0.4
+2026-08-17,Rangpur,Rangpur,BRTA,15,112500.0,7500.0,0.3333333333333333
+2026-08-17,Rangpur,Rangpur,Land Office,25,62500.0,2500.0,0.4
+2026-08-17,Rangpur,Rangpur,Passport Office,25,375000.0,15000.0,0.4
+2026-06-01,Rangpur,Thakurgaon,BRTA,25,187500.0,7500.0,0.2
+2026-06-01,Rangpur,Thakurgaon,Land Office,15,37500.0,2500.0,0.6666666666666666
+2026-06-01,Rangpur,Thakurgaon,Passport Office,15,225000.0,15000.0,0.6666666666666666
+2026-06-08,Rangpur,Thakurgaon,BRTA,25,187500.0,7500.0,0.2
+2026-06-08,Rangpur,Thakurgaon,Land Office,15,37500.0,2500.0,0.6666666666666666
+2026-06-08,Rangpur,Thakurgaon,Passport Office,15,225000.0,15000.0,0.6666666666666666
+2026-06-15,Rangpur,Thakurgaon,BRTA,25,187500.0,7500.0,0.2
+2026-06-15,Rangpur,Thakurgaon,Land Office,15,37500.0,2500.0,0.6666666666666666
+2026-06-15,Rangpur,Thakurgaon,Passport Office,15,225000.0,15000.0,0.6666666666666666
+2026-06-22,Rangpur,Thakurgaon,BRTA,25,187500.0,7500.0,0.2
+2026-06-22,Rangpur,Thakurgaon,Land Office,15,37500.0,2500.0,0.6666666666666666
+2026-06-22,Rangpur,Thakurgaon,Passport Office,15,225000.0,15000.0,0.6666666666666666
+2026-06-29,Rangpur,Thakurgaon,BRTA,25,187500.0,7500.0,0.2
+2026-06-29,Rangpur,Thakurgaon,Land Office,15,37500.0,2500.0,0.6666666666666666
+2026-06-29,Rangpur,Thakurgaon,Passport Office,15,225000.0,15000.0,0.6666666666666666
+2026-07-06,Rangpur,Thakurgaon,BRTA,25,187500.0,7500.0,0.2
+2026-07-06,Rangpur,Thakurgaon,Land Office,15,37500.0,2500.0,0.6666666666666666
+2026-07-06,Rangpur,Thakurgaon,Passport Office,15,225000.0,15000.0,0.6666666666666666
+2026-07-13,Rangpur,Thakurgaon,BRTA,25,187500.0,7500.0,0.2
+2026-07-13,Rangpur,Thakurgaon,Land Office,15,37500.0,2500.0,0.6666666666666666
+2026-07-13,Rangpur,Thakurgaon,Passport Office,15,225000.0,15000.0,0.6666666666666666
+2026-07-20,Rangpur,Thakurgaon,BRTA,25,187500.0,7500.0,0.2
+2026-07-20,Rangpur,Thakurgaon,Land Office,15,37500.0,2500.0,0.6666666666666666
+2026-07-20,Rangpur,Thakurgaon,Passport Office,15,225000.0,15000.0,0.6666666666666666
+2026-07-27,Rangpur,Thakurgaon,BRTA,25,187500.0,7500.0,0.2
+2026-07-27,Rangpur,Thakurgaon,Land Office,15,37500.0,2500.0,0.6666666666666666
+2026-07-27,Rangpur,Thakurgaon,Passport Office,15,225000.0,15000.0,0.6666666666666666
+2026-08-03,Rangpur,Thakurgaon,BRTA,25,187500.0,7500.0,0.2
+2026-08-03,Rangpur,Thakurgaon,Land Office,15,37500.0,2500.0,0.6666666666666666
+2026-08-03,Rangpur,Thakurgaon,Passport Office,15,225000.0,15000.0,0.6666666666666666
+2026-08-10,Rangpur,Thakurgaon,BRTA,25,187500.0,7500.0,0.2
+2026-08-10,Rangpur,Thakurgaon,Land Office,15,37500.0,2500.0,0.6666666666666666
+2026-08-10,Rangpur,Thakurgaon,Passport Office,15,225000.0,15000.0,0.6666666666666666
+2026-08-17,Rangpur,Thakurgaon,BRTA,25,187500.0,7500.0,0.2
+2026-08-17,Rangpur,Thakurgaon,Land Office,15,37500.0,2500.0,0.6666666666666666
+2026-08-17,Rangpur,Thakurgaon,Passport Office,15,225000.0,15000.0,0.6666666666666666
+2026-06-01,Sylhet,Habiganj,BRTA,25,12500.0,500.0,0.2
+2026-06-01,Sylhet,Habiganj,Land Office,15,1125000.0,75000.0,0.6666666666666666
+2026-06-01,Sylhet,Habiganj,Passport Office,15,37500.0,2500.0,0.6666666666666666
+2026-06-08,Sylhet,Habiganj,BRTA,25,12500.0,500.0,0.2
+2026-06-08,Sylhet,Habiganj,Land Office,15,1125000.0,75000.0,0.6666666666666666
+2026-06-08,Sylhet,Habiganj,Passport Office,15,37500.0,2500.0,0.6666666666666666
+2026-06-15,Sylhet,Habiganj,BRTA,25,12500.0,500.0,0.2
+2026-06-15,Sylhet,Habiganj,Land Office,15,1125000.0,75000.0,0.6666666666666666
+2026-06-15,Sylhet,Habiganj,Passport Office,15,37500.0,2500.0,0.6666666666666666
+2026-06-22,Sylhet,Habiganj,BRTA,25,12500.0,500.0,0.2
+2026-06-22,Sylhet,Habiganj,Land Office,15,1125000.0,75000.0,0.6666666666666666
+2026-06-22,Sylhet,Habiganj,Passport Office,15,37500.0,2500.0,0.6666666666666666
+2026-06-29,Sylhet,Habiganj,BRTA,25,12500.0,500.0,0.2
+2026-06-29,Sylhet,Habiganj,Land Office,15,1125000.0,75000.0,0.6666666666666666
+2026-06-29,Sylhet,Habiganj,Passport Office,15,37500.0,2500.0,0.6666666666666666
+2026-07-06,Sylhet,Habiganj,BRTA,25,12500.0,500.0,0.2
+2026-07-06,Sylhet,Habiganj,Land Office,15,1125000.0,75000.0,0.6666666666666666
+2026-07-06,Sylhet,Habiganj,Passport Office,15,37500.0,2500.0,0.6666666666666666
+2026-07-13,Sylhet,Habiganj,BRTA,25,12500.0,500.0,0.2
+2026-07-13,Sylhet,Habiganj,Land Office,15,1125000.0,75000.0,0.6666666666666666
+2026-07-13,Sylhet,Habiganj,Passport Office,15,37500.0,2500.0,0.6666666666666666
+2026-07-20,Sylhet,Habiganj,BRTA,25,12500.0,500.0,0.2
+2026-07-20,Sylhet,Habiganj,Land Office,15,1125000.0,75000.0,0.6666666666666666
+2026-07-20,Sylhet,Habiganj,Passport Office,15,37500.0,2500.0,0.6666666666666666
+2026-07-27,Sylhet,Habiganj,BRTA,25,12500.0,500.0,0.2
+2026-07-27,Sylhet,Habiganj,Land Office,15,1125000.0,75000.0,0.6666666666666666
+2026-07-27,Sylhet,Habiganj,Passport Office,15,37500.0,2500.0,0.6666666666666666
+2026-08-03,Sylhet,Habiganj,BRTA,25,12500.0,500.0,0.2
+2026-08-03,Sylhet,Habiganj,Land Office,15,1125000.0,75000.0,0.6666666666666666
+2026-08-03,Sylhet,Habiganj,Passport Office,15,37500.0,2500.0,0.6666666666666666
+2026-08-10,Sylhet,Habiganj,BRTA,25,12500.0,500.0,0.2
+2026-08-10,Sylhet,Habiganj,Land Office,15,1125000.0,75000.0,0.6666666666666666
+2026-08-10,Sylhet,Habiganj,Passport Office,15,37500.0,2500.0,0.6666666666666666
+2026-08-17,Sylhet,Habiganj,BRTA,35,17500.0,500.0,0.14285714285714285
+2026-08-17,Sylhet,Habiganj,Land Office,25,1875000.0,75000.0,0.4
+2026-08-17,Sylhet,Habiganj,Passport Office,25,62500.0,2500.0,0.4
+2026-06-01,Sylhet,Maulvibazar,BRTA,25,12500.0,500.0,0.2
+2026-06-01,Sylhet,Maulvibazar,Land Office,15,1125000.0,75000.0,0.6666666666666666
+2026-06-01,Sylhet,Maulvibazar,Passport Office,15,37500.0,2500.0,0.6666666666666666
+2026-06-08,Sylhet,Maulvibazar,BRTA,25,12500.0,500.0,0.2
+2026-06-08,Sylhet,Maulvibazar,Land Office,15,1125000.0,75000.0,0.6666666666666666
+2026-06-08,Sylhet,Maulvibazar,Passport Office,15,37500.0,2500.0,0.6666666666666666
+2026-06-15,Sylhet,Maulvibazar,BRTA,25,12500.0,500.0,0.2
+2026-06-15,Sylhet,Maulvibazar,Land Office,15,1125000.0,75000.0,0.6666666666666666
+2026-06-15,Sylhet,Maulvibazar,Passport Office,15,37500.0,2500.0,0.6666666666666666
+2026-06-22,Sylhet,Maulvibazar,BRTA,25,12500.0,500.0,0.2
+2026-06-22,Sylhet,Maulvibazar,Land Office,15,1125000.0,75000.0,0.6666666666666666
+2026-06-22,Sylhet,Maulvibazar,Passport Office,15,37500.0,2500.0,0.6666666666666666
+2026-06-29,Sylhet,Maulvibazar,BRTA,25,12500.0,500.0,0.2
+2026-06-29,Sylhet,Maulvibazar,Land Office,15,1125000.0,75000.0,0.6666666666666666
+2026-06-29,Sylhet,Maulvibazar,Passport Office,15,37500.0,2500.0,0.6666666666666666
+2026-07-06,Sylhet,Maulvibazar,BRTA,25,12500.0,500.0,0.2
+2026-07-06,Sylhet,Maulvibazar,Land Office,15,1125000.0,75000.0,0.6666666666666666
+2026-07-06,Sylhet,Maulvibazar,Passport Office,15,37500.0,2500.0,0.6666666666666666
+2026-07-13,Sylhet,Maulvibazar,BRTA,25,12500.0,500.0,0.2
+2026-07-13,Sylhet,Maulvibazar,Land Office,15,1125000.0,75000.0,0.6666666666666666
+2026-07-13,Sylhet,Maulvibazar,Passport Office,15,37500.0,2500.0,0.6666666666666666
+2026-07-20,Sylhet,Maulvibazar,BRTA,25,12500.0,500.0,0.2
+2026-07-20,Sylhet,Maulvibazar,Land Office,15,1125000.0,75000.0,0.6666666666666666
+2026-07-20,Sylhet,Maulvibazar,Passport Office,15,37500.0,2500.0,0.6666666666666666
+2026-07-27,Sylhet,Maulvibazar,BRTA,25,12500.0,500.0,0.2
+2026-07-27,Sylhet,Maulvibazar,Land Office,15,1125000.0,75000.0,0.6666666666666666
+2026-07-27,Sylhet,Maulvibazar,Passport Office,15,37500.0,2500.0,0.6666666666666666
+2026-08-03,Sylhet,Maulvibazar,BRTA,25,12500.0,500.0,0.2
+2026-08-03,Sylhet,Maulvibazar,Land Office,15,1125000.0,75000.0,0.6666666666666666
+2026-08-03,Sylhet,Maulvibazar,Passport Office,15,37500.0,2500.0,0.6666666666666666
+2026-08-10,Sylhet,Maulvibazar,BRTA,25,12500.0,500.0,0.2
+2026-08-10,Sylhet,Maulvibazar,Land Office,15,1125000.0,75000.0,0.6666666666666666
+2026-08-10,Sylhet,Maulvibazar,Passport Office,15,37500.0,2500.0,0.6666666666666666
+2026-08-17,Sylhet,Maulvibazar,BRTA,35,17500.0,500.0,0.14285714285714285
+2026-08-17,Sylhet,Maulvibazar,Land Office,25,1875000.0,75000.0,0.4
+2026-08-17,Sylhet,Maulvibazar,Passport Office,25,62500.0,2500.0,0.4
+2026-06-01,Sylhet,Sunamganj,BRTA,10,750000.0,75000.0,1.0
+2026-06-01,Sylhet,Sunamganj,Land Office,20,700000.0,35000.0,0.25
+2026-06-01,Sylhet,Sunamganj,Passport Office,20,10000.0,500.0,0.25
+2026-06-08,Sylhet,Sunamganj,BRTA,10,750000.0,75000.0,1.0
+2026-06-08,Sylhet,Sunamganj,Land Office,20,700000.0,35000.0,0.25
+2026-06-08,Sylhet,Sunamganj,Passport Office,20,10000.0,500.0,0.25
+2026-06-15,Sylhet,Sunamganj,BRTA,10,750000.0,75000.0,1.0
+2026-06-15,Sylhet,Sunamganj,Land Office,20,700000.0,35000.0,0.25
+2026-06-15,Sylhet,Sunamganj,Passport Office,20,10000.0,500.0,0.25
+2026-06-22,Sylhet,Sunamganj,BRTA,10,750000.0,75000.0,1.0
+2026-06-22,Sylhet,Sunamganj,Land Office,20,700000.0,35000.0,0.25
+2026-06-22,Sylhet,Sunamganj,Passport Office,20,10000.0,500.0,0.25
+2026-06-29,Sylhet,Sunamganj,BRTA,10,750000.0,75000.0,1.0
+2026-06-29,Sylhet,Sunamganj,Land Office,20,700000.0,35000.0,0.25
+2026-06-29,Sylhet,Sunamganj,Passport Office,20,10000.0,500.0,0.25
+2026-07-06,Sylhet,Sunamganj,BRTA,10,750000.0,75000.0,1.0
+2026-07-06,Sylhet,Sunamganj,Land Office,20,700000.0,35000.0,0.25
+2026-07-06,Sylhet,Sunamganj,Passport Office,20,10000.0,500.0,0.25
+2026-07-13,Sylhet,Sunamganj,BRTA,10,750000.0,75000.0,1.0
+2026-07-13,Sylhet,Sunamganj,Land Office,20,700000.0,35000.0,0.25
+2026-07-13,Sylhet,Sunamganj,Passport Office,20,10000.0,500.0,0.25
+2026-07-20,Sylhet,Sunamganj,BRTA,10,750000.0,75000.0,1.0
+2026-07-20,Sylhet,Sunamganj,Land Office,20,700000.0,35000.0,0.25
+2026-07-20,Sylhet,Sunamganj,Passport Office,20,10000.0,500.0,0.25
+2026-07-27,Sylhet,Sunamganj,BRTA,10,750000.0,75000.0,1.0
+2026-07-27,Sylhet,Sunamganj,Land Office,20,700000.0,35000.0,0.25
+2026-07-27,Sylhet,Sunamganj,Passport Office,20,10000.0,500.0,0.25
+2026-08-03,Sylhet,Sunamganj,BRTA,10,750000.0,75000.0,1.0
+2026-08-03,Sylhet,Sunamganj,Land Office,20,700000.0,35000.0,0.25
+2026-08-03,Sylhet,Sunamganj,Passport Office,20,10000.0,500.0,0.25
+2026-08-10,Sylhet,Sunamganj,BRTA,10,750000.0,75000.0,1.0
+2026-08-10,Sylhet,Sunamganj,Land Office,20,700000.0,35000.0,0.25
+2026-08-10,Sylhet,Sunamganj,Passport Office,20,10000.0,500.0,0.25
+2026-08-17,Sylhet,Sunamganj,BRTA,10,750000.0,75000.0,1.0
+2026-08-17,Sylhet,Sunamganj,Land Office,20,700000.0,35000.0,0.25
+2026-08-17,Sylhet,Sunamganj,Passport Office,20,10000.0,500.0,0.25
+2026-06-01,Sylhet,Sylhet,BRTA,25,12500.0,500.0,0.2
+2026-06-01,Sylhet,Sylhet,Land Office,15,1125000.0,75000.0,0.6666666666666666
+2026-06-01,Sylhet,Sylhet,Passport Office,15,37500.0,2500.0,0.6666666666666666
+2026-06-08,Sylhet,Sylhet,BRTA,25,12500.0,500.0,0.2
+2026-06-08,Sylhet,Sylhet,Land Office,15,1125000.0,75000.0,0.6666666666666666
+2026-06-08,Sylhet,Sylhet,Passport Office,15,37500.0,2500.0,0.6666666666666666
+2026-06-15,Sylhet,Sylhet,BRTA,25,12500.0,500.0,0.2
+2026-06-15,Sylhet,Sylhet,Land Office,15,1125000.0,75000.0,0.6666666666666666
+2026-06-15,Sylhet,Sylhet,Passport Office,15,37500.0,2500.0,0.6666666666666666
+2026-06-22,Sylhet,Sylhet,BRTA,25,12500.0,500.0,0.2
+2026-06-22,Sylhet,Sylhet,Land Office,15,1125000.0,75000.0,0.6666666666666666
+2026-06-22,Sylhet,Sylhet,Passport Office,15,37500.0,2500.0,0.6666666666666666
+2026-06-29,Sylhet,Sylhet,BRTA,25,12500.0,500.0,0.2
+2026-06-29,Sylhet,Sylhet,Land Office,15,1125000.0,75000.0,0.6666666666666666
+2026-06-29,Sylhet,Sylhet,Passport Office,15,37500.0,2500.0,0.6666666666666666
+2026-07-06,Sylhet,Sylhet,BRTA,25,12500.0,500.0,0.2
+2026-07-06,Sylhet,Sylhet,Land Office,15,1125000.0,75000.0,0.6666666666666666
+2026-07-06,Sylhet,Sylhet,Passport Office,15,37500.0,2500.0,0.6666666666666666
+2026-07-13,Sylhet,Sylhet,BRTA,25,12500.0,500.0,0.2
+2026-07-13,Sylhet,Sylhet,Land Office,15,1125000.0,75000.0,0.6666666666666666
+2026-07-13,Sylhet,Sylhet,Passport Office,15,37500.0,2500.0,0.6666666666666666
+2026-07-20,Sylhet,Sylhet,BRTA,25,12500.0,500.0,0.2
+2026-07-20,Sylhet,Sylhet,Land Office,15,1125000.0,75000.0,0.6666666666666666
+2026-07-20,Sylhet,Sylhet,Passport Office,15,37500.0,2500.0,0.6666666666666666
+2026-07-27,Sylhet,Sylhet,BRTA,25,12500.0,500.0,0.2
+2026-07-27,Sylhet,Sylhet,Land Office,15,1125000.0,75000.0,0.6666666666666666
+2026-07-27,Sylhet,Sylhet,Passport Office,15,37500.0,2500.0,0.6666666666666666
+2026-08-03,Sylhet,Sylhet,BRTA,25,12500.0,500.0,0.2
+2026-08-03,Sylhet,Sylhet,Land Office,15,1125000.0,75000.0,0.6666666666666666
+2026-08-03,Sylhet,Sylhet,Passport Office,15,37500.0,2500.0,0.6666666666666666
+2026-08-10,Sylhet,Sylhet,BRTA,25,12500.0,500.0,0.2
+2026-08-10,Sylhet,Sylhet,Land Office,15,1125000.0,75000.0,0.6666666666666666
+2026-08-10,Sylhet,Sylhet,Passport Office,15,37500.0,2500.0,0.6666666666666666
+2026-08-17,Sylhet,Sylhet,BRTA,35,17500.0,500.0,0.14285714285714285
+2026-08-17,Sylhet,Sylhet,Land Office,25,1875000.0,75000.0,0.4
+2026-08-17,Sylhet,Sylhet,Passport Office,25,62500.0,2500.0,0.4

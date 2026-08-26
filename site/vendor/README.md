@@ -1,0 +1,9 @@
+MapLibre GL JS 4.7.1, vendored unchanged from https://unpkg.com/maplibre-gl@4.7.1/
+
+BSD-3-Clause license: LICENSE.txt. SHA-256 checksums:
+
+```text
+be9633c4d870e26fb37f1cfe5c5a77181667114003ea16207ac7850d8da8add1  maplibre-gl.js
+576b085fdd9487a65a19215328c1e086c07ce5bf6da09b666b3806d3d008dae9  maplibre-gl.css
+ee5fc05a0677eaf69601d2c7db0d9ecd6cc27c3abc1d0733bc9ed34707cf8ef2  LICENSE.txt
+```

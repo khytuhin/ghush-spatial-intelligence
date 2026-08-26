@@ -1,0 +1,2 @@
+# Browser scraping is disabled. Static public-script discovery uses requests only.
+-r requirements.txt

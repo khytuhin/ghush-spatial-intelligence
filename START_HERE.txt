@@ -1,0 +1,9 @@
+GHUSH SPATIAL INTELLIGENCE
+
+1. Read README.md and AUDIT.md.
+2. Preview from the project root: py -m http.server 8080 --directory site
+3. Open http://localhost:8080
+4. Follow DEPLOYMENT.md for GitHub Pages.
+5. The included map is synthetic, not a live Ghush feed.
+6. Obtain an approved allowed API/CSV feed before enabling automatic ingestion.
+7. Never bypass Ghush's /api/ robots restriction or upload raw report data.

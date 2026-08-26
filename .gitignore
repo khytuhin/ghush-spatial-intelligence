@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+.env.*
+!.env.example
+data/boundaries/
+data/debug/
+data/raw/*
+!data/raw/*.example.csv
+data/reference/population_adm3.csv
+site/data/refresh.json
+site/.staging-*/
+node_modules/
+work/
+.DS_Store

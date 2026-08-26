@@ -1,0 +1,51 @@
+{
+  "privacy": {
+    "minimum_public_reports": 5,
+    "suppress_low_counts": true
+  },
+  "matching": {
+    "allow_fuzzy": false,
+    "fuzzy_cutoff": 95
+  },
+  "quality": {
+    "minimum_match_rate": 0.8
+  },
+  "statistics": {
+    "enabled": true,
+    "minimum_reports_for_spatial_test": 20,
+    "live_permutations": 99
+  },
+  "periods": {
+    "30D": 30,
+    "90D": 90,
+    "365D": 365
+  },
+  "departments": [
+    "Land Office",
+    "Accounts Office",
+    "Tax Office",
+    "Customs Office",
+    "Traffic Police",
+    "BRTA",
+    "Passport Office",
+    "City Corporation",
+    "Sub-Registry Office",
+    "Education Office",
+    "Public Hospital",
+    "Other public service"
+  ],
+  "department_aliases": {
+    "ভূমি অফিস": "Land Office",
+    "হিসাবরক্ষণ অফিস": "Accounts Office",
+    "কর অফিস": "Tax Office",
+    "কাস্টমস অফিস": "Customs Office",
+    "ট্রাফিক পুলিশ": "Traffic Police",
+    "বিআরটিএ": "BRTA",
+    "পাসপোর্ট অফিস": "Passport Office",
+    "সিটি কর্পোরেশন": "City Corporation",
+    "সাব-রেজিস্ট্রি অফিস": "Sub-Registry Office",
+    "শিক্ষা অফিস": "Education Office",
+    "সরকারি হাসপাতাল": "Public Hospital",
+    "অন্যান্য সরকারি সেবা": "Other public service"
+  }
+}

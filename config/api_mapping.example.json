@@ -1,0 +1,24 @@
+{
+  "records_path": "reports",
+  "complete_snapshot": false,
+  "fields": {
+    "report_id": "id",
+    "reported_at": "created_at",
+    "department": "department",
+    "location": "location",
+    "upazila": "upazila",
+    "district": "district",
+    "division": "division",
+    "amount": "amount",
+    "outcome": "outcome"
+  },
+  "pagination": {
+    "mode": "offset",
+    "offset_param": "offset",
+    "limit_param": "limit",
+    "total_path": "total",
+    "page_size": 100,
+    "max_pages": 1000,
+    "delay_seconds": 1
+  }
+}

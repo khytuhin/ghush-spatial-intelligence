@@ -1,0 +1,4 @@
+report_id,reported_at,department,service,location,upazila,district,division,amount,outcome
+r001,2026-08-22T09:30:00Z,Land Office,Mutation,"Savar, Dhaka",Savar,Dhaka,Dhaka,8000,paid
+r002,2026-08-22T11:00:00Z,Land Office,Mutation,"Savar, Dhaka",Savar,Dhaka,Dhaka,10000,refused
+r003,2026-08-23T12:00:00Z,Passport Office,Passport renewal,"Uttara, Dhaka",Uttara,Dhaka,Dhaka,3500,pending

@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#f5f4ef">
+<meta name="description" content="Independent geographic analysis of privacy-safe public-service payment reports in Bangladesh. District maps and weekly reporting patterns, not corruption prevalence.">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob: https://a.basemaps.cartocdn.com; connect-src 'self' https://a.basemaps.cartocdn.com; worker-src 'self' blob:; object-src 'none'; base-uri 'self'; form-action 'none'">
+<title>Ghush — Spatial Intelligence</title>
+<link rel="icon" href="data:,"><link rel="stylesheet" href="./vendor/maplibre-gl.css"><link rel="stylesheet" href="./styles.css">
+<script defer src="./vendor/maplibre-gl.js"></script><script type="module" src="./app.js"></script>
+</head>
+<body>
+<a class="skip-link" href="#mapSection">Skip to map</a>
+<header class="topbar"><a class="brand" href="./" aria-label="Ghush Spatial Intelligence home">GHUSH<span> / SPATIAL INTELLIGENCE</span></a><div class="top-actions"><span id="freshness" role="status">Loading publication…</span><button id="methodBtn">Methodology ↗</button></div></header>
+<main class="workspace">
+<section class="intro"><div><p class="eyebrow">BANGLADESH / INDEPENDENT DATA OBSERVATORY</p><h1>Public reports.<br><span>Geographic context.</span></h1></div><p class="intro-note">Where reports concentrate.<br>How patterns change.<br><strong>Never a measure of corruption prevalence.</strong></p></section>
+<div id="demoBanner" class="demo-banner hidden"><strong>SYNTHETIC DEMO</strong><span>Illustrative reports on real administrative boundaries. No live Ghush connection.</span></div>
+<div id="appNotice" class="notice" role="status" hidden></div><button id="retryBtn" hidden>Retry loading</button>
+<section class="kpis" aria-label="Published summary statistics">
+<article><span>01 / Published reports</span><strong id="kpiReports">—</strong><small id="kpiCoverage">Publishable records only</small></article>
+<article><span>02 / Reported amount</span><strong id="kpiAmount">—</strong><small>Sum of reported amounts</small></article>
+<article><span>03 / Median amount</span><strong id="kpiMedian">—</strong><small>Pooled reports, not mean of medians</small></article>
+<article><span>04 / Refusal rate</span><strong id="kpiRefusal">—</strong><small>Share of published reports</small></article>
+<article><span>05 / Districts represented</span><strong id="kpiDistricts">—</strong><small>With publishable reports</small></article>
+<article><span>06 / Last verified refresh</span><strong id="kpiRefresh" class="date-value">—</strong><small id="refreshDetail">No verified source check</small></article>
+</section>
+<section class="map-workspace" aria-label="Map and geographic filters">
+<div class="section-heading map-heading"><h2><span class="section-number">01</span> Geographic explorer</h2><span id="viewContext">Bangladesh / Districts</span></div>
+<div class="controls-grid">
+<label><span>Map mode</span><select id="metricSelect" disabled><option value="report_count">Report activity</option><option value="total_amount">Money concentration</option><option value="median_amount">Median reported amount</option><option value="refusal_rate">Refusal rate</option><option value="reports_per_100k">Report rate / 100k</option><option value="report_share">Bias / reporting concentration</option><option value="gi_z">Hotspot / Gi*</option><option value="trend">Weekly trend</option></select></label>
+<label><span>Department</span><select id="departmentSelect" disabled><option value="ALL">All departments</option></select></label>
+<label><span>Time window</span><select id="periodSelect" disabled><option value="ALL">All available</option></select></label>
+<label><span>Division</span><select id="divisionSelect" disabled><option value="ALL">All divisions</option></select></label>
+<div class="search-wrap"><label for="areaSearch">Find a district / area</label><div class="search-row"><input id="areaSearch" type="search" list="areaOptions" autocomplete="off" placeholder="Search by area name" aria-describedby="searchFeedback" disabled><button id="searchBtn" aria-label="Search" disabled>↗</button></div><datalist id="areaOptions"></datalist></div>
+</div><p id="searchFeedback" class="feedback" role="status"></p>
+<div class="explorer">
+<section id="mapSection" class="map-shell" aria-label="Geographic explorer" tabindex="-1">
+<div id="map" aria-label="Bangladesh district polygons"></div>
+<div class="map-overlay layer-card"><p id="dataMode" class="eyebrow">PUBLISHED AGGREGATES</p><strong id="activeLayerLabel">Report activity</strong><div id="legend" class="legend"></div><p id="legendNote">Muted: no value or privacy withheld</p></div>
+<div id="mapStatus" class="map-status" role="status"></div>
+<div class="map-overlay map-footnote">Unverified allegations · administrative aggregates only</div>
+<aside id="inspector" class="inspector" aria-label="Area profile" hidden><button id="closeInspector" class="close-btn" aria-label="Close details">×</button><p class="eyebrow">AREA PROFILE</p><h3 id="areaName"></h3><p id="areaSubtitle"></p><p id="suppressionNote" class="notice" hidden>Withheld across all filters. A dash is not a zero.</p><div id="areaStats" class="area-stats"></div><p id="clusterCard" class="fine-print"></p><button id="drillBtn">Explore upazila detail →</button></aside>
+</section>
+<aside class="sidebar"><div class="section-heading"><h3 id="rankTitle">Report activity</h3><button id="resetBtn" class="text-btn" disabled>Bangladesh ↗</button></div><p class="fine-print">Ranked by the active map metric.</p><div id="rankList"></div><p class="fine-print">Published subsets only. Missing values do not mean no wrongdoing.</p></aside>
+</div>
+<div class="timeline"><button id="playBtn" aria-label="Play weekly map" disabled>▶ Play</button><label for="weekSlider">Week beginning <output id="weekLabel">All available</output></label><input type="range" id="weekSlider" min="0" max="0" value="0" aria-label="Weekly map timeline" disabled><button id="allTimeBtn" disabled>Exit weekly view</button><a id="downloadCsv" aria-disabled="true">Download weekly CSV ↓</a></div>
+<p id="modeNote" class="fine-print"></p>
+</section>
+<section class="analytics" aria-label="National and regional analysis">
+<div class="section-heading"><h2><span class="section-number">02</span> The eight divisions</h2><span class="analysis-context"></span></div><p class="section-note">Comparable published reporting activity. Select a row to focus the map; national share always uses the national published denominator.</p>
+<div id="divisionTable" class="table-scroll" tabindex="0" aria-label="Division comparison table"></div>
+<div class="analytics-grid">
+<section class="panel"><div class="section-heading"><h2><span class="section-number">03</span> Departments</h2><label class="compact-select">Compare by<select id="chartMetric" disabled><option value="report_count">Published reports</option><option value="total_amount">Reported amount</option><option value="median_amount">Median amount</option><option value="refusal_rate">Refusal rate</option></select></label></div><p class="section-note">Active division, department and time selection.</p><div id="departmentBars"></div></section>
+<section class="panel"><div class="section-heading"><h2>Department × Division</h2><span class="analysis-context"></span></div><p class="section-note">Cell shading uses the department comparison metric. Dash = unavailable or withheld.</p><div id="departmentMatrix" class="table-scroll" tabindex="0" aria-label="Department by division matrix"></div></section>
+</div>
+<section class="panel refusal-panel"><div class="section-heading"><h2><span class="section-number">04</span> Refusal, in context</h2><span class="analysis-context"></span></div><div class="refusal-grid"><div><h3>By division</h3><div id="refusalDivisions"></div></div><div><h3>By department</h3><div id="refusalDepartments"></div></div><div><h3>By reported amount</h3><div id="refusalBands"></div></div></div><p class="fine-print">Refusal / all published reports, including unknown outcomes. Sparse outcome groups are withheld. Amount bands are withheld together if any underlying band cell is too small.</p></section>
+<div class="analytics-grid">
+<section class="panel"><div class="section-heading"><h2><span class="section-number">05</span> Reporting bias</h2></div><p class="section-note">More reports can reflect population, platform adoption, internet access, service exposure and reporting behavior—not corruption prevalence.</p><p class="formula">Representation ratio = report share ÷ population share</p><p class="fine-print">1 proportional · above 1 over-represented · below 1 under-represented</p><div id="biasScatter"></div><div id="biasTable" class="table-scroll" tabindex="0" aria-label="Reporting representation by division"></div></section>
+<section class="panel"><div class="section-heading"><h2><span class="section-number">06</span> Regional pulse</h2><label class="compact-select">Weekly metric<select id="pulseMetric" disabled><option value="report_count">Reports</option><option value="total_amount">Amount</option><option value="median_amount">Median amount</option><option value="refusal_rate">Refusal rate</option></select></label></div><p id="pulseContext" class="section-note"></p><div id="pulseChart"></div><div id="trendSummary" class="trend-summary"></div><details><summary>Weekly values and departments</summary><div id="weeklyTable" class="table-scroll" tabindex="0" aria-label="Weekly reporting data"></div></details><p class="fine-print">Pulse uses complete Monday–Sunday UTC weeks, up to 52 weeks. Trend compares the last two complete weeks: at least 10 reports each, ≥20% and ≥k reports for a direction. Descriptive, not a significance test.</p></section>
+</div>
+</section>
+<footer class="footer"><strong>GHUSH / SPATIAL INTELLIGENCE</strong><p>Independent research. Not affiliated with GhushSite. Reports are unverified allegations.<br>No individual report coordinates, identities or descriptions are published.</p><p>Boundaries: <a href="https://www.geoboundaries.org/" target="_blank" rel="noopener">geoBoundaries gbOpen</a> · <a href="https://bangladesh.gov.bd/views/district-list/" target="_blank" rel="noopener">National Portal hierarchy</a><br><span id="boundaryNote"></span></p></footer>
+</main>
+<dialog id="methodDialog" aria-labelledby="methodTitle"><button id="closeMethod" class="close-btn" aria-label="Close methodology">×</button><p class="eyebrow">METHODS / SAFEGUARDS</p><h2 id="methodTitle">Context, not accusation.</h2><div class="method-grid">
+<section><h3>One publishable population</h3><p>Districts, divisions, departments and weeks all use the same publishable lower-level records. Raw report coordinates, IDs and descriptions never enter these products. Medians are computed from pooled eligible records.</p></section>
+<section><h3>Privacy threshold: <span id="privacyValue">5</span></h3><p>Any rare department × week × rolling-window cell withholds its whole upazila across every view. Monetary and outcome fields have additional withholding. Unsafe amount bands withhold the entire band table.</p></section>
+<section><h3>Spatial statistics</h3><p>Global and Local Moran and Gi* use publishable counts, Queen adjacency and seed 42. Local labels exclude islands. Results are exploratory, not corrected for multiple comparisons and never evidence of wrongdoing.</p></section>
+<section><h3>Coverage and denominators</h3><p>These are published reporting patterns, not estimated prevalence. Unknown dates are all-time only. Population rates and bias ratios need a complete, cited denominator matching the boundary version; otherwise they remain unavailable.</p></section></div>
+<p class="fine-print">Privacy suppression is not differential privacy. Comparing releases can disclose changes; an owner and privacy review is still required before live republication. The synthetic preview is not an observed dataset.</p>
+<p class="fine-print">The 2020 geoBoundaries ADM3 release has 544 lower administrative polygons, including urban units; it is not a claim that Bangladesh currently has 544 upazilas. Parent membership follows the pinned district crosswalk.</p>
+</dialog><noscript><p class="notice">JavaScript is required. No individual reports are hosted here.</p></noscript>
+</body></html>
+

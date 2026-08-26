@@ -1,0 +1,88 @@
+{
+  "boundary_id": "BGD-ADM2-16705992",
+  "source": "https://bangladesh.gov.bd/views/district-list/",
+  "verified_on": "2026-08-26",
+  "note": "District parent membership from the Bangladesh National Portal; keys preserve geoBoundaries 2020 spellings. ADM3 parents are validated by >=95% projected polygon overlap with ADM2.",
+  "divisions": {
+    "Dhaka": [
+      "Dhaka",
+      "Faridpur",
+      "Gazipur",
+      "Gopalganj",
+      "Kishoreganj",
+      "Madaripur",
+      "Manikganj",
+      "Munshiganj",
+      "Narayanganj",
+      "Narsingdi",
+      "Rajbari",
+      "Shariatpur",
+      "Tangail"
+    ],
+    "Chattogram": [
+      "Bandarban",
+      "Brahamanbaria",
+      "Chandpur",
+      "Chittagong",
+      "Comilla",
+      "Cox's Bazar",
+      "Feni",
+      "Khagrachhari",
+      "Lakshmipur",
+      "Noakhali",
+      "Rangamati"
+    ],
+    "Rajshahi": [
+      "Bogra",
+      "Joypurhat",
+      "Naogaon",
+      "Natore",
+      "Nawabganj",
+      "Pabna",
+      "Rajshahi",
+      "Sirajganj"
+    ],
+    "Khulna": [
+      "Bagerhat",
+      "Chuadanga",
+      "Jessore",
+      "Jhenaidah",
+      "Khulna",
+      "Kushtia",
+      "Magura",
+      "Meherpur",
+      "Narail",
+      "Satkhira"
+    ],
+    "Barishal": [
+      "Jhalokati",
+      "Barguna",
+      "Barisal",
+      "Bhola",
+      "Patuakhali",
+      "Pirojpur"
+    ],
+    "Sylhet": [
+      "Habiganj",
+      "Maulvibazar",
+      "Sunamganj",
+      "Sylhet"
+    ],
+    "Rangpur": [
+      "Dinajpur",
+      "Gaibandha",
+      "Kurigram",
+      "Lalmonirhat",
+      "Nilphamari",
+      "Panchagarh",
+      "Rangpur",
+      "Thakurgaon"
+    ],
+    "Mymensingh": [
+      "Jamalpur",
+      "Mymensingh",
+      "Netrakona",
+      "Sherpur"
+    ]
+  }
+}
