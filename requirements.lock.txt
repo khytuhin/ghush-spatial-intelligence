@@ -9,7 +9,7 @@ charset-normalizer==3.5.1
 esda==2.10.0
 geopandas==1.1.4
 idna==3.19
-joblib==1.5.3
+joblib==1.6.0
 libpysal==4.15.0
 narwhals==2.25.0
 numpy==2.2.6
