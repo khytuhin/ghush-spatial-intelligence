@@ -14,7 +14,7 @@ libpysal==4.15.0
 narwhals==2.25.0
 numpy==2.2.6
 packaging==26.3
-pandas==2.3.3
+pandas==3.0.6
 platformdirs==4.11.4
 pyogrio==0.13.0
 pyproj==3.7.2
